@@ -1,0 +1,2305 @@
+"cause","sex","age","n","rt_upper","rt_lower","rt"
+"Non-communicable diseases","Males","0-6 days",1545.74,5914.34,2621.77,3667.16
+"Non-communicable diseases","Males","7-27 days",604.939,669.694,355.942,479.521
+"Non-communicable diseases","Males","28-364 days",2221.06,170.809,78.7436,110.167
+"Non-communicable diseases","Males","1-4 years",1097.66,21.0545,8.41044,12.7853
+"Non-communicable diseases","Males","5-9 years",724.224,8.48624,5.73857,6.90758
+"Non-communicable diseases","Males","10-14 years",775.439,9.42216,6.43258,7.67775
+"Non-communicable diseases","Males","15-19 years",1853.21,22.4774,13.4082,17.269
+"Non-communicable diseases","Males","20-24 years",3378.46,40.6592,22.8538,31.0166
+"Non-communicable diseases","Males","25-29 years",4559.37,56.8875,31.9999,41.7395
+"Non-communicable diseases","Males","30-34 years",5949.71,71.3812,47.6071,58.2197
+"Non-communicable diseases","Males","35-39 years",9203.31,109.283,80.28,91.3033
+"Non-communicable diseases","Males","40-44 years",17622.3,191.417,154.263,168.649
+"Non-communicable diseases","Males","45-49 years",33339.3,319.632,283.043,298.633
+"Non-communicable diseases","Males","50-54 years",54383.8,526.589,483.54,502.531
+"Non-communicable diseases","Males","55-59 years",71701.8,781.84,740.681,759.18
+"Non-communicable diseases","Males","60-64 years",95124,1216.59,1170.88,1190.49
+"Non-communicable diseases","Males","65-69 years",103957,1849.79,1793.7,1818.56
+"Non-communicable diseases","Males","70-74 years",118188,2874.5,2788.2,2831.01
+"Non-communicable diseases","Males","75-79 years",140784,4526.83,4383.03,4459.3
+"Non-communicable diseases","Males","80+ years",447619,10965.8,10433.5,10736.7
+"Non-communicable diseases","Females","0-6 days",1281.02,5042.05,2324.4,3187.34
+"Non-communicable diseases","Females","7-27 days",532.993,593.424,338.245,442.936
+"Non-communicable diseases","Females","28-364 days",1881.25,156.543,67.5352,97.7971
+"Non-communicable diseases","Females","1-4 years",944.112,17.006,8.6991,11.5172
+"Non-communicable diseases","Females","5-9 years",609.754,7.56538,5.01042,6.08193
+"Non-communicable diseases","Females","10-14 years",616.667,7.70008,5.35755,6.39285
+"Non-communicable diseases","Females","15-19 years",1104.91,13.6006,8.62484,10.8032
+"Non-communicable diseases","Females","20-24 years",1799.59,21.4722,14.607,17.418
+"Non-communicable diseases","Females","25-29 years",2564.77,28.8897,21.4354,24.878
+"Non-communicable diseases","Females","30-34 years",3871.75,44.1862,34.6412,39.2262
+"Non-communicable diseases","Females","35-39 years",6698.77,74.0342,61.9548,67.6348
+"Non-communicable diseases","Females","40-44 years",12759.5,131.404,114.67,122.71
+"Non-communicable diseases","Females","45-49 years",23402.6,216.927,196.107,205.852
+"Non-communicable diseases","Females","50-54 years",35818.2,331.167,309.093,319.337
+"Non-communicable diseases","Females","55-59 years",49010.3,503.693,479.168,489.91
+"Non-communicable diseases","Females","60-64 years",68495.9,807.037,778.066,791.236
+"Non-communicable diseases","Females","65-69 years",79543.7,1250.06,1212.09,1229.78
+"Non-communicable diseases","Females","70-74 years",97372.8,1979.63,1918.66,1945.21
+"Non-communicable diseases","Females","75-79 years",129254,3161.49,3053.68,3108.75
+"Non-communicable diseases","Females","80+ years",707351,9864.15,9359.48,9646.22
+"Ischemic heart disease","Males","28-364 days",45.4226,4.56895,0.817703,2.25301
+"Ischemic heart disease","Males","1-4 years",32.95,0.728594,0.162734,0.383793
+"Ischemic heart disease","Males","5-9 years",18.216,0.344581,0.0634024,0.173742
+"Ischemic heart disease","Males","10-14 years",26.9093,0.516549,0.0990899,0.266434
+"Ischemic heart disease","Males","15-19 years",89.2049,1.56431,0.360127,0.831246
+"Ischemic heart disease","Males","20-24 years",181.092,2.85632,0.825559,1.66254
+"Ischemic heart disease","Males","25-29 years",331.535,4.67663,1.67293,3.03509
+"Ischemic heart disease","Males","30-34 years",638.509,8.9234,3.76816,6.24801
+"Ischemic heart disease","Males","35-39 years",1365.57,18.0484,9.01058,13.5474
+"Ischemic heart disease","Males","40-44 years",3421.43,41.8975,24.6583,32.7438
+"Ischemic heart disease","Males","45-49 years",7377.23,80.6784,53.3675,66.0806
+"Ischemic heart disease","Males","50-54 years",12928.6,142.873,102.088,119.466
+"Ischemic heart disease","Males","55-59 years",17015,211.995,154.487,180.155
+"Ischemic heart disease","Males","60-64 years",22533,324.905,242.998,282.003
+"Ischemic heart disease","Males","65-69 years",23723.5,485.974,356.288,415.005
+"Ischemic heart disease","Males","70-74 years",27125.6,770.967,572.749,649.752
+"Ischemic heart disease","Males","75-79 years",33542.6,1256.77,933.331,1062.46
+"Ischemic heart disease","Males","80+ years",127113,3624.51,2684.44,3048.96
+"Ischemic heart disease","Females","28-364 days",32.0227,3.49274,0.568802,1.66471
+"Ischemic heart disease","Females","1-4 years",29.1917,0.746171,0.129403,0.356109
+"Ischemic heart disease","Females","5-9 years",14.7423,0.324276,0.0556716,0.147045
+"Ischemic heart disease","Females","10-14 years",16.0006,0.362214,0.0585148,0.165875
+"Ischemic heart disease","Females","15-19 years",40.2646,0.86054,0.162041,0.393687
+"Ischemic heart disease","Females","20-24 years",75.2132,1.45129,0.292452,0.727981
+"Ischemic heart disease","Females","25-29 years",128.06,2.11885,0.612416,1.24217
+"Ischemic heart disease","Females","30-34 years",244.036,3.9055,1.37328,2.47241
+"Ischemic heart disease","Females","35-39 years",532.897,7.85047,3.15487,5.38045
+"Ischemic heart disease","Females","40-44 years",1262.48,16.7373,8.09032,12.1415
+"Ischemic heart disease","Females","45-49 years",2579.98,29.6581,17.0706,22.6938
+"Ischemic heart disease","Females","50-54 years",4399.79,51.7792,29.4036,39.2262
+"Ischemic heart disease","Females","55-59 years",6617.91,90.2775,52.0117,66.1531
+"Ischemic heart disease","Females","60-64 years",10342.8,163.011,95.5311,119.476
+"Ischemic heart disease","Females","65-69 years",12925.9,282.376,161.614,199.841
+"Ischemic heart disease","Females","70-74 years",17754.6,492.932,293.789,354.683
+"Ischemic heart disease","Females","75-79 years",26895.2,889.775,539.162,646.87
+"Ischemic heart disease","Females","80+ years",201486,3629.25,2309.98,2747.69
+"Neurological disorders","Males","28-364 days",114.958,11.3591,2.57387,5.70202
+"Neurological disorders","Males","1-4 years",75.1321,1.72494,0.411728,0.875121
+"Neurological disorders","Males","5-9 years",49.4163,0.789443,0.285631,0.471328
+"Neurological disorders","Males","10-14 years",71.6145,1.19738,0.413745,0.709068
+"Neurological disorders","Males","15-19 years",192.593,3.41369,0.935269,1.79466
+"Neurological disorders","Males","20-24 years",218.576,3.41546,1.18368,2.00667
+"Neurological disorders","Males","25-29 years",182.323,2.70103,1.03832,1.6691
+"Neurological disorders","Males","30-34 years",182.257,2.72884,1.13007,1.78344
+"Neurological disorders","Males","35-39 years",244.221,3.58139,1.59679,2.42284
+"Neurological disorders","Males","40-44 years",399.701,5.63096,2.58732,3.82523
+"Neurological disorders","Males","45-49 years",656.66,8.65335,3.927,5.88195
+"Neurological disorders","Males","50-54 years",1004.02,13.3397,6.39842,9.2776
+"Neurological disorders","Males","55-59 years",1405.64,20.368,10.6196,14.883
+"Neurological disorders","Males","60-64 years",2230.26,38.8848,19.7678,27.912
+"Neurological disorders","Males","65-69 years",3162.26,77.0069,40.6892,55.3187
+"Neurological disorders","Males","70-74 years",5576.03,178.102,91.0799,133.565
+"Neurological disorders","Males","75-79 years",9949.94,437.485,202.556,315.163
+"Neurological disorders","Males","80+ years",49383.5,1801.26,621.841,1184.52
+"Neurological disorders","Females","28-364 days",89.5923,10.6491,1.7668,4.65748
+"Neurological disorders","Females","1-4 years",71.3991,1.71398,0.403752,0.870997
+"Neurological disorders","Females","5-9 years",43.8491,0.765499,0.228482,0.437368
+"Neurological disorders","Females","10-14 years",44.4216,0.792936,0.252853,0.460508
+"Neurological disorders","Females","15-19 years",60.4059,1.0181,0.322263,0.59062
+"Neurological disorders","Females","20-24 years",84.8551,1.31847,0.484218,0.821304
+"Neurological disorders","Females","25-29 years",94.8617,1.42014,0.542618,0.920152
+"Neurological disorders","Females","30-34 years",126.648,2.01014,0.780979,1.28312
+"Neurological disorders","Females","35-39 years",190.301,2.91515,1.18432,1.92139
+"Neurological disorders","Females","40-44 years",330.956,4.82545,2.05847,3.18285
+"Neurological disorders","Females","45-49 years",593.103,7.70309,3.43189,5.21701
+"Neurological disorders","Females","50-54 years",918.443,12.5253,5.34995,8.18837
+"Neurological disorders","Females","55-59 years",1334.31,19.3174,8.83995,13.3378
+"Neurological disorders","Females","60-64 years",2047.17,34.1547,15.691,23.648
+"Neurological disorders","Females","65-69 years",2864.82,61.8874,28.7158,44.2915
+"Neurological disorders","Females","70-74 years",5137.31,145.89,62.3519,102.628
+"Neurological disorders","Females","75-79 years",10533.6,376.198,127.377,253.349
+"Neurological disorders","Females","80+ years",102396,2311.03,510.384,1396.38
+"Chronic respiratory diseases","Males","0-6 days",4.04939,16.4025,5.25824,9.60687
+"Chronic respiratory diseases","Males","7-27 days",4.78139,6.33845,1.99578,3.79009
+"Chronic respiratory diseases","Males","28-364 days",111.947,10.1924,2.6599,5.55269
+"Chronic respiratory diseases","Males","1-4 years",75.1272,1.47679,0.48071,0.875064
+"Chronic respiratory diseases","Males","5-9 years",43.0494,0.662247,0.23015,0.410601
+"Chronic respiratory diseases","Males","10-14 years",48.093,0.753128,0.26963,0.476177
+"Chronic respiratory diseases","Males","15-19 years",66.155,0.983368,0.360447,0.616458
+"Chronic respiratory diseases","Males","20-24 years",85.5689,1.18417,0.482891,0.78558
+"Chronic respiratory diseases","Males","25-29 years",94.8871,1.3078,0.536145,0.868659
+"Chronic respiratory diseases","Males","30-34 years",104.979,1.55596,0.648592,1.02725
+"Chronic respiratory diseases","Males","35-39 years",166.597,2.33886,1.0867,1.65276
+"Chronic respiratory diseases","Males","40-44 years",351.952,4.55546,2.39351,3.36826
+"Chronic respiratory diseases","Males","45-49 years",850.545,9.93852,5.67164,7.61865
+"Chronic respiratory diseases","Males","50-54 years",1840.47,21.4581,13.2189,17.0068
+"Chronic respiratory diseases","Males","55-59 years",3154.65,40.4864,26.8589,33.4015
+"Chronic respiratory diseases","Males","60-64 years",5857.14,86.168,61.6354,73.3028
+"Chronic respiratory diseases","Males","65-69 years",8319.3,169.533,123.906,145.533
+"Chronic respiratory diseases","Males","70-74 years",11143.5,305.216,229.673,266.924
+"Chronic respiratory diseases","Males","75-79 years",14272.2,516.585,391.426,452.069
+"Chronic respiratory diseases","Males","80+ years",41784.4,1170.78,834.38,1002.25
+"Chronic respiratory diseases","Females","0-6 days",3.22067,13.3649,4.39648,8.01341
+"Chronic respiratory diseases","Females","7-27 days",4.09544,5.83566,1.85584,3.40345
+"Chronic respiratory diseases","Females","28-364 days",71.7678,6.20031,1.89955,3.73087
+"Chronic respiratory diseases","Females","1-4 years",51.6193,1.07027,0.330378,0.629703
+"Chronic respiratory diseases","Females","5-9 years",26.1453,0.421758,0.147483,0.260783
+"Chronic respiratory diseases","Females","10-14 years",31.2557,0.509743,0.186354,0.324021
+"Chronic respiratory diseases","Females","15-19 years",47.2654,0.779535,0.238423,0.462139
+"Chronic respiratory diseases","Females","20-24 years",55.7149,0.920279,0.279462,0.539259
+"Chronic respiratory diseases","Females","25-29 years",71.2295,1.12106,0.4086,0.690922
+"Chronic respiratory diseases","Females","30-34 years",103.273,1.55306,0.656637,1.0463
+"Chronic respiratory diseases","Females","35-39 years",169.831,2.57745,1.07029,1.71471
+"Chronic respiratory diseases","Females","40-44 years",399.504,5.34852,2.55682,3.8421
+"Chronic respiratory diseases","Females","45-49 years",901.565,10.4755,5.69137,7.93027
+"Chronic respiratory diseases","Females","50-54 years",1741.68,20.1383,11.4018,15.5279
+"Chronic respiratory diseases","Females","55-59 years",2915.37,36.6332,22.7851,29.1422
+"Chronic respiratory diseases","Females","60-64 years",5426.47,78.2714,50.1574,62.6842
+"Chronic respiratory diseases","Females","65-69 years",7723.02,143.668,98.0678,119.401
+"Chronic respiratory diseases","Females","70-74 years",10405.7,245.021,169.297,207.874
+"Chronic respiratory diseases","Females","75-79 years",13363.5,382.275,264.253,321.414
+"Chronic respiratory diseases","Females","80+ years",52868.3,875.804,572.54,720.971
+"Injuries","Males","0-6 days",37.0872,130.402,59.3349,87.9866
+"Injuries","Males","7-27 days",47.7579,55.5315,20.5686,37.8565
+"Injuries","Males","28-364 days",656.474,48.4806,17.9953,32.5618
+"Injuries","Males","1-4 years",1358.88,23.5702,10.8327,15.8279
+"Injuries","Males","5-9 years",683.082,8.53302,5.25337,6.51517
+"Injuries","Males","10-14 years",1060.15,12.4969,8.89,10.4967
+"Injuries","Males","15-19 years",7186.06,71.8928,61.426,66.9625
+"Injuries","Males","20-24 years",11127.5,110.889,92.6223,102.157
+"Injuries","Males","25-29 years",9148.17,94.4749,69.6829,83.7484
+"Injuries","Males","30-34 years",7268.15,82.3363,58.3224,71.121
+"Injuries","Males","35-39 years",6919.48,80.4328,53.1896,68.646
+"Injuries","Males","40-44 years",7887.1,89.477,56.4496,75.4813
+"Injuries","Males","45-49 years",9048.93,95.7789,61.4871,81.0546
+"Injuries","Males","50-54 years",8830.18,98.2782,59.1317,81.5947
+"Injuries","Males","55-59 years",7189.91,91.7772,55.7473,76.1269
+"Injuries","Males","60-64 years",6276.89,95.6214,57.9023,78.5561
+"Injuries","Males","65-69 years",5064.75,107.276,66.7736,88.5997
+"Injuries","Males","70-74 years",4891.59,143.139,86.5494,117.17
+"Injuries","Males","75-79 years",5592.22,217.919,130.708,177.133
+"Injuries","Males","80+ years",18579.2,565.191,321.028,445.643
+"Injuries","Females","0-6 days",36.4108,131.384,60.3218,90.5944
+"Injuries","Females","7-27 days",42.5336,54.1885,22.1386,35.3469
+"Injuries","Females","28-364 days",501.341,37.8771,16.3927,26.0623
+"Injuries","Females","1-4 years",944.73,15.1661,8.53965,11.5247
+"Injuries","Females","5-9 years",468.957,5.96115,3.65156,4.67756
+"Injuries","Females","10-14 years",533.467,6.63272,4.53394,5.53033
+"Injuries","Females","15-19 years",2304.93,25.0558,19.7858,22.5365
+"Injuries","Females","20-24 years",2529.77,27.8995,20.9056,24.4854
+"Injuries","Females","25-29 years",2235.41,25.7857,18.0364,21.6833
+"Injuries","Females","30-34 years",2154.27,26.8327,17.144,21.8257
+"Injuries","Females","35-39 years",2524.32,31.6735,19.9439,25.487
+"Injuries","Females","40-44 years",3191.34,38.4219,22.4667,30.6916
+"Injuries","Females","45-49 years",3757.17,41.8666,23.2507,33.0485
+"Injuries","Females","50-54 years",3579.13,41.3223,22.1932,31.9097
+"Injuries","Females","55-59 years",3130.43,39.5868,21.6457,31.292
+"Injuries","Females","60-64 years",2965.46,42.5475,24.9392,34.2557
+"Injuries","Females","65-69 years",2679.36,51.7088,30.5217,41.424
+"Injuries","Females","70-74 years",2979.71,75.8759,43.07,59.5253
+"Injuries","Females","75-79 years",3930.9,120.274,65.5167,94.5441
+"Injuries","Females","80+ years",23299.2,434.229,205.541,317.734
+"Ischemic stroke","Males","28-364 days",29.301,3.45446,0.397627,1.45336
+"Ischemic stroke","Males","1-4 years",12.8465,0.317146,0.0564698,0.149633
+"Ischemic stroke","Males","5-9 years",6.60205,0.139572,0.01933,0.0629697
+"Ischemic stroke","Males","10-14 years",5.95178,0.115991,0.0204444,0.0589296
+"Ischemic stroke","Males","15-19 years",8.59294,0.152402,0.0351577,0.0800724
+"Ischemic stroke","Males","20-24 years",13.7227,0.205518,0.0683375,0.125983
+"Ischemic stroke","Males","25-29 years",17.2437,0.277853,0.0866893,0.15786
+"Ischemic stroke","Males","30-34 years",27.9532,0.500586,0.139514,0.273531
+"Ischemic stroke","Males","35-39 years",48.0274,0.799361,0.254241,0.476465
+"Ischemic stroke","Males","40-44 years",101.964,1.46867,0.626327,0.97582
+"Ischemic stroke","Males","45-49 years",219.393,2.7281,1.35038,1.96518
+"Ischemic stroke","Males","50-54 years",395.848,4.96266,2.66123,3.6578
+"Ischemic stroke","Males","55-59 years",654.459,9.05662,5.15996,6.92942
+"Ischemic stroke","Males","60-64 years",1332.53,21.5512,12.4609,16.6768
+"Ischemic stroke","Males","65-69 years",1845.25,41.9091,24.6448,32.2798
+"Ischemic stroke","Males","70-74 years",3144.51,97.6736,57.3575,75.3217
+"Ischemic stroke","Males","75-79 years",6071.95,253.153,145.849,192.328
+"Ischemic stroke","Males","80+ years",31186.7,980.976,582.848,748.049
+"Ischemic stroke","Females","28-364 days",19.2537,2.14884,0.342242,1.00091
+"Ischemic stroke","Females","1-4 years",16.0637,0.430589,0.0729769,0.195961
+"Ischemic stroke","Females","5-9 years",6.28947,0.130814,0.0220696,0.0627336
+"Ischemic stroke","Females","10-14 years",4.07496,0.0795178,0.0206474,0.0422442
+"Ischemic stroke","Females","15-19 years",6.96621,0.132209,0.0292408,0.0681122
+"Ischemic stroke","Females","20-24 years",10.5891,0.204677,0.0453908,0.102491
+"Ischemic stroke","Females","25-29 years",14.787,0.277862,0.0661702,0.143432
+"Ischemic stroke","Females","30-34 years",22.7512,0.389925,0.118223,0.230501
+"Ischemic stroke","Females","35-39 years",39.6006,0.702313,0.20532,0.399831
+"Ischemic stroke","Females","40-44 years",79.1702,1.18874,0.459396,0.761393
+"Ischemic stroke","Females","45-49 years",146.326,1.86007,0.847847,1.2871
+"Ischemic stroke","Females","50-54 years",259.573,3.23161,1.59669,2.31422
+"Ischemic stroke","Females","55-59 years",407.575,5.53856,2.84584,4.07415
+"Ischemic stroke","Females","60-64 years",892.783,14.0306,7.42253,10.3131
+"Ischemic stroke","Females","65-69 years",1571.99,33.3291,18.0751,24.3036
+"Ischemic stroke","Females","70-74 years",2699.11,71.515,40.3792,53.9199
+"Ischemic stroke","Females","75-79 years",7160.24,224.827,133.136,172.215
+"Ischemic stroke","Females","80+ years",66981.4,1219.29,727.183,913.433
+"Lower respiratory infections","Males","0-6 days",18.3761,93.6427,17.5378,43.596
+"Lower respiratory infections","Males","7-27 days",28.893,41.1434,11.6774,22.9028
+"Lower respiratory infections","Males","28-364 days",202.505,17.598,5.52653,10.0445
+"Lower respiratory infections","Males","1-4 years",97.2703,1.95461,0.577306,1.13298
+"Lower respiratory infections","Males","5-9 years",32.5964,0.569786,0.164056,0.310901
+"Lower respiratory infections","Males","10-14 years",30.3965,0.540228,0.145827,0.300961
+"Lower respiratory infections","Males","15-19 years",59.7743,0.960132,0.293856,0.557
+"Lower respiratory infections","Males","20-24 years",106.546,1.65679,0.508588,0.978167
+"Lower respiratory infections","Males","25-29 years",132.201,1.97433,0.650229,1.21025
+"Lower respiratory infections","Males","30-34 years",159.033,2.53872,0.834168,1.55619
+"Lower respiratory infections","Males","35-39 years",230.684,3.53815,1.34842,2.28855
+"Lower respiratory infections","Males","40-44 years",413.384,6.59735,2.39176,3.95617
+"Lower respiratory infections","Males","45-49 years",666.228,9.0171,3.83685,5.96765
+"Lower respiratory infections","Males","50-54 years",1002.13,13.7662,6.05931,9.26016
+"Lower respiratory infections","Males","55-59 years",1302.8,19.9652,9.14292,13.7941
+"Lower respiratory infections","Males","60-64 years",1773.22,31.6029,15.4519,22.1921
+"Lower respiratory infections","Males","65-69 years",2129.04,53.1562,26.2408,37.2442
+"Lower respiratory infections","Males","70-74 years",2962.69,104.16,48.1322,70.9665
+"Lower respiratory infections","Males","75-79 years",4464.4,205.921,95.4535,141.409
+"Lower respiratory infections","Males","80+ years",23759.2,868.352,373.758,569.891
+"Lower respiratory infections","Females","0-6 days",14.097,71.0678,15.5537,35.075
+"Lower respiratory infections","Females","7-27 days",18.963,28.2402,7.95492,15.7589
+"Lower respiratory infections","Females","28-364 days",140.113,12.062,4.01366,7.2838
+"Lower respiratory infections","Females","1-4 years",99.4599,2.15299,0.611261,1.21331
+"Lower respiratory infections","Females","5-9 years",30.7117,0.540186,0.157372,0.306331
+"Lower respiratory infections","Females","10-14 years",34.7323,0.653332,0.16684,0.360062
+"Lower respiratory infections","Females","15-19 years",52.7144,0.890356,0.262385,0.515415
+"Lower respiratory infections","Females","20-24 years",83.3545,1.36802,0.426199,0.80678
+"Lower respiratory infections","Females","25-29 years",103.882,1.5983,0.555677,1.00765
+"Lower respiratory infections","Females","30-34 years",134.148,2.1742,0.744514,1.3591
+"Lower respiratory infections","Females","35-39 years",201.96,3.26447,1.18623,2.03911
+"Lower respiratory infections","Females","40-44 years",338.855,4.91853,1.97663,3.25883
+"Lower respiratory infections","Females","45-49 years",542.853,6.98478,2.99759,4.77499
+"Lower respiratory infections","Females","50-54 years",760.576,10.4341,4.17018,6.7809
+"Lower respiratory infections","Females","55-59 years",989.406,14.6775,6.3201,9.89016
+"Lower respiratory infections","Females","60-64 years",1374.53,22.8519,10.3911,15.878
+"Lower respiratory infections","Females","65-69 years",1670.6,37.074,17.5737,25.8282
+"Lower respiratory infections","Females","70-74 years",2374.34,66.0744,32.6215,47.432
+"Lower respiratory infections","Females","75-79 years",3801.6,130.972,61.9216,91.4343
+"Lower respiratory infections","Females","80+ years",33109.2,706.374,299.578,451.514
+"Transport injuries","Males","0-6 days",2.96067,10.8973,4.18883,7.02397
+"Transport injuries","Males","7-27 days",3.62082,4.78032,1.58851,2.87013
+"Transport injuries","Males","28-364 days",61.924,5.23535,1.68729,3.0715
+"Transport injuries","Males","1-4 years",373.921,8.11138,2.4844,4.35535
+"Transport injuries","Males","5-9 years",329.032,4.82984,2.08587,3.13827
+"Transport injuries","Males","10-14 years",452.782,6.26189,3.25302,4.48308
+"Transport injuries","Males","15-19 years",3100.52,36.7087,21.5333,28.8918
+"Transport injuries","Males","20-24 years",4323.1,51.3149,30.6557,39.689
+"Transport injuries","Males","25-29 years",2967.57,37.9757,18.6066,27.1671
+"Transport injuries","Males","30-34 years",2109.96,29.1811,12.9746,20.6466
+"Transport injuries","Males","35-39 years",1930.59,27.098,12.0717,19.1528
+"Transport injuries","Males","40-44 years",2195.11,29.3322,12.7058,21.0077
+"Transport injuries","Males","45-49 years",2500.59,32.1129,13.226,22.3987
+"Transport injuries","Males","50-54 years",2434.95,31.4077,13.4341,22.5
+"Transport injuries","Males","55-59 years",1978.23,29.9313,11.7912,20.9456
+"Transport injuries","Males","60-64 years",1735.75,32.3135,12.0197,21.7231
+"Transport injuries","Males","65-69 years",1299.45,33.3859,12.1873,22.7317
+"Transport injuries","Males","70-74 years",1150.36,41.6074,15.1232,27.555
+"Transport injuries","Males","75-79 years",1095.93,51.9161,21.6137,34.7133
+"Transport injuries","Males","80+ years",2356.67,100.321,34.1492,56.5273
+"Transport injuries","Females","0-6 days",2.8063,11.1224,4.23062,6.98241
+"Transport injuries","Females","7-27 days",2.54125,3.50526,1.12428,2.11187
+"Transport injuries","Females","28-364 days",51.0274,5.07905,1.22173,2.65267
+"Transport injuries","Females","1-4 years",281.557,5.43052,2.02468,3.43471
+"Transport injuries","Females","5-9 years",236.117,3.44585,1.51465,2.35513
+"Transport injuries","Females","10-14 years",268.939,3.7736,1.96612,2.78803
+"Transport injuries","Females","15-19 years",1437.02,16.9176,11.1114,14.0504
+"Transport injuries","Females","20-24 years",1235.87,15.2452,8.93799,11.9618
+"Transport injuries","Females","25-29 years",837.211,10.9914,5.8156,8.12089
+"Transport injuries","Females","30-34 years",693,9.97437,4.87659,7.02104
+"Transport injuries","Females","35-39 years",740.453,11.2264,4.95981,7.47606
+"Transport injuries","Females","40-44 years",874.963,12.2996,5.56399,8.41467
+"Transport injuries","Females","45-49 years",982.906,12.9318,5.20219,8.64576
+"Transport injuries","Females","50-54 years",918.987,12.4561,5.18722,8.19322
+"Transport injuries","Females","55-59 years",885.277,12.8722,5.57597,8.84928
+"Transport injuries","Females","60-64 years",887.513,14.9351,6.52901,10.2522
+"Transport injuries","Females","65-69 years",768.478,17.2809,7.6085,11.881
+"Transport injuries","Females","70-74 years",747.844,22.7953,9.39713,14.9396
+"Transport injuries","Females","75-79 years",781.117,29.8297,11.9985,18.7871
+"Transport injuries","Females","80+ years",1947.57,48.5636,15.8814,26.5593
+"Hypertensive heart disease","Males","28-364 days",5.97132,0.54203,0.123625,0.296184
+"Hypertensive heart disease","Males","1-4 years",5.84624,0.122745,0.0297358,0.0680956
+"Hypertensive heart disease","Males","5-9 years",2.38164,0.039147,0.0100206,0.0227159
+"Hypertensive heart disease","Males","10-14 years",3.60768,0.0619223,0.0157805,0.0357203
+"Hypertensive heart disease","Males","15-19 years",12.8289,0.205108,0.0595397,0.119544
+"Hypertensive heart disease","Males","20-24 years",35.1251,0.519689,0.172214,0.322472
+"Hypertensive heart disease","Males","25-29 years",71.2769,1.15085,0.286486,0.652516
+"Hypertensive heart disease","Males","30-34 years",126.124,2.19623,0.590216,1.23416
+"Hypertensive heart disease","Males","35-39 years",246.757,4.54638,1.25588,2.448
+"Hypertensive heart disease","Males","40-44 years",504.316,7.99729,2.89521,4.82642
+"Hypertensive heart disease","Males","45-49 years",952.239,12.942,4.8041,8.52956
+"Hypertensive heart disease","Males","50-54 years",1394.95,18.9899,8.12449,12.8899
+"Hypertensive heart disease","Males","55-59 years",1569.43,24.0457,10.9348,16.6172
+"Hypertensive heart disease","Males","60-64 years",1729.7,33.0052,14.4142,21.6474
+"Hypertensive heart disease","Males","65-69 years",1572.93,41.2834,18.8935,27.5159
+"Hypertensive heart disease","Males","70-74 years",1538.41,59.278,25.3674,36.8501
+"Hypertensive heart disease","Males","75-79 years",1749.32,90.5972,37.443,55.4095
+"Hypertensive heart disease","Males","80+ years",6812.66,259.473,113.437,163.41
+"Hypertensive heart disease","Females","28-364 days",3.17016,0.299623,0.0781162,0.164802
+"Hypertensive heart disease","Females","1-4 years",3.78066,0.0854979,0.0244245,0.0461202
+"Hypertensive heart disease","Females","5-9 years",1.40896,0.0332776,0.00679493,0.0140536
+"Hypertensive heart disease","Females","10-14 years",1.64096,0.0362465,0.0090951,0.0170115
+"Hypertensive heart disease","Females","15-19 years",3.72049,0.0683195,0.0193833,0.0363772
+"Hypertensive heart disease","Females","20-24 years",8.90557,0.156624,0.0453039,0.0861962
+"Hypertensive heart disease","Females","25-29 years",19.5044,0.323381,0.108341,0.189192
+"Hypertensive heart disease","Females","30-34 years",39.2142,0.691468,0.211905,0.397293
+"Hypertensive heart disease","Females","35-39 years",86.3911,1.40925,0.514762,0.872256
+"Hypertensive heart disease","Females","40-44 years",221.265,3.69176,1.16487,2.12794
+"Hypertensive heart disease","Females","45-49 years",433.441,6.7248,1.96657,3.8126
+"Hypertensive heart disease","Females","50-54 years",635.956,9.33873,3.086,5.66986
+"Hypertensive heart disease","Females","55-59 years",815.33,14.1078,4.12924,8.15009
+"Hypertensive heart disease","Females","60-64 years",1083.4,20.5632,7.35496,12.515
+"Hypertensive heart disease","Females","65-69 years",1233.15,31.5117,10.333,19.065
+"Hypertensive heart disease","Females","70-74 years",1599.64,52.9385,18.2628,31.9559
+"Hypertensive heart disease","Females","75-79 years",2356.76,98.9723,31.2737,56.6837
+"Hypertensive heart disease","Females","80+ years",17829.4,369.13,151.752,243.142
+"Road injury","Males","0-6 days",2.62464,10.1046,3.45952,6.22675
+"Road injury","Males","7-27 days",3.36589,4.56391,1.38627,2.66806
+"Road injury","Males","28-364 days",59.8422,5.16919,1.59127,2.96823
+"Road injury","Males","1-4 years",356.89,7.8746,2.33011,4.15697
+"Road injury","Males","5-9 years",298.145,4.6881,1.79475,2.84368
+"Road injury","Males","10-14 years",389.888,5.81637,2.61293,3.86035
+"Road injury","Males","15-19 years",2930.84,35.5375,19.5763,27.3107
+"Road injury","Males","20-24 years",4119.03,49.3227,28.5133,37.8154
+"Road injury","Males","25-29 years",2783.18,35.9892,16.8977,25.4791
+"Road injury","Males","30-34 years",1948.5,27.4036,11.5256,19.0667
+"Road injury","Males","35-39 years",1751.62,25.0996,10.6217,17.3773
+"Road injury","Males","40-44 years",1985.45,27.5278,10.7299,19.0012
+"Road injury","Males","45-49 years",2266.56,29.8444,11.4637,20.3024
+"Road injury","Males","50-54 years",2198.28,29.3219,11.4663,20.3131
+"Road injury","Males","55-59 years",1785.86,27.3393,10.2132,18.9087
+"Road injury","Males","60-64 years",1561.85,29.0388,10.3284,19.5468
+"Road injury","Males","65-69 years",1171.5,30.9227,10.6916,20.4935
+"Road injury","Males","70-74 years",1053.93,39.9955,13.3544,25.2452
+"Road injury","Males","75-79 years",1028.69,50.1776,19.6738,32.5836
+"Road injury","Males","80+ years",2254.78,98.8217,32.3487,54.0835
+"Road injury","Females","0-6 days",2.652,10.7477,3.87096,6.5985
+"Road injury","Females","7-27 days",2.42124,3.42018,1.03144,2.01213
+"Road injury","Females","28-364 days",49.8996,5.01292,1.17394,2.59404
+"Road injury","Females","1-4 years",271.591,5.25916,1.92049,3.31313
+"Road injury","Females","5-9 years",213.158,3.22257,1.37093,2.12612
+"Road injury","Females","10-14 years",241.079,3.52692,1.69349,2.49921
+"Road injury","Females","15-19 years",1385.34,16.4486,10.6488,13.5452
+"Road injury","Females","20-24 years",1195.3,14.9066,8.51819,11.5691
+"Road injury","Females","25-29 years",804.085,10.6622,5.51692,7.79956
+"Road injury","Females","30-34 years",662.834,9.62165,4.61926,6.71541
+"Road injury","Females","35-39 years",707.568,10.8919,4.71215,7.14403
+"Road injury","Females","40-44 years",835.309,11.9226,5.22712,8.0333
+"Road injury","Females","45-49 years",937.498,12.5606,4.84402,8.24634
+"Road injury","Females","50-54 years",880.353,12.1279,4.86027,7.84877
+"Road injury","Females","55-59 years",850.111,12.5896,5.25818,8.49777
+"Road injury","Females","60-64 years",857.579,14.5789,6.17369,9.90639
+"Road injury","Females","65-69 years",744.146,16.8808,7.38291,11.5048
+"Road injury","Females","70-74 years",733.436,22.6085,9.14443,14.6518
+"Road injury","Females","75-79 years",759.322,29.5339,11.5393,18.2629
+"Road injury","Females","80+ years",1916.67,48.1822,15.5323,26.1379
+"Breast cancer","Females","15-19 years",1.49753,0.0332068,0.00519067,0.0146422
+"Breast cancer","Females","20-24 years",14.8106,0.28351,0.0636183,0.143351
+"Breast cancer","Females","25-29 years",78.4088,1.36235,0.409687,0.76056
+"Breast cancer","Females","30-34 years",294.898,4.3982,1.94659,2.98772
+"Breast cancer","Females","35-39 years",735.843,9.54218,5.55858,7.42952
+"Breast cancer","Females","40-44 years",1462.02,17.8123,11.1022,14.0605
+"Breast cancer","Females","45-49 years",2574.81,27.7195,18.0273,22.6483
+"Breast cancer","Females","50-54 years",3692.94,39.9153,26.5084,32.9244
+"Breast cancer","Females","55-59 years",4402.92,53.309,36.1036,44.0119
+"Breast cancer","Females","60-64 years",5067.47,70.9801,47.0269,58.5373
+"Breast cancer","Females","65-69 years",4490.49,84.5584,54.6286,69.425
+"Breast cancer","Females","70-74 years",4130.83,102.036,65.7596,82.5211
+"Breast cancer","Females","75-79 years",4186.91,124.546,78.8508,100.702
+"Breast cancer","Females","80+ years",11428,201.639,114.675,155.845
+"Pancreatic cancer","Males","15-19 years",2.5569,0.10309,0.00282989,0.0238262
+"Pancreatic cancer","Males","20-24 years",4.53454,0.164123,0.00399419,0.0416301
+"Pancreatic cancer","Males","25-29 years",10.2976,0.294921,0.0162131,0.094271
+"Pancreatic cancer","Males","30-34 years",30.0655,0.664989,0.106522,0.2942
+"Pancreatic cancer","Males","35-39 years",85.4626,1.55793,0.412219,0.847849
+"Pancreatic cancer","Males","40-44 years",229.307,3.67759,1.21777,2.19452
+"Pancreatic cancer","Males","45-49 years",603.56,8.92363,3.12837,5.40631
+"Pancreatic cancer","Males","50-54 years",1202.19,16.5811,6.81688,11.1088
+"Pancreatic cancer","Males","55-59 years",1849.34,28.6166,11.6091,19.5808
+"Pancreatic cancer","Males","60-64 years",2492.16,44.817,19.9632,31.1897
+"Pancreatic cancer","Males","65-69 years",2588.79,62.7165,28.9285,45.2867
+"Pancreatic cancer","Males","70-74 years",2632.97,88.2363,39.4854,63.0686
+"Pancreatic cancer","Males","75-79 years",2510.17,118.452,47.2198,79.5093
+"Pancreatic cancer","Males","80+ years",4582.35,169.989,62.9952,109.913
+"Pancreatic cancer","Females","15-19 years",1.93059,0.0778772,0.00133551,0.0188764
+"Pancreatic cancer","Females","20-24 years",4.98978,0.176752,0.00685493,0.0482956
+"Pancreatic cancer","Females","25-29 years",10.5169,0.357585,0.013659,0.102013
+"Pancreatic cancer","Females","30-34 years",27.3867,1.2245,0.02806,0.277465
+"Pancreatic cancer","Females","35-39 years",65.0837,1.80707,0.187823,0.657124
+"Pancreatic cancer","Females","40-44 years",176.274,3.52042,0.632456,1.69526
+"Pancreatic cancer","Females","45-49 years",438.007,7.82916,1.82714,3.85276
+"Pancreatic cancer","Females","50-54 years",817.031,12.932,3.82547,7.28423
+"Pancreatic cancer","Females","55-59 years",1362.56,22.9211,7.21367,13.6202
+"Pancreatic cancer","Females","60-64 years",1957.9,36.5761,12.3239,22.6168
+"Pancreatic cancer","Females","65-69 years",2259.56,58.8688,19.8862,34.9338
+"Pancreatic cancer","Females","70-74 years",2595.89,82.5994,31.3766,51.8579
+"Pancreatic cancer","Females","75-79 years",2848.33,116.009,34.894,68.5068
+"Pancreatic cancer","Females","80+ years",7576.84,183.894,55.5102,103.326
+"Self-harm","Males","5-9 years",4.74983,0.084975,0.019388,0.0453034
+"Self-harm","Males","10-14 years",172.571,2.81338,0.880331,1.70866
+"Self-harm","Males","15-19 years",1408.93,18.7515,8.40559,13.1289
+"Self-harm","Males","20-24 years",2435.03,31.0689,14.3754,22.3552
+"Self-harm","Males","25-29 years",2228.25,29.5689,13.4012,20.3989
+"Self-harm","Males","30-34 years",2002.74,26.8011,12.6819,19.5975
+"Self-harm","Males","35-39 years",2144.18,29.4511,12.193,21.2717
+"Self-harm","Males","40-44 years",2555.99,33.3979,13.6189,24.4614
+"Self-harm","Males","45-49 years",2996.38,36.945,14.665,26.8397
+"Self-harm","Males","50-54 years",2998.73,38.505,16.0315,27.7096
+"Self-harm","Males","55-59 years",2402.12,37.1295,14.2905,25.4337
+"Self-harm","Males","60-64 years",1913.76,36.9285,13.087,23.951
+"Self-harm","Males","65-69 years",1424.45,41.0076,14.2549,24.9186
+"Self-harm","Males","70-74 years",1207.4,50.1805,18.1909,28.9214
+"Self-harm","Males","75-79 years",1168.59,68.9668,22.2544,37.015
+"Self-harm","Males","80+ years",2211.92,101.674,32.9069,53.0554
+"Self-harm","Females","5-9 years",1.57369,0.0316045,0.0051436,0.0156966
+"Self-harm","Females","10-14 years",70.8713,1.43655,0.309979,0.734707
+"Self-harm","Females","15-19 years",335.258,5.01936,1.78093,3.27799
+"Self-harm","Females","20-24 years",428.609,6.22702,2.30593,4.14846
+"Self-harm","Females","25-29 years",469.772,7.05388,2.55887,4.55675
+"Self-harm","Females","30-34 years",509.163,8.68647,2.86431,5.15852
+"Self-harm","Females","35-39 years",666.362,10.4403,3.82922,6.72799
+"Self-harm","Females","40-44 years",876.843,12.6659,4.76654,8.43274
+"Self-harm","Females","45-49 years",1041.75,13.9999,4.80715,9.16338
+"Self-harm","Females","50-54 years",1012.56,13.0446,4.70028,9.02744
+"Self-harm","Females","55-59 years",795.657,11.8345,3.84768,7.95344
+"Self-harm","Females","60-64 years",580.068,11.0908,3.36044,6.7007
+"Self-harm","Females","65-69 years",351.388,9.75871,2.88994,5.43261
+"Self-harm","Females","70-74 years",246.912,8.52745,3.03632,4.93254
+"Self-harm","Females","75-79 years",198.685,9.44064,2.85913,4.77867
+"Self-harm","Females","80+ years",403.429,11.9044,3.16432,5.50161
+"Prostate cancer","Males","15-19 years",0.646412,0.0198664,0.000354685,0.00602352
+"Prostate cancer","Males","20-24 years",0.793674,0.0226224,0.000555081,0.00728646
+"Prostate cancer","Males","25-29 years",1.95578,0.0480849,0.00311954,0.0179045
+"Prostate cancer","Males","30-34 years",2.71676,0.0759289,0.00551828,0.0265843
+"Prostate cancer","Males","35-39 years",6.42375,0.175485,0.0168542,0.063728
+"Prostate cancer","Males","40-44 years",32.4387,0.691787,0.109245,0.310445
+"Prostate cancer","Males","45-49 years",127.113,2.76428,0.361936,1.1386
+"Prostate cancer","Males","50-54 years",436.34,8.48946,1.67488,4.03198
+"Prostate cancer","Males","55-59 years",1063.07,21.7491,4.77699,11.2558
+"Prostate cancer","Males","60-64 years",2146.87,48.9136,13.2386,26.8683
+"Prostate cancer","Males","65-69 years",3238.03,100.04,27.231,56.6442
+"Prostate cancer","Males","70-74 years",4459.9,192.749,57.7287,106.83
+"Prostate cancer","Males","75-79 years",5948.7,339.09,100.907,188.424
+"Prostate cancer","Males","80+ years",18457.9,842.994,227.648,442.735
+"Falls","Males","0-6 days",0.631762,2.7361,0.76028,1.49881
+"Falls","Males","7-27 days",0.784949,1.08042,0.318411,0.62221
+"Falls","Males","28-364 days",12.173,1.20214,0.288574,0.603793
+"Falls","Males","1-4 years",35.6896,0.770144,0.200869,0.415704
+"Falls","Males","5-9 years",11.7847,0.209688,0.0534696,0.112401
+"Falls","Males","10-14 years",16.2239,0.288442,0.0770152,0.160636
+"Falls","Males","15-19 years",74.1969,1.16457,0.351076,0.691395
+"Falls","Males","20-24 years",150.029,2.22688,0.745085,1.37736
+"Falls","Males","25-29 years",150.339,2.26234,0.740954,1.3763
+"Falls","Males","30-34 years",154.889,2.46893,0.834588,1.51564
+"Falls","Males","35-39 years",186.985,2.94778,1.06594,1.85502
+"Falls","Males","40-44 years",297.186,4.27926,1.62522,2.84414
+"Falls","Males","45-49 years",446.814,6.14268,2.13423,4.00228
+"Falls","Males","50-54 years",566.834,8.06258,2.50392,5.2378
+"Falls","Males","55-59 years",628.19,10.56,2.98389,6.65128
+"Falls","Males","60-64 years",746.77,14.7677,3.92133,9.34593
+"Falls","Males","65-69 years",814.349,21.6222,5.24409,14.2457
+"Falls","Males","70-74 years",1050.53,39.8152,9.42002,25.1638
+"Falls","Males","75-79 years",1594.01,80.8333,17.0699,50.4899
+"Falls","Males","80+ years",7720.11,292.306,81.6453,185.176
+"Falls","Females","0-6 days",0.345318,1.52958,0.465321,0.859192
+"Falls","Females","7-27 days",0.451413,0.636745,0.20506,0.37514
+"Falls","Females","28-364 days",7.2373,0.742587,0.188182,0.376233
+"Falls","Females","1-4 years",17.508,0.406202,0.104091,0.21358
+"Falls","Females","5-9 years",6.31205,0.12423,0.0288598,0.0629588
+"Falls","Females","10-14 years",6.71432,0.128952,0.0355301,0.0696058
+"Falls","Females","15-19 years",15.3009,0.264298,0.0784755,0.149605
+"Falls","Females","20-24 years",22.3665,0.379556,0.109899,0.216483
+"Falls","Females","25-29 years",22.8722,0.37025,0.118259,0.221859
+"Falls","Females","30-34 years",30.6422,0.526225,0.172347,0.310447
+"Falls","Females","35-39 years",42.5198,0.713489,0.248337,0.429306
+"Falls","Females","40-44 years",76.0144,1.20941,0.410297,0.731043
+"Falls","Females","45-49 years",134.836,1.9298,0.605686,1.18603
+"Falls","Females","50-54 years",193.793,2.81051,0.791075,1.72776
+"Falls","Females","55-59 years",281.819,4.96713,1.15249,2.81708
+"Falls","Females","60-64 years",422.858,8.51924,1.78947,4.88468
+"Falls","Females","65-69 years",550.069,14.1673,2.91954,8.50431
+"Falls","Females","70-74 years",880.46,29.4437,6.33838,17.5889
+"Falls","Females","75-79 years",1520.57,59.3013,13.1255,36.572
+"Falls","Females","80+ years",12661,272.835,78.4896,172.659
+"Leukemia","Males","28-364 days",13.142,1.25684,0.291209,0.651856
+"Leukemia","Males","1-4 years",91.9665,2.00204,0.531137,1.0712
+"Leukemia","Males","5-9 years",97.6088,1.57402,0.506145,0.930983
+"Leukemia","Males","10-14 years",102.417,1.6364,0.547733,1.01404
+"Leukemia","Males","15-19 years",146.645,2.36242,0.755047,1.3665
+"Leukemia","Males","20-24 years",164.157,2.49158,0.814874,1.50707
+"Leukemia","Males","25-29 years",154.69,2.3355,0.765476,1.41613
+"Leukemia","Males","30-34 years",151.321,2.48487,0.824876,1.48072
+"Leukemia","Males","35-39 years",170.179,2.70546,0.932854,1.68829
+"Leukemia","Males","40-44 years",237.02,3.71755,1.28842,2.26833
+"Leukemia","Males","45-49 years",376.769,5.34558,2.10827,3.37486
+"Leukemia","Males","50-54 years",576.768,8.402,3.3463,5.32959
+"Leukemia","Males","55-59 years",849.696,13.7811,5.94089,8.99659
+"Leukemia","Males","60-64 years",1253.82,22.529,10.6782,15.6918
+"Leukemia","Males","65-69 years",1506.71,37.7946,17.173,26.3574
+"Leukemia","Males","70-74 years",1825.74,60.404,27.8932,43.7326
+"Leukemia","Males","75-79 years",2107.65,92.2465,39.4286,66.7593
+"Leukemia","Males","80+ years",4761.63,167.979,65.3702,114.213
+"Leukemia","Females","28-364 days",11.4804,1.17784,0.250003,0.59681
+"Leukemia","Females","1-4 years",74.1205,1.51516,0.424632,0.904195
+"Leukemia","Females","5-9 years",71.815,1.25974,0.363967,0.716311
+"Leukemia","Females","10-14 years",77.4003,1.55159,0.345719,0.802391
+"Leukemia","Females","15-19 years",94.1225,1.58333,0.43026,0.920284
+"Leukemia","Females","20-24 years",94.4903,1.6137,0.418379,0.914562
+"Leukemia","Females","25-29 years",92.8349,1.70564,0.420772,0.900492
+"Leukemia","Females","30-34 years",106.422,1.8257,0.560884,1.0782
+"Leukemia","Females","35-39 years",137.234,2.49042,0.701638,1.38559
+"Leukemia","Females","40-44 years",191.817,3.04135,1.02962,1.84474
+"Leukemia","Females","45-49 years",314.567,4.51759,1.64073,2.76697
+"Leukemia","Females","50-54 years",439.837,6.67133,2.1064,3.92136
+"Leukemia","Females","55-59 years",579.312,8.94876,3.23391,5.79084
+"Leukemia","Females","60-64 years",780.689,13.9589,5.14687,9.01819
+"Leukemia","Females","65-69 years",899.432,20.6391,7.88005,13.9056
+"Leukemia","Females","70-74 years",1105.53,35.2784,11.6961,22.085
+"Leukemia","Females","75-79 years",1319.77,51.3138,15.9625,31.7425
+"Leukemia","Females","80+ years",4488.34,97.6273,32.5962,61.208
+"Non-Hodgkin lymphoma","Males","28-364 days",1.30843,0.145326,0.0260791,0.0648996
+"Non-Hodgkin lymphoma","Males","1-4 years",11.678,0.279267,0.0494116,0.136022
+"Non-Hodgkin lymphoma","Males","5-9 years",16.4882,0.308914,0.0593567,0.157263
+"Non-Hodgkin lymphoma","Males","10-14 years",25.9529,0.548256,0.107179,0.256965
+"Non-Hodgkin lymphoma","Males","15-19 years",47.8796,0.858536,0.20067,0.446161
+"Non-Hodgkin lymphoma","Males","20-24 years",72.6833,1.15792,0.349786,0.667281
+"Non-Hodgkin lymphoma","Males","25-29 years",86.2974,1.28016,0.404549,0.790023
+"Non-Hodgkin lymphoma","Males","30-34 years",113.786,2.0132,0.54143,1.11343
+"Non-Hodgkin lymphoma","Males","35-39 years",163.982,2.94423,0.80666,1.62682
+"Non-Hodgkin lymphoma","Males","40-44 years",271.56,4.41073,1.45448,2.59889
+"Non-Hodgkin lymphoma","Males","45-49 years",469.499,7.18289,2.55198,4.20548
+"Non-Hodgkin lymphoma","Males","50-54 years",735.206,11.6096,4.0041,6.79363
+"Non-Hodgkin lymphoma","Males","55-59 years",1035.49,16.4041,6.83928,10.9638
+"Non-Hodgkin lymphoma","Males","60-64 years",1389.26,26.4199,9.91824,17.3868
+"Non-Hodgkin lymphoma","Males","65-69 years",1571.6,39.9253,16.0314,27.4927
+"Non-Hodgkin lymphoma","Males","70-74 years",1685.04,57.1469,24.4678,40.3624
+"Non-Hodgkin lymphoma","Males","75-79 years",1905.75,91.3344,29.8805,60.3644
+"Non-Hodgkin lymphoma","Males","80+ years",3869.15,148.963,48.9361,92.8059
+"Non-Hodgkin lymphoma","Females","28-364 days",0.912527,0.0880863,0.0231935,0.0474379
+"Non-Hodgkin lymphoma","Females","1-4 years",7.27357,0.197521,0.0332452,0.0887302
+"Non-Hodgkin lymphoma","Females","5-9 years",6.95917,0.140688,0.0296917,0.0694135
+"Non-Hodgkin lymphoma","Females","10-14 years",10.9389,0.221982,0.050386,0.113401
+"Non-Hodgkin lymphoma","Females","15-19 years",24.0618,0.491833,0.0949609,0.235264
+"Non-Hodgkin lymphoma","Females","20-24 years",38.5969,0.707116,0.155994,0.373576
+"Non-Hodgkin lymphoma","Females","25-29 years",48.6648,0.891417,0.203846,0.472045
+"Non-Hodgkin lymphoma","Females","30-34 years",61.6961,1.09352,0.311171,0.625066
+"Non-Hodgkin lymphoma","Females","35-39 years",88.7519,1.53289,0.452683,0.896092
+"Non-Hodgkin lymphoma","Females","40-44 years",150.564,2.43002,0.750387,1.44799
+"Non-Hodgkin lymphoma","Females","45-49 years",273.14,4.08499,1.36612,2.40258
+"Non-Hodgkin lymphoma","Females","50-54 years",441.413,6.06893,2.30948,3.93541
+"Non-Hodgkin lymphoma","Females","55-59 years",657.015,10.7936,3.90258,6.56756
+"Non-Hodgkin lymphoma","Females","60-64 years",962.181,18.6242,6.48293,11.1147
+"Non-Hodgkin lymphoma","Females","65-69 years",1116.58,27.416,10.637,17.2629
+"Non-Hodgkin lymphoma","Females","70-74 years",1358.32,41.0957,15.9115,27.1349
+"Non-Hodgkin lymphoma","Females","75-79 years",1680.56,62.4857,21.8609,40.42
+"Non-Hodgkin lymphoma","Females","80+ years",4769.61,104.687,37.0939,65.0437
+"Parkinson's disease","Males","20-24 years",2.30302,0.0403256,0.00607673,0.0211433
+"Parkinson's disease","Males","25-29 years",2.87009,0.0536871,0.00706756,0.0262747
+"Parkinson's disease","Males","30-34 years",3.02176,0.0572405,0.00909304,0.0295689
+"Parkinson's disease","Males","35-39 years",5.10293,0.111445,0.013689,0.0506246
+"Parkinson's disease","Males","40-44 years",9.17749,0.19059,0.0228641,0.0878305
+"Parkinson's disease","Males","45-49 years",21.513,0.43738,0.0525021,0.1927
+"Parkinson's disease","Males","50-54 years",50.3715,0.964184,0.154832,0.465455
+"Parkinson's disease","Males","55-59 years",111.047,2.29987,0.461185,1.17577
+"Parkinson's disease","Males","60-64 years",265.865,5.94283,1.30902,3.32734
+"Parkinson's disease","Males","65-69 years",563.759,16.8147,4.62833,9.86208
+"Parkinson's disease","Males","70-74 years",1240.44,49.9239,13.5493,29.7127
+"Parkinson's disease","Males","75-79 years",2291.12,119.175,30.6723,72.5707
+"Parkinson's disease","Males","80+ years",8168.23,338.85,71.5917,195.924
+"Parkinson's disease","Females","20-24 years",0.801249,0.0173228,0.0015499,0.00775521
+"Parkinson's disease","Females","25-29 years",1.06418,0.0214457,0.00228886,0.0103224
+"Parkinson's disease","Females","30-34 years",1.45705,0.0308146,0.00356952,0.0147619
+"Parkinson's disease","Females","35-39 years",2.3499,0.0456052,0.00697073,0.023726
+"Parkinson's disease","Females","40-44 years",5.28527,0.111294,0.0161648,0.0508293
+"Parkinson's disease","Females","45-49 years",12.732,0.251624,0.0303956,0.111992
+"Parkinson's disease","Females","50-54 years",30.4755,0.589505,0.107946,0.271704
+"Parkinson's disease","Females","55-59 years",65.1134,1.42033,0.250337,0.650878
+"Parkinson's disease","Females","60-64 years",148.996,3.41197,0.681805,1.72114
+"Parkinson's disease","Females","65-69 years",291.082,7.80595,1.86822,4.50025
+"Parkinson's disease","Females","70-74 years",637.806,21.2639,5.66181,12.7414
+"Parkinson's disease","Females","75-79 years",1270.52,51.2702,13.1313,30.558
+"Parkinson's disease","Females","80+ years",7035.77,163.826,39.1034,95.9476
+"Other digestive diseases","Males","1-4 years",24.6824,0.515453,0.153125,0.287495
+"Other digestive diseases","Males","5-9 years",6.81785,0.131048,0.0284177,0.065028
+"Other digestive diseases","Males","10-14 years",5.91176,0.115094,0.0253186,0.0585334
+"Other digestive diseases","Males","15-19 years",11.2792,0.201319,0.0507065,0.105104
+"Other digestive diseases","Males","20-24 years",15.965,0.292331,0.0672936,0.14657
+"Other digestive diseases","Males","25-29 years",22.1902,0.377921,0.0980149,0.203144
+"Other digestive diseases","Males","30-34 years",26.9304,0.492159,0.13434,0.263523
+"Other digestive diseases","Males","35-39 years",49.9939,0.847224,0.256513,0.495974
+"Other digestive diseases","Males","40-44 years",90.6351,1.53167,0.448073,0.867397
+"Other digestive diseases","Males","45-49 years",168.979,2.67335,0.791064,1.51361
+"Other digestive diseases","Males","50-54 years",274.196,4.1897,1.3526,2.5337
+"Other digestive diseases","Males","55-59 years",431.15,7.32456,2.72049,4.56503
+"Other digestive diseases","Males","60-64 years",574.554,11.6965,3.96593,7.19062
+"Other digestive diseases","Males","65-69 years",668.451,18.1124,6.8488,11.6935
+"Other digestive diseases","Males","70-74 years",808.315,29.2176,12.0438,19.3619
+"Other digestive diseases","Males","75-79 years",1054.75,50.2754,20.5024,33.4089
+"Other digestive diseases","Males","80+ years",4021.44,147.344,61.6926,96.4589
+"Other digestive diseases","Females","1-4 years",22.3738,0.549016,0.122344,0.272938
+"Other digestive diseases","Females","5-9 years",5.9044,0.123685,0.0244299,0.0588928
+"Other digestive diseases","Females","10-14 years",7.22535,0.144381,0.0335087,0.0749036
+"Other digestive diseases","Females","15-19 years",9.65154,0.222001,0.033812,0.0943681
+"Other digestive diseases","Females","20-24 years",15.6489,0.381312,0.0480881,0.151464
+"Other digestive diseases","Females","25-29 years",20.6615,0.46537,0.0715335,0.200415
+"Other digestive diseases","Females","30-34 years",27.0463,0.590317,0.117096,0.274016
+"Other digestive diseases","Females","35-39 years",49.9513,1.04552,0.2284,0.504338
+"Other digestive diseases","Females","40-44 years",87.173,1.86794,0.35861,0.838357
+"Other digestive diseases","Females","45-49 years",157.624,2.7801,0.6253,1.38648
+"Other digestive diseases","Females","50-54 years",257.669,4.60715,1.09088,2.29725
+"Other digestive diseases","Females","55-59 years",419.077,7.5509,2.23949,4.18912
+"Other digestive diseases","Females","60-64 years",626.11,12.2841,4.08296,7.23256
+"Other digestive diseases","Females","65-69 years",760.659,19.577,6.91398,11.7601
+"Other digestive diseases","Females","70-74 years",996.872,33.0669,11.5695,19.9144
+"Other digestive diseases","Females","75-79 years",1463.09,59.5407,21.8094,35.1895
+"Other digestive diseases","Females","80+ years",9046,209.427,72.871,123.361
+"Interpersonal violence","Males","0-6 days",17.6382,81.1062,19.4845,41.8454
+"Interpersonal violence","Males","7-27 days",7.22663,10.3259,2.59219,5.72837
+"Interpersonal violence","Males","28-364 days",139.643,12.9906,2.90381,6.92645
+"Interpersonal violence","Males","1-4 years",227.814,4.7677,1.23917,2.65353
+"Interpersonal violence","Males","5-9 years",69.4956,1.14543,0.315433,0.662842
+"Interpersonal violence","Males","10-14 years",141.444,2.3725,0.699067,1.40046
+"Interpersonal violence","Males","15-19 years",1733.29,24.6529,9.88268,16.1515
+"Interpersonal violence","Males","20-24 years",2797.44,37.6436,16.2914,25.6824
+"Interpersonal violence","Males","25-29 years",2318.86,32.1108,13.524,21.2283
+"Interpersonal violence","Males","30-34 years",1696.82,26.83,10.4058,16.6039
+"Interpersonal violence","Males","35-39 years",1279.66,22.9621,7.59142,12.6951
+"Interpersonal violence","Males","40-44 years",1163.78,19.8757,6.31341,11.1376
+"Interpersonal violence","Males","45-49 years",1110.87,20.8806,5.61498,9.95049
+"Interpersonal violence","Males","50-54 years",886.943,16.2518,4.61692,8.19574
+"Interpersonal violence","Males","55-59 years",595.214,13.9326,3.43135,6.30214
+"Interpersonal violence","Males","60-64 years",406.807,10.1707,2.89219,5.09125
+"Interpersonal violence","Males","65-69 years",262.956,9.30678,2.43657,4.60001
+"Interpersonal violence","Males","70-74 years",180.028,8.93493,2.19448,4.3123
+"Interpersonal violence","Males","75-79 years",140.984,9.84618,2.10778,4.46564
+"Interpersonal violence","Males","80+ years",230.393,12.8887,2.59908,5.52624
+"Interpersonal violence","Females","0-6 days",15.531,76.6903,16.5589,38.643
+"Interpersonal violence","Females","7-27 days",5.85619,8.1931,2.74302,4.86669
+"Interpersonal violence","Females","28-364 days",106.862,10.038,2.85205,5.55523
+"Interpersonal violence","Females","1-4 years",209.588,4.52784,1.29261,2.55676
+"Interpersonal violence","Females","5-9 years",67.9693,1.251,0.292059,0.677952
+"Interpersonal violence","Females","10-14 years",73.1112,1.34085,0.348676,0.757927
+"Interpersonal violence","Females","15-19 years",318.074,4.8796,1.7421,3.10997
+"Interpersonal violence","Females","20-24 years",471.825,7.33786,2.71391,4.56675
+"Interpersonal violence","Females","25-29 years",447.734,7.77181,2.6442,4.34299
+"Interpersonal violence","Females","30-34 years",394.878,7.00681,2.39294,4.00065
+"Interpersonal violence","Females","35-39 years",382.224,6.78482,2.29959,3.85916
+"Interpersonal violence","Females","40-44 years",392.58,6.32816,2.27632,3.77551
+"Interpersonal violence","Females","45-49 years",374.957,5.74124,1.93714,3.29816
+"Interpersonal violence","Females","50-54 years",267.179,4.13672,1.41922,2.38203
+"Interpersonal violence","Females","55-59 years",201.244,3.32212,1.10765,2.01165
+"Interpersonal violence","Females","60-64 years",157.465,3.14249,1.00652,1.81896
+"Interpersonal violence","Females","65-69 years",121.37,3.28357,1.01498,1.87643
+"Interpersonal violence","Females","70-74 years",102.968,3.6471,1.10883,2.05697
+"Interpersonal violence","Females","75-79 years",94.3354,4.06343,1.18077,2.26891
+"Interpersonal violence","Females","80+ years",265.407,6.62993,1.80558,3.61939
+"Liver cancer","Males","5-9 years",10.4513,0.3252,0.0150017,0.0996839
+"Liver cancer","Males","10-14 years",6.62813,0.199477,0.0116718,0.0656263
+"Liver cancer","Males","15-19 years",11.5101,0.302228,0.0282156,0.107255
+"Liver cancer","Males","20-24 years",14.1054,0.351819,0.0373221,0.129497
+"Liver cancer","Males","25-29 years",29.4745,0.605301,0.0998866,0.269829
+"Liver cancer","Males","30-34 years",42.8508,0.80955,0.175417,0.419309
+"Liver cancer","Males","35-39 years",80.0451,1.53358,0.386515,0.794103
+"Liver cancer","Males","40-44 years",199.843,3.3064,1.02049,1.91254
+"Liver cancer","Males","45-49 years",590.594,8.50488,2.47551,5.29017
+"Liver cancer","Males","50-54 years",1301.42,18.2624,4.86143,12.0257
+"Liver cancer","Males","55-59 years",1811.48,27.4472,7.60419,19.18
+"Liver cancer","Males","60-64 years",1745.23,31.382,10.7738,21.8418
+"Liver cancer","Males","65-69 years",1595.37,40.0753,16.2389,27.9085
+"Liver cancer","Males","70-74 years",1597.55,54.1603,21.48,38.2668
+"Liver cancer","Males","75-79 years",1458.87,66.9637,27.7008,46.2093
+"Liver cancer","Males","80+ years",2282.62,85.6215,30.0752,54.7512
+"Liver cancer","Females","5-9 years",6.41263,0.236164,0.00461277,0.063962
+"Liver cancer","Females","10-14 years",7.61545,0.304567,0.00742973,0.0789476
+"Liver cancer","Females","15-19 years",11.2661,0.397996,0.0141063,0.110155
+"Liver cancer","Females","20-24 years",10.0122,0.327428,0.0162567,0.0969075
+"Liver cancer","Females","25-29 years",15.5752,0.505485,0.0259917,0.151078
+"Liver cancer","Females","30-34 years",24.7607,0.638804,0.0672726,0.25086
+"Liver cancer","Females","35-39 years",45.9792,1.01927,0.155647,0.464234
+"Liver cancer","Females","40-44 years",88.112,1.71663,0.347721,0.847388
+"Liver cancer","Females","45-49 years",203.013,3.07694,0.862338,1.78573
+"Liver cancer","Females","50-54 years",361.473,5.29317,1.45838,3.22271
+"Liver cancer","Females","55-59 years",530.875,8.37267,2.41414,5.30666
+"Liver cancer","Females","60-64 years",655.422,11.8549,4.01536,7.57116
+"Liver cancer","Females","65-69 years",743.063,17.6568,5.67591,11.4881
+"Liver cancer","Females","70-74 years",861.019,26.002,8.72005,17.2005
+"Liver cancer","Females","75-79 years",957.999,35.1977,10.7517,23.0413
+"Liver cancer","Females","80+ years",2230.55,48.0072,16.6409,30.4183
+"Drug use disorders","Males","0-6 days",0.428169,2.50509,0.290222,1.0158
+"Drug use disorders","Males","7-27 days",0.611901,1.24566,0.12471,0.485039
+"Drug use disorders","Males","28-364 days",5.918,0.68985,0.0523428,0.293539
+"Drug use disorders","Males","1-4 years",18.4298,0.609344,0.0592772,0.214666
+"Drug use disorders","Males","5-9 years",5.30526,0.118693,0.0105968,0.050601
+"Drug use disorders","Males","10-14 years",14.3465,0.312318,0.0222353,0.142047
+"Drug use disorders","Males","15-19 years",299.495,6.60173,0.42895,2.79081
+"Drug use disorders","Males","20-24 years",1012.83,19.7142,1.67759,9.29849
+"Drug use disorders","Males","25-29 years",1404.48,30.8715,2.85754,12.8575
+"Drug use disorders","Males","30-34 years",1487.1,31.3059,4.82738,14.5518
+"Drug use disorders","Males","35-39 years",1645.41,37.5924,4.04029,16.3236
+"Drug use disorders","Males","40-44 years",2142.09,54.4075,4.13475,20.5002
+"Drug use disorders","Males","45-49 years",2184.73,47.8145,3.77768,19.5695
+"Drug use disorders","Males","50-54 years",1695.44,35.3121,2.76186,15.6667
+"Drug use disorders","Males","55-59 years",898.735,21.2621,1.5985,9.51582
+"Drug use disorders","Males","60-64 years",446.353,14.4359,1.06748,5.58617
+"Drug use disorders","Males","65-69 years",210.811,9.72699,0.714741,3.68781
+"Drug use disorders","Males","70-74 years",141.028,9.02467,0.915437,3.37811
+"Drug use disorders","Males","75-79 years",114.694,11.2271,0.982435,3.63291
+"Drug use disorders","Males","80+ years",272.473,21.7413,1.7424,6.53558
+"Drug use disorders","Females","0-6 days",0.260933,1.35998,0.254509,0.649234
+"Drug use disorders","Females","7-27 days",0.483322,0.824087,0.0985856,0.401657
+"Drug use disorders","Females","28-364 days",3.582,0.478844,0.0471989,0.186211
+"Drug use disorders","Females","1-4 years",11.9284,0.361557,0.040184,0.145515
+"Drug use disorders","Females","5-9 years",3.21882,0.0727641,0.00943366,0.0321057
+"Drug use disorders","Females","10-14 years",8.09549,0.18331,0.0177111,0.0839241
+"Drug use disorders","Females","15-19 years",98.1577,2.43476,0.194152,0.959738
+"Drug use disorders","Females","20-24 years",265.98,5.61072,0.508216,2.57439
+"Drug use disorders","Females","25-29 years",373.2,7.74898,1.02536,3.62001
+"Drug use disorders","Females","30-34 years",455.798,10.8162,1.19423,4.61786
+"Drug use disorders","Females","35-39 years",602.154,13.1701,1.75398,6.07971
+"Drug use disorders","Females","40-44 years",813.173,17.283,1.77008,7.82041
+"Drug use disorders","Females","45-49 years",874.38,17.716,1.26188,7.69115
+"Drug use disorders","Females","50-54 years",682.559,14.9905,0.960397,6.08534
+"Drug use disorders","Females","55-59 years",389.198,9.29914,0.660317,3.89045
+"Drug use disorders","Females","60-64 years",220.195,6.24173,0.599038,2.5436
+"Drug use disorders","Females","65-69 years",146.667,6.01803,0.531437,2.26753
+"Drug use disorders","Females","70-74 years",105.592,6.13361,0.574304,2.1094
+"Drug use disorders","Females","75-79 years",103.04,6.20731,0.70231,2.47828
+"Drug use disorders","Females","80+ years",290.831,10.5282,1.03444,3.9661
+"Aortic aneurysm","Males","15-19 years",9.45463,0.165443,0.042996,0.0881019
+"Aortic aneurysm","Males","20-24 years",18.1377,0.313264,0.079576,0.166516
+"Aortic aneurysm","Males","25-29 years",27.3797,0.438493,0.142017,0.250652
+"Aortic aneurysm","Males","30-34 years",41.8202,0.843039,0.178332,0.409223
+"Aortic aneurysm","Males","35-39 years",66.7333,1.317,0.329418,0.66204
+"Aortic aneurysm","Males","40-44 years",119.001,2.0187,0.613974,1.13887
+"Aortic aneurysm","Males","45-49 years",218.313,3.45966,1.09152,1.95551
+"Aortic aneurysm","Males","50-54 years",365.991,5.84018,1.8626,3.38192
+"Aortic aneurysm","Males","55-59 years",572.456,9.97939,3.50328,6.06117
+"Aortic aneurysm","Males","60-64 years",965.73,20.3155,6.63522,12.0862
+"Aortic aneurysm","Males","65-69 years",1254.89,37.9997,12.0305,21.9523
+"Aortic aneurysm","Males","70-74 years",1544.26,62.8832,20.2573,36.9903
+"Aortic aneurysm","Males","75-79 years",1779.57,93.0911,32.1005,56.3675
+"Aortic aneurysm","Males","80+ years",4591.72,180.46,61.5116,110.138
+"Aortic aneurysm","Females","15-19 years",2.68575,0.0525227,0.0113357,0.0262599
+"Aortic aneurysm","Females","20-24 years",5.09054,0.0983011,0.0180025,0.0492708
+"Aortic aneurysm","Females","25-29 years",8.75958,0.168352,0.0365636,0.0849673
+"Aortic aneurysm","Females","30-34 years",13.7542,0.313202,0.0514504,0.139348
+"Aortic aneurysm","Females","35-39 years",22.8919,0.479205,0.0973805,0.231131
+"Aortic aneurysm","Females","40-44 years",40.2844,0.776411,0.155015,0.387422
+"Aortic aneurysm","Females","45-49 years",75.4387,1.29887,0.301536,0.663568
+"Aortic aneurysm","Females","50-54 years",109.558,1.73728,0.499145,0.976764
+"Aortic aneurysm","Females","55-59 years",163.063,2.80723,0.841425,1.62999
+"Aortic aneurysm","Females","60-64 years",286.282,5.15513,1.84761,3.30701
+"Aortic aneurysm","Females","65-69 years",439.51,11.241,3.67933,6.79501
+"Aortic aneurysm","Females","70-74 years",642.359,20.7273,7.54462,12.8323
+"Aortic aneurysm","Females","75-79 years",913.106,33.4657,13.3714,21.9616
+"Aortic aneurysm","Females","80+ years",3972.31,89.1185,32.6364,54.1708
+"Ovarian cancer","Females","15-19 years",14.9138,0.324213,0.0507051,0.14582
+"Ovarian cancer","Females","20-24 years",23.4133,0.454016,0.101506,0.226615
+"Ovarian cancer","Females","25-29 years",36.1797,0.676059,0.155326,0.350941
+"Ovarian cancer","Females","30-34 years",59.4536,0.994123,0.33726,0.602346
+"Ovarian cancer","Females","35-39 years",123.364,2.23088,0.684222,1.24556
+"Ovarian cancer","Females","40-44 years",305.584,5.07489,1.69909,2.93886
+"Ovarian cancer","Females","45-49 years",690.85,10.7493,3.76906,6.07679
+"Ovarian cancer","Females","50-54 years",1193.31,17.6822,6.66219,10.639
+"Ovarian cancer","Females","55-59 years",1590.19,27.2983,9.66494,15.8957
+"Ovarian cancer","Females","60-64 years",2028.6,36.7343,15.4859,23.4335
+"Ovarian cancer","Females","65-69 years",1990.48,48.1397,19.7612,30.7737
+"Ovarian cancer","Females","70-74 years",1970.62,57.8264,26.2627,39.3668
+"Ovarian cancer","Females","75-79 years",1908.39,74.9988,28.3924,45.8998
+"Ovarian cancer","Females","80+ years",4425.66,98.6424,31.9877,60.3533
+"Musculoskeletal disorders","Males","5-9 years",4.32566,0.0900792,0.0140238,0.0412577
+"Musculoskeletal disorders","Males","10-14 years",10.344,0.217906,0.0424875,0.102418
+"Musculoskeletal disorders","Males","15-19 years",23.8333,0.488894,0.0926538,0.222088
+"Musculoskeletal disorders","Males","20-24 years",37.7226,0.717355,0.159928,0.346319
+"Musculoskeletal disorders","Males","25-29 years",41.3919,0.756256,0.163921,0.378928
+"Musculoskeletal disorders","Males","30-34 years",49.924,0.929932,0.190375,0.488522
+"Musculoskeletal disorders","Males","35-39 years",66.9737,1.39267,0.261725,0.664426
+"Musculoskeletal disorders","Males","40-44 years",116.469,2.40117,0.423173,1.11463
+"Musculoskeletal disorders","Males","45-49 years",196.899,3.83857,0.726203,1.7637
+"Musculoskeletal disorders","Males","50-54 years",289.025,5.40284,1.17781,2.67072
+"Musculoskeletal disorders","Males","55-59 years",340.745,7.73318,1.61329,3.60781
+"Musculoskeletal disorders","Males","60-64 years",431.413,11.6369,2.39078,5.39919
+"Musculoskeletal disorders","Males","65-69 years",468.156,16.651,3.33681,8.18965
+"Musculoskeletal disorders","Males","70-74 years",516.176,25.7911,6.09244,12.3642
+"Musculoskeletal disorders","Males","75-79 years",604.661,40.236,8.26951,19.1525
+"Musculoskeletal disorders","Males","80+ years",1719.99,85.1359,16.6019,41.2559
+"Musculoskeletal disorders","Females","5-9 years",6.73623,0.133049,0.0284638,0.0671897
+"Musculoskeletal disorders","Females","10-14 years",20.3538,0.45265,0.0814195,0.211004
+"Musculoskeletal disorders","Females","15-19 years",48.6991,1.11865,0.169525,0.476156
+"Musculoskeletal disorders","Females","20-24 years",93.4639,2.07144,0.325661,0.904627
+"Musculoskeletal disorders","Females","25-29 years",118.955,2.6393,0.39794,1.15385
+"Musculoskeletal disorders","Females","30-34 years",136.114,3.13425,0.507091,1.37902
+"Musculoskeletal disorders","Females","35-39 years",184.994,4.58246,0.683364,1.86781
+"Musculoskeletal disorders","Females","40-44 years",265.132,5.32663,1.1233,2.54982
+"Musculoskeletal disorders","Females","45-49 years",411.084,8.42468,1.49095,3.61594
+"Musculoskeletal disorders","Females","50-54 years",506.251,9.96408,1.95401,4.51348
+"Musculoskeletal disorders","Females","55-59 years",631.385,12.6061,3.06487,6.31136
+"Musculoskeletal disorders","Females","60-64 years",812.123,19.8275,4.25147,9.38131
+"Musculoskeletal disorders","Females","65-69 years",874.234,27.5025,6.88568,13.516
+"Musculoskeletal disorders","Females","70-74 years",986.303,41.4254,9.44681,19.7033
+"Musculoskeletal disorders","Females","75-79 years",1256.57,60.4968,14.6682,30.2225
+"Musculoskeletal disorders","Females","80+ years",5030.71,127.571,30.0956,68.6044
+"Neonatal disorders","Males","0-6 days",5944.61,15335.2,11581.3,14103.1
+"Neonatal disorders","Males","7-27 days",1094.57,1061.46,682.942,867.639
+"Neonatal disorders","Males","28-364 days",1715,142.885,43.104,85.0657
+"Neonatal disorders","Males","1-4 years",76.2016,1.49155,0.415253,0.887579
+"Neonatal disorders","Females","0-6 days",4710.85,13680.9,8849.09,11721.2
+"Neonatal disorders","Females","7-27 days",839.369,923.691,523.918,697.544
+"Neonatal disorders","Females","28-364 days",1123.66,109.774,28.4917,58.4137
+"Neonatal disorders","Females","1-4 years",53.7957,1.19553,0.319592,0.656253
+"Other neurological disorders","Males","28-364 days",109.312,11.0869,2.27192,5.42199
+"Other neurological disorders","Males","1-4 years",58.1978,1.51234,0.266275,0.677874
+"Other neurological disorders","Males","5-9 years",27.323,0.532468,0.110533,0.260604
+"Other neurological disorders","Males","10-14 years",49.9755,0.957497,0.245731,0.494817
+"Other neurological disorders","Males","15-19 years",153.33,3.05336,0.633526,1.42879
+"Other neurological disorders","Males","20-24 years",148.064,2.69081,0.671633,1.35933
+"Other neurological disorders","Males","25-29 years",102.428,1.82213,0.474238,0.937696
+"Other neurological disorders","Males","30-34 years",92.5392,1.72041,0.455209,0.905525
+"Other neurological disorders","Males","35-39 years",129.137,2.31333,0.633013,1.28113
+"Other neurological disorders","Males","40-44 years",219.839,3.76046,1.09842,2.10391
+"Other neurological disorders","Males","45-49 years",369.208,5.94503,1.77137,3.30713
+"Other neurological disorders","Males","50-54 years",539.078,8.62807,2.75912,4.98131
+"Other neurological disorders","Males","55-59 years",696.556,12.5229,4.30142,7.37515
+"Other neurological disorders","Males","60-64 years",905.25,19.7949,6.16542,11.3293
+"Other neurological disorders","Males","65-69 years",917.303,28.7701,9.02781,16.0468
+"Other neurological disorders","Males","70-74 years",966.159,40.5911,12.6883,23.1428
+"Other neurological disorders","Males","75-79 years",962.629,53.4554,15.3751,30.4911
+"Other neurological disorders","Males","80+ years",1687.83,77.5038,18.3745,40.4846
+"Other neurological disorders","Females","28-364 days",85.1656,10.457,1.55602,4.42736
+"Other neurological disorders","Females","1-4 years",57.5137,1.54862,0.272261,0.701609
+"Other neurological disorders","Females","5-9 years",25.0475,0.56747,0.085671,0.249833
+"Other neurological disorders","Females","10-14 years",26.8156,0.600261,0.101385,0.277991
+"Other neurological disorders","Females","15-19 years",31.0801,0.625471,0.122523,0.303887
+"Other neurological disorders","Females","20-24 years",35.8995,0.688889,0.147341,0.347468
+"Other neurological disorders","Females","25-29 years",38.0353,0.747198,0.156211,0.36894
+"Other neurological disorders","Females","30-34 years",54.9629,1.14007,0.231627,0.556849
+"Other neurological disorders","Females","35-39 years",79.6729,1.51528,0.353088,0.804426
+"Other neurological disorders","Females","40-44 years",143.25,2.65605,0.605555,1.37766
+"Other neurological disorders","Females","45-49 years",265.027,4.48391,1.1257,2.33121
+"Other neurological disorders","Females","50-54 years",413.388,7.0496,1.65176,3.68555
+"Other neurological disorders","Females","55-59 years",561.99,10.4647,2.74344,5.61769
+"Other neurological disorders","Females","60-64 years",751.863,15.7811,4.02746,8.6852
+"Other neurological disorders","Females","65-69 years",816.669,22.2069,5.88602,12.6261
+"Other neurological disorders","Females","70-74 years",859.844,30.8765,7.74766,17.177
+"Other neurological disorders","Females","75-79 years",912.422,39.9387,9.31306,21.9452
+"Other neurological disorders","Females","80+ years",2000.7,52.2178,10.425,27.2838
+"Bladder cancer","Males","15-19 years",0.819726,0.0157897,0.00308757,0.00763852
+"Bladder cancer","Males","20-24 years",1.48468,0.0268338,0.00549367,0.0136303
+"Bladder cancer","Males","25-29 years",2.72235,0.0476591,0.0111958,0.0249222
+"Bladder cancer","Males","30-34 years",6.7082,0.141595,0.0270311,0.0656418
+"Bladder cancer","Males","35-39 years",14.8207,0.282434,0.0671022,0.147031
+"Bladder cancer","Males","40-44 years",40.9176,0.722943,0.193473,0.39159
+"Bladder cancer","Males","45-49 years",118.481,1.82141,0.563586,1.06128
+"Bladder cancer","Males","50-54 years",275.329,4.02358,1.46357,2.54416
+"Bladder cancer","Males","55-59 years",481.139,7.95688,2.94008,5.0943
+"Bladder cancer","Males","60-64 years",791.985,14.4099,5.77989,9.91179
+"Bladder cancer","Males","65-69 years",1026.03,25.3082,10.2272,17.9488
+"Bladder cancer","Males","70-74 years",1231.54,39.8114,17.6233,29.4996
+"Bladder cancer","Males","75-79 years",1588.35,68.8251,28.2439,50.3107
+"Bladder cancer","Males","80+ years",4623.34,155.259,69.7953,110.896
+"Bladder cancer","Females","15-19 years",0.352598,0.00737422,0.00129172,0.00344753
+"Bladder cancer","Females","20-24 years",0.823853,0.0214368,0.00194755,0.00797399
+"Bladder cancer","Females","25-29 years",1.82433,0.0425468,0.00534107,0.0176959
+"Bladder cancer","Females","30-34 years",3.94997,0.103231,0.00989578,0.0400185
+"Bladder cancer","Females","35-39 years",10.9459,0.258651,0.0357412,0.110516
+"Bladder cancer","Females","40-44 years",25.5525,0.543974,0.0870986,0.245742
+"Bladder cancer","Females","45-49 years",61.8022,0.970526,0.256077,0.54362
+"Bladder cancer","Females","50-54 years",106.916,1.66455,0.487554,0.953206
+"Bladder cancer","Females","55-59 years",174.824,2.92061,0.948786,1.74756
+"Bladder cancer","Females","60-64 years",287.975,5.09214,1.99945,3.32657
+"Bladder cancer","Females","65-69 years",366.238,8.51425,3.56395,5.6622
+"Bladder cancer","Females","70-74 years",478.707,13.9192,5.98908,9.56309
+"Bladder cancer","Females","75-79 years",642.286,22.7829,10.0616,15.448
+"Bladder cancer","Females","80+ years",2564,49.9217,22.9476,34.9656
+"Stomach cancer","Males","15-19 years",2.70252,0.0562993,0.00984338,0.0251831
+"Stomach cancer","Males","20-24 years",9.34943,0.189116,0.0314976,0.085834
+"Stomach cancer","Males","25-29 years",20.9507,0.37612,0.0821331,0.191797
+"Stomach cancer","Males","30-34 years",45.0175,0.781942,0.208242,0.44051
+"Stomach cancer","Males","35-39 years",81.5674,1.38091,0.385633,0.809206
+"Stomach cancer","Males","40-44 years",155.293,2.4053,0.813618,1.48618
+"Stomach cancer","Males","45-49 years",314.493,4.64976,1.7048,2.81704
+"Stomach cancer","Males","50-54 years",527.529,7.59475,3.14439,4.8746
+"Stomach cancer","Males","55-59 years",680.345,11.3419,4.66306,7.20351
+"Stomach cancer","Males","60-64 years",947.581,18.5623,7.4746,11.8591
+"Stomach cancer","Males","65-69 years",1007.46,24.032,10.171,17.624
+"Stomach cancer","Males","70-74 years",1058.97,35.6691,14.7905,25.3658
+"Stomach cancer","Males","75-79 years",1094.98,48.6736,19.5835,34.6834
+"Stomach cancer","Males","80+ years",2330.04,80.888,36.2165,55.8886
+"Stomach cancer","Females","15-19 years",1.82498,0.044337,0.00483396,0.0178438
+"Stomach cancer","Females","20-24 years",8.73751,0.261372,0.0205193,0.0845694
+"Stomach cancer","Females","25-29 years",22.8113,0.512097,0.0785754,0.221268
+"Stomach cancer","Females","30-34 years",43.2098,0.859022,0.189898,0.437774
+"Stomach cancer","Females","35-39 years",72.5437,1.25179,0.319229,0.732445
+"Stomach cancer","Females","40-44 years",127.197,2.0834,0.556577,1.22328
+"Stomach cancer","Females","45-49 years",210.847,3.01947,0.879299,1.85463
+"Stomach cancer","Females","50-54 years",301.526,4.61375,1.4175,2.68825
+"Stomach cancer","Females","55-59 years",371.575,6.10996,2.17866,3.71429
+"Stomach cancer","Females","60-64 years",477.347,9.33633,3.15358,5.51412
+"Stomach cancer","Females","65-69 years",534.2,13.7004,4.68322,8.25897
+"Stomach cancer","Females","70-74 years",632.101,21.1722,7.12746,12.6274
+"Stomach cancer","Females","75-79 years",776.222,32.2834,11.2519,18.6693
+"Stomach cancer","Females","80+ years",2633.67,68.0543,21.1228,35.9157
+"Esophageal cancer","Males","15-19 years",0.235939,0.00693216,0.000298355,0.00219857
+"Esophageal cancer","Males","20-24 years",2.02075,0.036931,0.00685657,0.0185518
+"Esophageal cancer","Males","25-29 years",6.83368,0.147896,0.022762,0.06256
+"Esophageal cancer","Males","30-34 years",17.3834,0.35472,0.0651866,0.170102
+"Esophageal cancer","Males","35-39 years",51.67,1.13026,0.19695,0.512603
+"Esophageal cancer","Males","40-44 years",154.699,2.64863,0.757415,1.4805
+"Esophageal cancer","Males","45-49 years",438.992,6.39728,2.1228,3.93221
+"Esophageal cancer","Males","50-54 years",829.781,12.5929,4.54398,7.66755
+"Esophageal cancer","Males","55-59 years",1273.33,20.6881,7.47145,13.482
+"Esophageal cancer","Males","60-64 years",1693.08,33.8729,11.3412,21.1891
+"Esophageal cancer","Males","65-69 years",1612.95,42.5659,15.2841,28.216
+"Esophageal cancer","Males","70-74 years",1418.86,50.1638,18.767,33.9865
+"Esophageal cancer","Males","75-79 years",1318.89,64.5968,20.3918,41.7755
+"Esophageal cancer","Males","80+ years",2011.24,73.6927,27.0833,48.2419
+"Esophageal cancer","Females","15-19 years",0.143498,0.00777133,6.01862e-05,0.00140306
+"Esophageal cancer","Females","20-24 years",0.195497,0.00746024,0.000191231,0.0018922
+"Esophageal cancer","Females","25-29 years",0.816428,0.0231516,0.00139671,0.00791929
+"Esophageal cancer","Females","30-34 years",1.48827,0.0500154,0.00272357,0.0150783
+"Esophageal cancer","Females","35-39 years",7.55363,0.20351,0.0216112,0.076266
+"Esophageal cancer","Females","40-44 years",32.5543,1.05282,0.0608589,0.31308
+"Esophageal cancer","Females","45-49 years",93.3532,2.08563,0.24051,0.821146
+"Esophageal cancer","Females","50-54 years",177.686,3.28713,0.646825,1.58415
+"Esophageal cancer","Females","55-59 years",275.015,5.78364,1.1894,2.74907
+"Esophageal cancer","Females","60-64 years",380.16,8.48945,2.05321,4.39145
+"Esophageal cancer","Females","65-69 years",394.984,11.9429,3.03006,6.10662
+"Esophageal cancer","Females","70-74 years",425.409,14.2993,4.26736,8.49835
+"Esophageal cancer","Females","75-79 years",436.388,17.5445,5.4581,10.4958
+"Esophageal cancer","Females","80+ years",1178.76,27.5763,8.47747,16.0749
+"Assault by firearm","Males","0-6 days",0.762262,3.22282,0.805047,1.80841
+"Assault by firearm","Males","7-27 days",0.349666,0.511434,0.121718,0.277172
+"Assault by firearm","Males","28-364 days",10.8791,0.955189,0.166574,0.539613
+"Assault by firearm","Males","1-4 years",51.7909,1.05889,0.210825,0.603247
+"Assault by firearm","Males","5-9 years",35.0236,0.675183,0.127346,0.334052
+"Assault by firearm","Males","10-14 years",110.602,2.07941,0.459809,1.09509
+"Assault by firearm","Males","15-19 years",1515.61,22.6581,7.74665,14.123
+"Assault by firearm","Males","20-24 years",2381.18,33.7929,12.1671,21.8608
+"Assault by firearm","Males","25-29 years",1943.08,28.214,10.273,17.7882
+"Assault by firearm","Males","30-34 years",1373.38,23.3302,6.88434,13.4389
+"Assault by firearm","Males","35-39 years",968.844,17.6763,5.0083,9.6116
+"Assault by firearm","Males","40-44 years",815.54,14.8529,3.64473,7.8049
+"Assault by firearm","Males","45-49 years",724.491,15.3908,2.87806,6.48953
+"Assault by firearm","Males","50-54 years",554.986,11.307,2.14213,5.12831
+"Assault by firearm","Males","55-59 years",356.951,9.67492,1.57374,3.77941
+"Assault by firearm","Males","60-64 years",229.829,6.5472,1.30177,2.87634
+"Assault by firearm","Males","65-69 years",140.083,5.83147,1.018,2.45054
+"Assault by firearm","Males","70-74 years",92.7769,5.04718,0.914206,2.22232
+"Assault by firearm","Males","75-79 years",61.5373,4.36181,0.72419,1.94918
+"Assault by firearm","Males","80+ years",73.2209,4.18282,0.728942,1.75629
+"Assault by firearm","Females","0-6 days",0.405507,2.2962,0.331581,1.00895
+"Assault by firearm","Females","7-27 days",0.202177,0.412937,0.0518924,0.168016
+"Assault by firearm","Females","28-364 days",5.96893,0.768315,0.0909273,0.310296
+"Assault by firearm","Females","1-4 years",38.3191,1.09002,0.1415,0.467454
+"Assault by firearm","Females","5-9 years",27.8758,0.69862,0.0794778,0.278044
+"Assault by firearm","Females","10-14 years",40.7657,0.993875,0.136949,0.422609
+"Assault by firearm","Females","15-19 years",206.468,4.09152,0.782602,2.01874
+"Assault by firearm","Females","20-24 years",299.838,5.58405,1.16513,2.9021
+"Assault by firearm","Females","25-29 years",274.275,5.87722,1.05009,2.66045
+"Assault by firearm","Females","30-34 years",237,5.40697,0.924261,2.40113
+"Assault by firearm","Females","35-39 years",226.095,5.10096,0.87817,2.28279
+"Assault by firearm","Females","40-44 years",227.65,4.60967,0.830222,2.18934
+"Assault by firearm","Females","45-49 years",206.918,4.20318,0.659006,1.82008
+"Assault by firearm","Females","50-54 years",147.609,2.9782,0.541554,1.31601
+"Assault by firearm","Females","55-59 years",106.806,2.34079,0.432993,1.06764
+"Assault by firearm","Females","60-64 years",84.2967,2.14288,0.363132,0.97376
+"Assault by firearm","Females","65-69 years",59.2261,2.03753,0.319222,0.915661
+"Assault by firearm","Females","70-74 years",44.5313,2.03606,0.330383,0.889597
+"Assault by firearm","Females","75-79 years",40.0446,2.17699,0.338502,0.963134
+"Assault by firearm","Females","80+ years",85.9362,2.54487,0.371863,1.17192
+"Congenital anomalies","Males","0-6 days",1435.22,5499.86,2385.27,3404.94
+"Congenital anomalies","Males","7-27 days",420.836,500.069,236.449,333.587
+"Congenital anomalies","Males","28-364 days",693.103,49.1311,21.2127,34.3786
+"Congenital anomalies","Males","1-4 years",310.85,6.74421,2.03489,3.62071
+"Congenital anomalies","Males","5-9 years",94.5423,1.36961,0.532399,0.901735
+"Congenital anomalies","Males","10-14 years",88.492,1.36225,0.488105,0.876175
+"Congenital anomalies","Males","15-19 years",145.22,2.13271,0.794763,1.35322
+"Congenital anomalies","Males","20-24 years",152.912,2.34729,0.828854,1.40384
+"Congenital anomalies","Males","25-29 years",139.165,2.09464,0.705698,1.274
+"Congenital anomalies","Males","30-34 years",117.428,2.0754,0.581793,1.14907
+"Congenital anomalies","Males","35-39 years",125.189,2.25195,0.566563,1.24196
+"Congenital anomalies","Males","40-44 years",153.216,2.72473,0.647334,1.46631
+"Congenital anomalies","Males","45-49 years",206.271,3.68695,0.759606,1.84765
+"Congenital anomalies","Males","50-54 years",229.284,3.83478,0.9163,2.11868
+"Congenital anomalies","Males","55-59 years",240.819,4.5456,1.06226,2.5498
+"Congenital anomalies","Males","60-64 years",252.803,5.40864,1.23149,3.16387
+"Congenital anomalies","Males","65-69 years",185.305,5.28455,1.52835,3.24161
+"Congenital anomalies","Males","70-74 years",176.024,6.89667,2.03577,4.21638
+"Congenital anomalies","Males","75-79 years",215.179,10.8082,3.39915,6.81575
+"Congenital anomalies","Males","80+ years",821.534,30.2708,9.47344,19.7054
+"Congenital anomalies","Females","0-6 days",1195.24,4798.56,2136.65,2973.89
+"Congenital anomalies","Females","7-27 days",389.769,482.293,236.095,323.911
+"Congenital anomalies","Females","28-364 days",660.693,47.3993,23.0911,34.3463
+"Congenital anomalies","Females","1-4 years",289.812,6.31368,2.25488,3.53541
+"Congenital anomalies","Females","5-9 years",85.2778,1.32106,0.491491,0.850594
+"Congenital anomalies","Females","10-14 years",74.0138,1.19784,0.446376,0.767284
+"Congenital anomalies","Females","15-19 years",95.8203,1.57968,0.551593,0.936885
+"Congenital anomalies","Females","20-24 years",105.685,1.72878,0.565278,1.02292
+"Congenital anomalies","Females","25-29 years",105.05,1.7699,0.515688,1.01898
+"Congenital anomalies","Females","30-34 years",88.6689,1.65971,0.436347,0.898337
+"Congenital anomalies","Females","35-39 years",104.931,1.98157,0.499223,1.05945
+"Congenital anomalies","Females","40-44 years",127.904,2.365,0.661547,1.23008
+"Congenital anomalies","Females","45-49 years",173.935,2.927,0.783805,1.52996
+"Congenital anomalies","Females","50-54 years",209.949,3.52937,0.896871,1.8718
+"Congenital anomalies","Females","55-59 years",232.602,3.89838,1.12236,2.3251
+"Congenital anomalies","Females","60-64 years",235.18,4.45701,1.34928,2.7167
+"Congenital anomalies","Females","65-69 years",195.458,4.76994,1.63655,3.02186
+"Congenital anomalies","Females","70-74 years",192.899,6.26714,2.30933,3.85353
+"Congenital anomalies","Females","75-79 years",244.011,9.18813,3.09854,5.86883
+"Congenital anomalies","Females","80+ years",1426.3,30.4225,9.22982,19.4506
+"HIV/AIDS","Males","28-364 days",6.14169,0.423871,0.207402,0.304634
+"HIV/AIDS","Males","1-4 years",32.0581,0.522852,0.255833,0.373406
+"HIV/AIDS","Males","5-9 years",6.27157,0.0952934,0.0336907,0.0598176
+"HIV/AIDS","Males","10-14 years",7.48231,0.120879,0.0432076,0.0740837
+"HIV/AIDS","Males","15-19 years",17.885,0.28869,0.094248,0.16666
+"HIV/AIDS","Males","20-24 years",98.7731,1.49815,0.489638,0.906803
+"HIV/AIDS","Males","25-29 years",287.2,4.36657,1.43795,2.62922
+"HIV/AIDS","Males","30-34 years",482.489,8.15586,2.37257,4.7213
+"HIV/AIDS","Males","35-39 years",914.812,14.0486,5.32478,9.07557
+"HIV/AIDS","Males","40-44 years",1461.3,21.2023,8.52586,13.985
+"HIV/AIDS","Males","45-49 years",1691.76,22.1645,9.7045,15.1538
+"HIV/AIDS","Males","50-54 years",1524.13,20.3947,9.45517,14.0837
+"HIV/AIDS","Males","55-59 years",1011.48,15.8888,7.02314,10.7096
+"HIV/AIDS","Males","60-64 years",633.132,11.4086,5.31007,7.92372
+"HIV/AIDS","Males","65-69 years",344.54,8.89053,3.93364,6.02717
+"HIV/AIDS","Males","70-74 years",199.554,6.77054,3.22488,4.77999
+"HIV/AIDS","Females","28-364 days",4.71782,0.355325,0.163823,0.245257
+"HIV/AIDS","Females","1-4 years",25.0183,0.437032,0.210068,0.305198
+"HIV/AIDS","Females","5-9 years",4.93355,0.0810607,0.0271105,0.0492091
+"HIV/AIDS","Females","10-14 years",6.46389,0.115246,0.0336734,0.0670097
+"HIV/AIDS","Females","15-19 years",22.429,0.363714,0.119881,0.2193
+"HIV/AIDS","Females","20-24 years",65.5788,1.06628,0.331094,0.634731
+"HIV/AIDS","Females","25-29 years",159.834,2.63793,0.853621,1.55038
+"HIV/AIDS","Females","30-34 years",281.102,4.72878,1.5708,2.84795
+"HIV/AIDS","Females","35-39 years",424.91,6.61604,2.58632,4.29015
+"HIV/AIDS","Females","40-44 years",568.092,8.25357,3.36975,5.46343
+"HIV/AIDS","Females","45-49 years",601.36,7.85983,3.38605,5.28963
+"HIV/AIDS","Females","50-54 years",517.176,6.79936,3.12102,4.61087
+"HIV/AIDS","Females","55-59 years",294.122,4.52567,1.84792,2.94006
+"HIV/AIDS","Females","60-64 years",195.197,3.40653,1.40871,2.25484
+"HIV/AIDS","Females","65-69 years",125.47,2.91145,1.18326,1.93982
+"HIV/AIDS","Females","70-74 years",85.593,2.57643,1.08513,1.70988
+"Poisonings","Males","0-6 days",0.652686,3.11972,0.610635,1.54845
+"Poisonings","Males","7-27 days",0.581203,0.95877,0.17833,0.460705
+"Poisonings","Males","28-364 days",5.41758,0.558615,0.108783,0.268717
+"Poisonings","Males","1-4 years",16.9305,0.390682,0.0856943,0.197202
+"Poisonings","Males","5-9 years",5.34961,0.099666,0.0229726,0.0510241
+"Poisonings","Males","10-14 years",13.5163,0.260698,0.051661,0.133827
+"Poisonings","Males","15-19 years",205.139,4.17541,0.549816,1.91157
+"Poisonings","Males","20-24 years",582.85,11.8614,1.22589,5.35095
+"Poisonings","Males","25-29 years",757.912,14.1738,1.47136,6.93842
+"Poisonings","Males","30-34 years",676.172,12.7847,1.52947,6.61655
+"Poisonings","Males","35-39 years",716.527,13.6683,1.61109,7.10844
+"Poisonings","Males","40-44 years",828.366,16.5912,1.70458,7.92764
+"Poisonings","Males","45-49 years",896.549,16.9311,1.57754,8.03072
+"Poisonings","Males","50-54 years",741.301,15.3037,1.00845,6.84995
+"Poisonings","Males","55-59 years",414.202,9.79107,0.721114,4.38558
+"Poisonings","Males","60-64 years",214.811,5.85215,0.579783,2.68838
+"Poisonings","Males","65-69 years",107.255,3.56466,0.571604,1.87625
+"Poisonings","Males","70-74 years",78.4027,3.70622,0.62822,1.87801
+"Poisonings","Males","75-79 years",81.292,5.00005,0.91097,2.57491
+"Poisonings","Males","80+ years",192.078,9.51278,1.61533,4.60721
+"Poisonings","Females","0-6 days",0.547889,2.50705,0.547265,1.36321
+"Poisonings","Females","7-27 days",0.538387,0.870455,0.172802,0.447418
+"Poisonings","Females","28-364 days",3.91436,0.401734,0.0836128,0.203489
+"Poisonings","Females","1-4 years",10.4535,0.25075,0.0521905,0.127522
+"Poisonings","Females","5-9 years",6.16891,0.133895,0.0242285,0.0615311
+"Poisonings","Females","10-14 years",10.6014,0.224565,0.0342069,0.109902
+"Poisonings","Females","15-19 years",81.1397,1.67238,0.23734,0.793344
+"Poisonings","Females","20-24 years",219.963,4.46422,0.46699,2.129
+"Poisonings","Females","25-29 years",302.013,6.02871,0.644257,2.92951
+"Poisonings","Females","30-34 years",364.756,7.19573,0.786048,3.69547
+"Poisonings","Females","35-39 years",484.496,9.53695,0.773186,4.89177
+"Poisonings","Females","40-44 years",669.082,12.903,1.06146,6.43467
+"Poisonings","Females","45-49 years",804.199,14.6553,0.953193,7.07383
+"Poisonings","Females","50-54 years",686.375,12.8019,0.763789,6.11937
+"Poisonings","Females","55-59 years",420.482,8.53203,0.551001,4.20317
+"Poisonings","Females","60-64 years",229.894,5.58635,0.484206,2.65564
+"Poisonings","Females","65-69 years",121.441,3.73469,0.468326,1.87753
+"Poisonings","Females","70-74 years",87.9568,3.35394,0.580952,1.7571
+"Poisonings","Females","75-79 years",91.1306,4.37671,0.683611,2.19183
+"Poisonings","Females","80+ years",317.585,8.23389,1.44207,4.33094
+"Peripheral vascular disease","Males","5-9 years",0,0,0,0
+"Peripheral vascular disease","Males","10-14 years",0,0,0,0
+"Peripheral vascular disease","Males","15-19 years",0,0,0,0
+"Peripheral vascular disease","Males","20-24 years",0,0,0,0
+"Peripheral vascular disease","Males","25-29 years",0,0,0,0
+"Peripheral vascular disease","Males","30-34 years",0,0,0,0
+"Peripheral vascular disease","Males","35-39 years",0,0,0,0
+"Peripheral vascular disease","Males","40-44 years",13.61,0.293012,0.0363175,0.130251
+"Peripheral vascular disease","Males","45-49 years",35.1021,0.771988,0.0984325,0.314423
+"Peripheral vascular disease","Males","50-54 years",74.91,1.75381,0.210617,0.692201
+"Peripheral vascular disease","Males","55-59 years",125.39,3.2185,0.38585,1.32764
+"Peripheral vascular disease","Males","60-64 years",225.713,7.13622,0.883765,2.82482
+"Peripheral vascular disease","Males","65-69 years",292.725,12.1237,1.50327,5.12076
+"Peripheral vascular disease","Males","70-74 years",376.256,21.1576,3.13084,9.01261
+"Peripheral vascular disease","Males","75-79 years",486.323,33.0658,5.54707,15.4042
+"Peripheral vascular disease","Males","80+ years",1932.41,95.9434,14.56,46.3511
+"Peripheral vascular disease","Females","5-9 years",0,0,0,0
+"Peripheral vascular disease","Females","10-14 years",0,0,0,0
+"Peripheral vascular disease","Females","15-19 years",0,0,0,0
+"Peripheral vascular disease","Females","20-24 years",0,0,0,0
+"Peripheral vascular disease","Females","25-29 years",0,0,0,0
+"Peripheral vascular disease","Females","30-34 years",0,0,0,0
+"Peripheral vascular disease","Females","35-39 years",0,0,0,0
+"Peripheral vascular disease","Females","40-44 years",19.6277,0.48284,0.0667469,0.188763
+"Peripheral vascular disease","Females","45-49 years",37.5812,0.858096,0.105785,0.330569
+"Peripheral vascular disease","Females","50-54 years",73.8705,1.60683,0.230861,0.658591
+"Peripheral vascular disease","Females","55-59 years",118.976,3.07272,0.399195,1.18929
+"Peripheral vascular disease","Females","60-64 years",221.341,6.00584,0.784058,2.55684
+"Peripheral vascular disease","Females","65-69 years",295.151,11.3427,1.532,4.56316
+"Peripheral vascular disease","Females","70-74 years",428.276,19.6581,3.30357,8.55562
+"Peripheral vascular disease","Females","75-79 years",648.817,34.1993,6.18046,15.6051
+"Peripheral vascular disease","Females","80+ years",5004.47,156.276,27.5734,68.2465
+"Preterm birth complications","Males","0-6 days",3882.53,11591.7,7002.15,9211.01
+"Preterm birth complications","Males","7-27 days",594.637,647.218,318.998,471.354
+"Preterm birth complications","Males","28-364 days",1244.75,114.528,26.3617,61.7408
+"Preterm birth complications","Males","1-4 years",42.0276,0.971105,0.14526,0.489528
+"Preterm birth complications","Males","5-9 years",0,0,0,0
+"Preterm birth complications","Males","10-14 years",0,0,0,0
+"Preterm birth complications","Males","15-19 years",0,0,0,0
+"Preterm birth complications","Males","20-24 years",0,0,0,0
+"Preterm birth complications","Males","25-29 years",0,0,0,0
+"Preterm birth complications","Males","30-34 years",0,0,0,0
+"Preterm birth complications","Males","35-39 years",0,0,0,0
+"Preterm birth complications","Males","40-44 years",0,0,0,0
+"Preterm birth complications","Males","45-49 years",0,0,0,0
+"Preterm birth complications","Males","50-54 years",0,0,0,0
+"Preterm birth complications","Males","55-59 years",0,0,0,0
+"Preterm birth complications","Males","60-64 years",0,0,0,0
+"Preterm birth complications","Males","65-69 years",0,0,0,0
+"Preterm birth complications","Males","70-74 years",0,0,0,0
+"Preterm birth complications","Males","75-79 years",0,0,0,0
+"Preterm birth complications","Males","80+ years",0,0,0,0
+"Preterm birth complications","Females","0-6 days",2981.19,9991.79,5232.62,7417.56
+"Preterm birth complications","Females","7-27 days",427.165,527.976,233.825,354.989
+"Preterm birth complications","Females","28-364 days",780.506,82.8954,16.9573,40.5748
+"Preterm birth complications","Females","1-4 years",28.0989,0.708379,0.125916,0.342778
+"Preterm birth complications","Females","5-9 years",0,0,0,0
+"Preterm birth complications","Females","10-14 years",0,0,0,0
+"Preterm birth complications","Females","15-19 years",0,0,0,0
+"Preterm birth complications","Females","20-24 years",0,0,0,0
+"Preterm birth complications","Females","25-29 years",0,0,0,0
+"Preterm birth complications","Females","30-34 years",0,0,0,0
+"Preterm birth complications","Females","35-39 years",0,0,0,0
+"Preterm birth complications","Females","40-44 years",0,0,0,0
+"Preterm birth complications","Females","45-49 years",0,0,0,0
+"Preterm birth complications","Females","50-54 years",0,0,0,0
+"Preterm birth complications","Females","55-59 years",0,0,0,0
+"Preterm birth complications","Females","60-64 years",0,0,0,0
+"Preterm birth complications","Females","65-69 years",0,0,0,0
+"Preterm birth complications","Females","70-74 years",0,0,0,0
+"Preterm birth complications","Females","75-79 years",0,0,0,0
+"Preterm birth complications","Females","80+ years",0,0,0,0
+"Diarrheal diseases","Males","0-6 days",2.11337,10.24,2.18403,5.01382
+"Diarrheal diseases","Males","7-27 days",3.09544,5.00223,1.0374,2.45368
+"Diarrheal diseases","Males","28-364 days",35.2495,3.36048,0.763224,1.74841
+"Diarrheal diseases","Males","1-4 years",14.163,0.306405,0.0760704,0.164968
+"Diarrheal diseases","Males","5-9 years",3.30294,0.0657182,0.0127528,0.0315031
+"Diarrheal diseases","Males","10-14 years",2.19723,0.0414861,0.00930598,0.0217551
+"Diarrheal diseases","Males","15-19 years",4.64056,0.0831764,0.0181085,0.0432426
+"Diarrheal diseases","Males","20-24 years",7.89615,0.128201,0.0332945,0.0724919
+"Diarrheal diseases","Males","25-29 years",9.69287,0.161203,0.0405158,0.0887349
+"Diarrheal diseases","Males","30-34 years",13.6239,0.236531,0.0618635,0.133314
+"Diarrheal diseases","Males","35-39 years",17.8107,0.310736,0.0809006,0.176695
+"Diarrheal diseases","Males","40-44 years",35.9944,0.607363,0.16468,0.344474
+"Diarrheal diseases","Males","45-49 years",64.2833,0.998044,0.285161,0.575809
+"Diarrheal diseases","Males","50-54 years",107.119,1.77109,0.463623,0.989824
+"Diarrheal diseases","Males","55-59 years",100.258,2.014,0.466236,1.06153
+"Diarrheal diseases","Males","60-64 years",151.6,3.56923,0.824267,1.89729
+"Diarrheal diseases","Males","65-69 years",213.724,7.22499,1.50987,3.73876
+"Diarrheal diseases","Males","70-74 years",306.634,13.6541,2.87688,7.34494
+"Diarrheal diseases","Males","75-79 years",482.775,28.8559,6.19414,15.2918
+"Diarrheal diseases","Males","80+ years",2017.73,87.3605,21.2453,48.3975
+"Diarrheal diseases","Females","0-6 days",1.76511,8.93408,1.77663,4.39181
+"Diarrheal diseases","Females","7-27 days",2.50801,4.05458,0.932689,2.08424
+"Diarrheal diseases","Females","28-364 days",25.0942,2.50431,0.615249,1.30453
+"Diarrheal diseases","Females","1-4 years",11.4629,0.258199,0.0632373,0.139836
+"Diarrheal diseases","Females","5-9 years",2.82699,0.0561854,0.011944,0.0281975
+"Diarrheal diseases","Females","10-14 years",2.54523,0.0498688,0.0119102,0.0263858
+"Diarrheal diseases","Females","15-19 years",3.09542,0.0591224,0.0137718,0.0302655
+"Diarrheal diseases","Females","20-24 years",6.06243,0.114568,0.0262668,0.0586777
+"Diarrheal diseases","Females","25-29 years",8.90929,0.154303,0.0407623,0.0864195
+"Diarrheal diseases","Females","30-34 years",12.2578,0.233688,0.062227,0.124188
+"Diarrheal diseases","Females","35-39 years",19.0783,0.358342,0.0965413,0.192626
+"Diarrheal diseases","Females","40-44 years",34.8077,0.604019,0.176459,0.334752
+"Diarrheal diseases","Females","45-49 years",66.1772,1.0213,0.309445,0.582103
+"Diarrheal diseases","Females","50-54 years",103.67,1.62482,0.481098,0.924269
+"Diarrheal diseases","Females","55-59 years",105.105,1.96797,0.497527,1.05063
+"Diarrheal diseases","Females","60-64 years",172.094,3.71731,0.960242,1.98796
+"Diarrheal diseases","Females","65-69 years",248.138,7.0196,1.70523,3.83632
+"Diarrheal diseases","Females","70-74 years",394.725,14.7546,3.69562,7.88538
+"Diarrheal diseases","Females","75-79 years",620.665,27.741,7.3885,14.9279
+"Diarrheal diseases","Females","80+ years",4218.57,110.522,27.8329,57.5291
+"Alcohol use disorders","Males","0-6 days",0,0,0,0
+"Alcohol use disorders","Males","7-27 days",0,0,0,0
+"Alcohol use disorders","Males","28-364 days",0,0,0,0
+"Alcohol use disorders","Males","1-4 years",0,0,0,0
+"Alcohol use disorders","Males","5-9 years",0,0,0,0
+"Alcohol use disorders","Males","10-14 years",0,0,0,0
+"Alcohol use disorders","Males","15-19 years",36.4609,0.762291,0.122944,0.339756
+"Alcohol use disorders","Males","20-24 years",77.8075,1.58709,0.223458,0.714325
+"Alcohol use disorders","Males","25-29 years",131.718,3.01046,0.437716,1.20583
+"Alcohol use disorders","Males","30-34 years",192.251,4.63554,0.680683,1.88124
+"Alcohol use disorders","Males","35-39 years",349.434,8.29824,1.30644,3.46663
+"Alcohol use disorders","Males","40-44 years",691.14,14.877,2.73981,6.61436
+"Alcohol use disorders","Males","45-49 years",1080.06,21.1894,4.07082,9.67447
+"Alcohol use disorders","Males","50-54 years",1242.68,26.4934,4.84548,11.4829
+"Alcohol use disorders","Males","55-59 years",1101.61,26.1433,4.26745,11.6639
+"Alcohol use disorders","Males","60-64 years",910.859,26.5353,4.77937,11.3995
+"Alcohol use disorders","Males","65-69 years",587.219,23.1095,4.19998,10.2725
+"Alcohol use disorders","Males","70-74 years",357.202,20.0952,3.53292,8.5562
+"Alcohol use disorders","Males","75-79 years",243.756,17.6094,3.08914,7.72093
+"Alcohol use disorders","Males","80+ years",281.466,16.0447,2.45059,6.75129
+"Alcohol use disorders","Females","0-6 days",0,0,0,0
+"Alcohol use disorders","Females","7-27 days",0,0,0,0
+"Alcohol use disorders","Females","28-364 days",0,0,0,0
+"Alcohol use disorders","Females","1-4 years",0,0,0,0
+"Alcohol use disorders","Females","5-9 years",0,0,0,0
+"Alcohol use disorders","Females","10-14 years",0,0,0,0
+"Alcohol use disorders","Females","15-19 years",8.34152,0.189696,0.0187209,0.0815594
+"Alcohol use disorders","Females","20-24 years",14.4986,0.31059,0.0443028,0.14033
+"Alcohol use disorders","Females","25-29 years",31.5233,0.77731,0.0957801,0.305773
+"Alcohol use disorders","Females","30-34 years",62.1955,1.6561,0.199889,0.630125
+"Alcohol use disorders","Females","35-39 years",134.476,3.63959,0.436862,1.35775
+"Alcohol use disorders","Females","40-44 years",241.639,6.26706,0.727233,2.32388
+"Alcohol use disorders","Females","45-49 years",350.7,7.2789,0.967271,3.0848
+"Alcohol use disorders","Females","50-54 years",342.553,7.65007,1.02612,3.05403
+"Alcohol use disorders","Females","55-59 years",285.862,7.59453,0.977039,2.85749
+"Alcohol use disorders","Females","60-64 years",241.264,7.3854,0.868927,2.78698
+"Alcohol use disorders","Females","65-69 years",158.412,6.1426,0.802059,2.44912
+"Alcohol use disorders","Females","70-74 years",100.561,5.50327,0.707206,2.00889
+"Alcohol use disorders","Females","75-79 years",64.3553,3.98032,0.442069,1.54784
+"Alcohol use disorders","Females","80+ years",113.188,3.68285,0.447065,1.54356
+"Other urinary diseases","Males","0-6 days",5.88217,35.7189,3.61557,13.955
+"Other urinary diseases","Males","7-27 days",4.09568,9.42715,0.461058,3.24654
+"Other urinary diseases","Males","28-364 days",11.8072,1.28193,0.195614,0.585647
+"Other urinary diseases","Males","1-4 years",5.66068,0.153449,0.0253609,0.0659342
+"Other urinary diseases","Males","5-9 years",1.73093,0.036709,0.00639475,0.0165094
+"Other urinary diseases","Males","10-14 years",2.02869,0.0377191,0.00884274,0.0200864
+"Other urinary diseases","Males","15-19 years",4.84336,0.110647,0.015947,0.0451323
+"Other urinary diseases","Males","20-24 years",11.1121,0.264251,0.0378401,0.102017
+"Other urinary diseases","Males","25-29 years",15.1699,0.368022,0.0440784,0.138875
+"Other urinary diseases","Males","30-34 years",20.6102,0.502524,0.0708423,0.201677
+"Other urinary diseases","Males","35-39 years",33.0862,0.785795,0.123989,0.328238
+"Other urinary diseases","Males","40-44 years",55.2482,1.2934,0.184883,0.528737
+"Other urinary diseases","Males","45-49 years",96.5926,2.07011,0.340827,0.865216
+"Other urinary diseases","Males","50-54 years",142.932,3.37811,0.49452,1.32075
+"Other urinary diseases","Males","55-59 years",203.254,5.14371,0.866279,2.15206
+"Other urinary diseases","Males","60-64 years",276.819,8.54888,1.56632,3.46443
+"Other urinary diseases","Males","65-69 years",305.113,12.359,2.41429,5.33748
+"Other urinary diseases","Males","70-74 years",380.126,20.9941,3.95465,9.10531
+"Other urinary diseases","Males","75-79 years",475.99,35.942,6.40421,15.0769
+"Other urinary diseases","Males","80+ years",1739.66,97.1211,16.2569,41.7277
+"Other urinary diseases","Females","0-6 days",3.30807,22.0251,2.10462,8.23086
+"Other urinary diseases","Females","7-27 days",2.2875,5.48174,0.519299,1.90099
+"Other urinary diseases","Females","28-364 days",6.8587,0.730353,0.17433,0.356552
+"Other urinary diseases","Females","1-4 years",4.89396,0.109872,0.0326957,0.0597014
+"Other urinary diseases","Females","5-9 years",2.36148,0.0544253,0.00896898,0.0235543
+"Other urinary diseases","Females","10-14 years",3.37054,0.0629934,0.0180044,0.0349416
+"Other urinary diseases","Females","15-19 years",5.89504,0.112495,0.0265689,0.0576388
+"Other urinary diseases","Females","20-24 years",9.64664,0.207288,0.0369383,0.0933689
+"Other urinary diseases","Females","25-29 years",16.5353,0.334028,0.0711862,0.160391
+"Other urinary diseases","Females","30-34 years",21.1386,0.503047,0.0945786,0.214163
+"Other urinary diseases","Females","35-39 years",31.2199,0.644558,0.124338,0.315215
+"Other urinary diseases","Females","40-44 years",54.9969,1.08911,0.210689,0.528914
+"Other urinary diseases","Females","45-49 years",96.0408,1.5942,0.396055,0.844786
+"Other urinary diseases","Females","50-54 years",150.372,2.52842,0.603068,1.34064
+"Other urinary diseases","Females","55-59 years",198.577,4.00205,0.95429,1.98499
+"Other urinary diseases","Females","60-64 years",256.091,5.90456,1.45099,2.95826
+"Other urinary diseases","Females","65-69 years",310.326,9.36388,2.44409,4.79778
+"Other urinary diseases","Females","70-74 years",404.422,15.5994,4.20266,8.07911
+"Other urinary diseases","Females","75-79 years",567.507,26.1205,6.90439,13.6494
+"Other urinary diseases","Females","80+ years",3199.75,85.4185,21.0807,43.6354
+"Nutritional deficiencies","Males","28-364 days",6.03561,0.628423,0.12616,0.299373
+"Nutritional deficiencies","Males","1-4 years",4.97302,0.122461,0.0222028,0.0579246
+"Nutritional deficiencies","Males","5-9 years",1.70441,0.0322041,0.00592919,0.0162565
+"Nutritional deficiencies","Males","10-14 years",1.91231,0.0409494,0.00643013,0.0189341
+"Nutritional deficiencies","Males","15-19 years",3.63185,0.0691289,0.0131084,0.033843
+"Nutritional deficiencies","Males","20-24 years",4.38601,0.0798054,0.0172437,0.0402665
+"Nutritional deficiencies","Males","25-29 years",7.5045,0.135127,0.0277457,0.0687011
+"Nutritional deficiencies","Males","30-34 years",6.61883,0.125142,0.0278163,0.0647673
+"Nutritional deficiencies","Males","35-39 years",10.5696,0.208773,0.0487951,0.104858
+"Nutritional deficiencies","Males","40-44 years",19.6849,0.353832,0.0872701,0.188388
+"Nutritional deficiencies","Males","45-49 years",35.6618,0.612737,0.134003,0.319436
+"Nutritional deficiencies","Males","50-54 years",58.4608,0.984139,0.256888,0.540203
+"Nutritional deficiencies","Males","55-59 years",76.707,1.46312,0.397966,0.812175
+"Nutritional deficiencies","Males","60-64 years",114.053,2.57692,0.702099,1.42739
+"Nutritional deficiencies","Males","65-69 years",138.051,4.19344,1.16849,2.41498
+"Nutritional deficiencies","Males","70-74 years",193.479,7.85062,2.3035,4.63449
+"Nutritional deficiencies","Males","75-79 years",287.526,14.8918,4.6936,9.10734
+"Nutritional deficiencies","Males","80+ years",1675.24,67.8691,21.3988,40.1826
+"Nutritional deficiencies","Females","28-364 days",4.81451,0.531672,0.103676,0.250284
+"Nutritional deficiencies","Females","1-4 years",4.50382,0.120837,0.0201905,0.0549421
+"Nutritional deficiencies","Females","5-9 years",1.89991,0.0413036,0.00615143,0.0189504
+"Nutritional deficiencies","Females","10-14 years",2.06129,0.0460268,0.00614262,0.0213689
+"Nutritional deficiencies","Females","15-19 years",3.07154,0.0648347,0.00988137,0.030032
+"Nutritional deficiencies","Females","20-24 years",3.90148,0.0781985,0.0144973,0.037762
+"Nutritional deficiencies","Females","25-29 years",5.41626,0.101935,0.0224729,0.0525373
+"Nutritional deficiencies","Females","30-34 years",7.34814,0.140195,0.0333733,0.0744467
+"Nutritional deficiencies","Females","35-39 years",14.5079,0.286478,0.0613019,0.146481
+"Nutritional deficiencies","Females","40-44 years",23.3089,0.45609,0.0989419,0.224165
+"Nutritional deficiencies","Females","45-49 years",42.964,0.708003,0.156525,0.377916
+"Nutritional deficiencies","Females","50-54 years",54.2853,0.94676,0.191033,0.48398
+"Nutritional deficiencies","Females","55-59 years",76.9442,1.49065,0.289896,0.769139
+"Nutritional deficiencies","Females","60-64 years",111.741,2.48014,0.483337,1.29079
+"Nutritional deficiencies","Females","65-69 years",136.274,3.57198,0.894724,2.10686
+"Nutritional deficiencies","Females","70-74 years",218.649,7.80623,1.90105,4.36792
+"Nutritional deficiencies","Females","75-79 years",363.915,14.7819,4.16775,8.75273
+"Nutritional deficiencies","Females","80+ years",3608.08,78.4682,24.8614,49.2038
+"Rheumatic heart disease","Males","1-4 years",1.55206,0.033447,0.00854701,0.018078
+"Rheumatic heart disease","Males","5-9 years",0.8762,0.0146989,0.00426591,0.00835711
+"Rheumatic heart disease","Males","10-14 years",1.26151,0.0219627,0.00651973,0.0124905
+"Rheumatic heart disease","Males","15-19 years",3.74044,0.0651079,0.0177633,0.0348549
+"Rheumatic heart disease","Males","20-24 years",5.93076,0.118082,0.0280683,0.0544483
+"Rheumatic heart disease","Males","25-29 years",10.1187,0.154706,0.0528304,0.0926336
+"Rheumatic heart disease","Males","30-34 years",13.5764,0.236772,0.07553,0.132849
+"Rheumatic heart disease","Males","35-39 years",17.8108,0.32692,0.100281,0.176696
+"Rheumatic heart disease","Males","40-44 years",29.354,0.517655,0.164008,0.280924
+"Rheumatic heart disease","Males","45-49 years",56.8552,0.921747,0.319653,0.509273
+"Rheumatic heart disease","Males","50-54 years",75.6592,1.24498,0.438648,0.699124
+"Rheumatic heart disease","Males","55-59 years",99.6675,1.77237,0.696012,1.05528
+"Rheumatic heart disease","Males","60-64 years",132.407,2.74735,1.12857,1.65709
+"Rheumatic heart disease","Males","65-69 years",152.166,3.96735,1.77913,2.66191
+"Rheumatic heart disease","Males","70-74 years",194.781,6.68589,3.21369,4.66567
+"Rheumatic heart disease","Males","75-79 years",275.965,12.4972,5.44457,8.74116
+"Rheumatic heart disease","Males","80+ years",1125.94,39.0207,16.6943,27.0071
+"Rheumatic heart disease","Females","1-4 years",1.13311,0.0231688,0.00725989,0.0138228
+"Rheumatic heart disease","Females","5-9 years",0.698477,0.0124587,0.00357968,0.00696688
+"Rheumatic heart disease","Females","10-14 years",1.30955,0.0231272,0.00733448,0.0135758
+"Rheumatic heart disease","Females","15-19 years",2.62914,0.04731,0.0132815,0.0257064
+"Rheumatic heart disease","Females","20-24 years",6.32377,0.109005,0.0323078,0.0612071
+"Rheumatic heart disease","Females","25-29 years",9.4451,0.167569,0.0484102,0.0916168
+"Rheumatic heart disease","Females","30-34 years",11.9071,0.206726,0.0660962,0.120635
+"Rheumatic heart disease","Females","35-39 years",19.0872,0.333746,0.10975,0.192716
+"Rheumatic heart disease","Females","40-44 years",39.7489,0.592319,0.237994,0.382272
+"Rheumatic heart disease","Females","45-49 years",66.4178,0.897747,0.38052,0.584219
+"Rheumatic heart disease","Females","50-54 years",87.7721,1.22317,0.504438,0.78253
+"Rheumatic heart disease","Females","55-59 years",130.691,1.91191,0.893695,1.3064
+"Rheumatic heart disease","Females","60-64 years",198.942,3.27459,1.59522,2.29809
+"Rheumatic heart disease","Females","65-69 years",240.22,5.08447,2.74083,3.71391
+"Rheumatic heart disease","Females","70-74 years",344.367,9.29826,5.12914,6.87939
+"Rheumatic heart disease","Females","75-79 years",477.853,15.8253,8.0555,11.4931
+"Rheumatic heart disease","Females","80+ years",3036.79,57.1582,27.6655,41.413
+"Uterine cancer","Females","15-19 years",0.503042,0.0148375,0.00135766,0.0049185
+"Uterine cancer","Females","20-24 years",1.09595,0.0258171,0.00346581,0.0106076
+"Uterine cancer","Females","25-29 years",3.95876,0.0962425,0.0116771,0.0383997
+"Uterine cancer","Females","30-34 years",9.91305,0.233225,0.0286964,0.100433
+"Uterine cancer","Females","35-39 years",26.2768,0.539258,0.110991,0.265306
+"Uterine cancer","Females","40-44 years",57.345,1.07546,0.22023,0.551496
+"Uterine cancer","Females","45-49 years",120.098,2.03672,0.422179,1.0564
+"Uterine cancer","Females","50-54 years",251.21,3.96681,1.00446,2.23966
+"Uterine cancer","Females","55-59 years",476.551,7.85682,1.93549,4.76364
+"Uterine cancer","Females","60-64 years",783.223,14.5932,3.88372,9.04746
+"Uterine cancer","Females","65-69 years",893.763,24.3519,6.08682,13.818
+"Uterine cancer","Females","70-74 years",860.795,31.2249,8.5299,17.196
+"Uterine cancer","Females","75-79 years",812.085,33.4686,9.77603,19.5319
+"Uterine cancer","Females","80+ years",1996.33,51.3489,11.8935,27.2242
+"Cervical cancer","Females","15-19 years",2.12943,0.0490222,0.00661975,0.0208206
+"Cervical cancer","Females","20-24 years",19.7915,0.409069,0.0652633,0.19156
+"Cervical cancer","Females","25-29 years",66.5735,1.22595,0.304111,0.645759
+"Cervical cancer","Females","30-34 years",143.664,2.53837,0.773445,1.45551
+"Cervical cancer","Females","35-39 years",261.202,4.12218,1.48742,2.63725
+"Cervical cancer","Females","40-44 years",397.355,6.2806,2.20848,3.82143
+"Cervical cancer","Females","45-49 years",565.467,8.31126,2.97521,4.97391
+"Cervical cancer","Females","50-54 years",683.552,10.3369,3.36998,6.09419
+"Cervical cancer","Females","55-59 years",689.516,11.1651,3.43417,6.89245
+"Cervical cancer","Females","60-64 years",689.386,13.1595,4.56624,7.9635
+"Cervical cancer","Females","65-69 years",580.116,13.9365,5.10504,8.96885
+"Cervical cancer","Females","70-74 years",508.96,16.9616,5.67473,10.1674
+"Cervical cancer","Females","75-79 years",463.204,20.0057,6.12966,11.1408
+"Cervical cancer","Females","80+ years",1170.94,28.6755,9.55194,15.9682
+"Mouth cancer","Males","15-19 years",3.7544,0.0840849,0.0114973,0.034985
+"Mouth cancer","Males","20-24 years",5.01159,0.0998109,0.016833,0.0460097
+"Mouth cancer","Males","25-29 years",9.54207,0.180602,0.0328483,0.0873544
+"Mouth cancer","Males","30-34 years",14.8477,0.326839,0.05554,0.145289
+"Mouth cancer","Males","35-39 years",31.7844,0.603245,0.142927,0.315324
+"Mouth cancer","Males","40-44 years",72.9834,1.16121,0.373891,0.698467
+"Mouth cancer","Males","45-49 years",172.789,2.49213,0.886339,1.54773
+"Mouth cancer","Males","50-54 years",331.146,4.66964,1.9178,3.05993
+"Mouth cancer","Males","55-59 years",434.099,6.92632,2.99945,4.59624
+"Mouth cancer","Males","60-64 years",537.689,9.88011,4.25402,6.72925
+"Mouth cancer","Males","65-69 years",482.091,12.8159,5.41562,8.43342
+"Mouth cancer","Males","70-74 years",399.927,14.3355,6.05723,9.57961
+"Mouth cancer","Males","75-79 years",367.132,17.3606,7.24575,11.6288
+"Mouth cancer","Males","80+ years",698.692,26.959,9.71484,16.7589
+"Mouth cancer","Females","15-19 years",2.25724,0.0686065,0.00384228,0.0220702
+"Mouth cancer","Females","20-24 years",4.47464,0.135461,0.00947086,0.0433096
+"Mouth cancer","Females","25-29 years",6.4031,0.155013,0.0127997,0.0621096
+"Mouth cancer","Females","30-34 years",10.7543,0.3,0.0300592,0.108956
+"Mouth cancer","Females","35-39 years",18.0507,0.401009,0.0661274,0.18225
+"Mouth cancer","Females","40-44 years",36.8597,0.624377,0.156404,0.354486
+"Mouth cancer","Females","45-49 years",73.6639,1.14398,0.320795,0.647956
+"Mouth cancer","Females","50-54 years",122.365,1.96668,0.545695,1.09094
+"Mouth cancer","Females","55-59 years",166.582,3.00859,0.839923,1.66517
+"Mouth cancer","Females","60-64 years",211.604,4.50208,1.28745,2.44436
+"Mouth cancer","Females","65-69 years",226.104,5.76071,1.89172,3.49567
+"Mouth cancer","Females","70-74 years",227.735,7.51371,2.5695,4.54943
+"Mouth cancer","Females","75-79 years",239.632,9.60916,3.23733,5.76352
+"Mouth cancer","Females","80+ years",764.309,17.4412,6.12625,10.423
+"Congenital heart anomalies","Males","0-6 days",276.91,1246.54,332.243,656.947
+"Congenital heart anomalies","Males","7-27 days",175.241,238.574,86.4483,138.91
+"Congenital heart anomalies","Males","28-364 days",316.463,25.2174,8.91824,15.6969
+"Congenital heart anomalies","Males","1-4 years",132.023,3.40493,0.693392,1.53778
+"Congenital heart anomalies","Males","5-9 years",39.1625,0.660009,0.180851,0.373528
+"Congenital heart anomalies","Males","10-14 years",44.9878,0.79962,0.191997,0.445432
+"Congenital heart anomalies","Males","15-19 years",83.6092,1.39098,0.364736,0.779103
+"Congenital heart anomalies","Males","20-24 years",84.8509,1.45278,0.373995,0.778988
+"Congenital heart anomalies","Males","25-29 years",80.346,1.43405,0.332927,0.73554
+"Congenital heart anomalies","Males","30-34 years",66.9583,1.38845,0.260852,0.655207
+"Congenital heart anomalies","Males","35-39 years",70.2856,1.48817,0.255099,0.697282
+"Congenital heart anomalies","Males","40-44 years",81.4814,1.53459,0.320955,0.779794
+"Congenital heart anomalies","Males","45-49 years",89.419,1.5137,0.317198,0.800959
+"Congenital heart anomalies","Males","50-54 years",81.6293,1.35163,0.330501,0.75429
+"Congenital heart anomalies","Males","55-59 years",74.6225,1.38012,0.370615,0.790104
+"Congenital heart anomalies","Males","60-64 years",82.2341,1.80789,0.467454,1.02917
+"Congenital heart anomalies","Males","65-69 years",68.6864,1.98365,0.617574,1.20156
+"Congenital heart anomalies","Males","70-74 years",70.4103,2.7077,0.949613,1.68657
+"Congenital heart anomalies","Males","75-79 years",88.4967,4.03992,1.68836,2.80312
+"Congenital heart anomalies","Males","80+ years",418.582,15.6895,4.6115,10.0402
+"Congenital heart anomalies","Females","0-6 days",236.056,1092.31,285.877,587.336
+"Congenital heart anomalies","Females","7-27 days",159.247,209.189,70.2108,132.34
+"Congenital heart anomalies","Females","28-364 days",283.693,24.281,8.13731,14.7478
+"Congenital heart anomalies","Females","1-4 years",124.432,3.19761,0.743268,1.51794
+"Congenital heart anomalies","Females","5-9 years",34.906,0.673283,0.143084,0.348166
+"Congenital heart anomalies","Females","10-14 years",36.4195,0.669723,0.159603,0.377552
+"Congenital heart anomalies","Females","15-19 years",47.3339,0.892129,0.205357,0.462808
+"Congenital heart anomalies","Females","20-24 years",51.4799,1.01386,0.190719,0.498268
+"Congenital heart anomalies","Females","25-29 years",52.7517,1.02276,0.185215,0.511688
+"Congenital heart anomalies","Females","30-34 years",46.8333,1.05684,0.157668,0.474485
+"Congenital heart anomalies","Females","35-39 years",55.0583,1.34859,0.197921,0.555902
+"Congenital heart anomalies","Females","40-44 years",67.7158,1.32404,0.271333,0.651233
+"Congenital heart anomalies","Females","45-49 years",78.4265,1.33558,0.293488,0.689849
+"Congenital heart anomalies","Females","50-54 years",76.6836,1.16256,0.314273,0.683671
+"Congenital heart anomalies","Females","55-59 years",74.9903,1.26542,0.378647,0.749608
+"Congenital heart anomalies","Females","60-64 years",80.5271,1.68916,0.454168,0.930215
+"Congenital heart anomalies","Females","65-69 years",78.5377,1.96112,0.61528,1.21423
+"Congenital heart anomalies","Females","70-74 years",89.2788,3.01363,0.971394,1.78351
+"Congenital heart anomalies","Females","75-79 years",119.847,4.29084,1.75447,2.8825
+"Congenital heart anomalies","Females","80+ years",880.429,20.3953,5.53824,12.0065
+"Other congenital anomalies","Males","0-6 days",815.737,4635.49,640.52,1935.27
+"Other congenital anomalies","Males","7-27 days",156.641,282.763,37.1559,124.166
+"Other congenital anomalies","Males","28-364 days",258.162,22.1692,6.53096,12.8051
+"Other congenital anomalies","Males","1-4 years",143.22,3.2071,0.821374,1.6682
+"Other congenital anomalies","Males","5-9 years",44.6297,0.830691,0.195587,0.425674
+"Other congenital anomalies","Males","10-14 years",33.1985,0.652494,0.140426,0.328704
+"Other congenital anomalies","Males","15-19 years",44.9605,0.87233,0.186813,0.41896
+"Other congenital anomalies","Males","20-24 years",44.8725,0.810273,0.187514,0.41196
+"Other congenital anomalies","Males","25-29 years",38.448,0.675724,0.151603,0.351978
+"Other congenital anomalies","Males","30-34 years",31.6014,0.602163,0.147871,0.309229
+"Other congenital anomalies","Males","35-39 years",34.0095,0.694448,0.160321,0.337398
+"Other congenital anomalies","Males","40-44 years",44.9475,0.940917,0.159668,0.430157
+"Other congenital anomalies","Males","45-49 years",63.4819,1.22705,0.207246,0.568631
+"Other congenital anomalies","Males","50-54 years",72.9011,1.4143,0.281343,0.673638
+"Other congenital anomalies","Males","55-59 years",77.4333,1.56043,0.334713,0.819865
+"Other congenital anomalies","Males","60-64 years",92.8983,2.36232,0.421474,1.16263
+"Other congenital anomalies","Males","65-69 years",88.6326,3.23814,0.541123,1.55049
+"Other congenital anomalies","Males","70-74 years",95.4238,4.38673,0.843654,2.28573
+"Other congenital anomalies","Males","75-79 years",121.054,7.64626,1.20289,3.83438
+"Other congenital anomalies","Males","80+ years",393.035,18.7255,3.67343,9.4274
+"Other congenital anomalies","Females","0-6 days",590.892,3706.33,473.523,1470.21
+"Other congenital anomalies","Females","7-27 days",117.371,231.018,28.3084,97.5394
+"Other congenital anomalies","Females","28-364 days",202.856,17.5026,5.75318,10.5455
+"Other congenital anomalies","Females","1-4 years",119.121,2.66359,0.822238,1.45315
+"Other congenital anomalies","Females","5-9 years",37.9093,0.705197,0.163224,0.378122
+"Other congenital anomalies","Females","10-14 years",26.1587,0.549755,0.115048,0.271182
+"Other congenital anomalies","Females","15-19 years",32.4401,0.677405,0.134183,0.317184
+"Other congenital anomalies","Females","20-24 years",33.0555,0.721101,0.127218,0.319941
+"Other congenital anomalies","Females","25-29 years",33.0286,0.724889,0.124639,0.320375
+"Other congenital anomalies","Females","30-34 years",24.3237,0.557465,0.0927061,0.246432
+"Other congenital anomalies","Females","35-39 years",29.4502,0.681928,0.116537,0.297347
+"Other congenital anomalies","Females","40-44 years",34.0023,0.65494,0.143733,0.327005
+"Other congenital anomalies","Females","45-49 years",47.7933,0.851528,0.170824,0.420395
+"Other congenital anomalies","Females","50-54 years",58.5474,1.0223,0.235791,0.521978
+"Other congenital anomalies","Females","55-59 years",67.7008,1.28797,0.302328,0.676742
+"Other congenital anomalies","Females","60-64 years",86.0017,1.91946,0.453099,0.993456
+"Other congenital anomalies","Females","65-69 years",83.9549,2.51187,0.571986,1.29798
+"Other congenital anomalies","Females","70-74 years",91.4945,3.52521,0.763757,1.82778
+"Other congenital anomalies","Females","75-79 years",116.833,5.67062,0.896375,2.81
+"Other congenital anomalies","Females","80+ years",520.442,14.4251,2.46268,7.09733
+"Other infectious diseases","Males","0-6 days",16.3546,77.7548,12.5757,38.7999
+"Other infectious diseases","Males","7-27 days",36.9321,59.6074,10.7097,29.2752
+"Other infectious diseases","Males","28-364 days",69.2726,8.05846,0.925888,3.43599
+"Other infectious diseases","Males","1-4 years",34.3189,0.90491,0.151068,0.399739
+"Other infectious diseases","Males","5-9 years",12.3082,0.252685,0.0349275,0.117394
+"Other infectious diseases","Males","10-14 years",9.70311,0.205965,0.0304655,0.0960722
+"Other infectious diseases","Males","15-19 years",16.7444,0.3333,0.0513962,0.156031
+"Other infectious diseases","Males","20-24 years",20.4082,0.381775,0.0696523,0.187361
+"Other infectious diseases","Males","25-29 years",24.2573,0.465955,0.0942312,0.222068
+"Other infectious diseases","Males","30-34 years",28.5947,0.615739,0.116128,0.279808
+"Other infectious diseases","Males","35-39 years",40.0955,0.787993,0.162619,0.397775
+"Other infectious diseases","Males","40-44 years",58.7752,1.17927,0.226215,0.562491
+"Other infectious diseases","Males","45-49 years",90.2795,1.62596,0.334506,0.808667
+"Other infectious diseases","Males","50-54 years",126.454,2.46541,0.424063,1.16849
+"Other infectious diseases","Males","55-59 years",168.067,3.46244,0.635676,1.7795
+"Other infectious diseases","Males","60-64 years",222.564,5.68292,0.834812,2.78541
+"Other infectious diseases","Males","65-69 years",226.749,7.70778,1.2758,3.96661
+"Other infectious diseases","Males","70-74 years",240.368,10.9038,1.81441,5.75763
+"Other infectious diseases","Males","75-79 years",284.454,20.0576,2.4344,9.01002
+"Other infectious diseases","Males","80+ years",742.761,34.113,6.31484,17.816
+"Other infectious diseases","Females","0-6 days",12.7784,65.4586,10.1461,31.7941
+"Other infectious diseases","Females","7-27 days",27.8579,44.3006,9.05445,23.1508
+"Other infectious diseases","Females","28-364 days",47.9138,5.60343,0.699655,2.49081
+"Other infectious diseases","Females","1-4 years",25.9124,0.667407,0.111627,0.316105
+"Other infectious diseases","Females","5-9 years",9.72291,0.226681,0.0333851,0.0969801
+"Other infectious diseases","Females","10-14 years",8.47924,0.180982,0.0312176,0.0879024
+"Other infectious diseases","Females","15-19 years",13.9868,0.300567,0.0541255,0.136756
+"Other infectious diseases","Females","20-24 years",13.8339,0.293179,0.0532991,0.133897
+"Other infectious diseases","Females","25-29 years",15.6524,0.331621,0.0579112,0.151827
+"Other infectious diseases","Females","30-34 years",19.4795,0.407028,0.0788403,0.197354
+"Other infectious diseases","Females","35-39 years",26.6864,0.548783,0.105043,0.269441
+"Other infectious diseases","Females","40-44 years",36.8699,0.696889,0.13551,0.354584
+"Other infectious diseases","Females","45-49 years",62.5242,1.07783,0.232923,0.54997
+"Other infectious diseases","Females","50-54 years",83.7239,1.49268,0.269358,0.746439
+"Other infectious diseases","Females","55-59 years",129.258,2.78226,0.466474,1.29207
+"Other infectious diseases","Females","60-64 years",176.443,4.10576,0.615154,2.0382
+"Other infectious diseases","Females","65-69 years",186.067,5.94685,0.851074,2.87668
+"Other infectious diseases","Females","70-74 years",201.883,8.3195,1.04096,4.03299
+"Other infectious diseases","Females","75-79 years",243.955,11.5017,1.73484,5.86749
+"Other infectious diseases","Females","80+ years",980.297,27.6786,3.82759,13.3684
+"Protein-energy malnutrition","Males","7-27 days",0,0,0,0
+"Protein-energy malnutrition","Males","28-364 days",5.18977,0.540355,0.10848,0.257418
+"Protein-energy malnutrition","Males","1-4 years",4.07643,0.100383,0.0181999,0.0474813
+"Protein-energy malnutrition","Males","5-9 years",1.07794,0.0203672,0.00374986,0.0102813
+"Protein-energy malnutrition","Males","10-14 years",0.943841,0.0202111,0.00317366,0.00934514
+"Protein-energy malnutrition","Males","15-19 years",1.43944,0.0273985,0.00519538,0.0134133
+"Protein-energy malnutrition","Males","20-24 years",1.75594,0.0319502,0.00690354,0.0161207
+"Protein-energy malnutrition","Males","25-29 years",3.203,0.0576735,0.0118421,0.0293223
+"Protein-energy malnutrition","Males","30-34 years",3.03938,0.0574653,0.0127733,0.0297413
+"Protein-energy malnutrition","Males","35-39 years",5.26807,0.104055,0.0243202,0.0522629
+"Protein-energy malnutrition","Males","40-44 years",10.2691,0.184585,0.0455265,0.0982772
+"Protein-energy malnutrition","Males","45-49 years",19.3908,0.333171,0.0728629,0.173691
+"Protein-energy malnutrition","Males","50-54 years",32.6977,0.550439,0.14368,0.302141
+"Protein-energy malnutrition","Males","55-59 years",43.2963,0.82584,0.224627,0.458422
+"Protein-energy malnutrition","Males","60-64 years",66.4399,1.50115,0.408999,0.831504
+"Protein-energy malnutrition","Males","65-69 years",80.921,2.45806,0.68493,1.41559
+"Protein-energy malnutrition","Males","70-74 years",119.719,4.85775,1.42534,2.86769
+"Protein-energy malnutrition","Males","75-79 years",182.422,9.44815,2.97787,5.77818
+"Protein-energy malnutrition","Males","80+ years",1119.7,45.3623,14.3025,26.8572
+"Protein-energy malnutrition","Females","7-27 days",0,0,0,0
+"Protein-energy malnutrition","Females","28-364 days",4.1398,0.457163,0.0891466,0.215208
+"Protein-energy malnutrition","Females","1-4 years",3.69182,0.099051,0.0165503,0.0450365
+"Protein-energy malnutrition","Females","5-9 years",1.20158,0.0261221,0.00389042,0.011985
+"Protein-energy malnutrition","Females","10-14 years",1.01737,0.0227171,0.00303176,0.0105469
+"Protein-energy malnutrition","Females","15-19 years",1.21737,0.0256966,0.00391638,0.0119029
+"Protein-energy malnutrition","Females","20-24 years",1.56196,0.0313068,0.005804,0.0151181
+"Protein-energy malnutrition","Females","25-29 years",2.31171,0.0435071,0.00959165,0.0224235
+"Protein-energy malnutrition","Females","30-34 years",3.37429,0.0643778,0.0153251,0.0341861
+"Protein-energy malnutrition","Females","35-39 years",7.23097,0.142785,0.0305538,0.0730082
+"Protein-energy malnutrition","Females","40-44 years",12.1596,0.23793,0.0516154,0.116941
+"Protein-energy malnutrition","Females","45-49 years",23.3613,0.384971,0.085109,0.205489
+"Protein-energy malnutrition","Females","50-54 years",30.3623,0.529532,0.106847,0.270695
+"Protein-energy malnutrition","Females","55-59 years",43.4302,0.841381,0.163628,0.434131
+"Protein-energy malnutrition","Females","60-64 years",65.0933,1.44477,0.281561,0.751931
+"Protein-energy malnutrition","Females","65-69 years",79.8795,2.09378,0.524459,1.23497
+"Protein-energy malnutrition","Females","70-74 years",135.294,4.83028,1.17632,2.70275
+"Protein-energy malnutrition","Females","75-79 years",230.887,9.3784,2.64424,5.55319
+"Protein-energy malnutrition","Females","80+ years",2411.57,52.4465,16.6168,32.8868
+"Drowning","Males","0-6 days",1.26922,5.33735,1.71337,3.01113
+"Drowning","Males","7-27 days",0.392865,0.545117,0.157939,0.311414
+"Drowning","Males","28-364 days",26.5689,2.40717,0.697377,1.31784
+"Drowning","Males","1-4 years",331.798,6.83166,2.08097,3.86471
+"Drowning","Males","5-9 years",107.225,1.63726,0.622726,1.0227
+"Drowning","Males","10-14 years",104.388,1.81284,0.575636,1.03356
+"Drowning","Males","15-19 years",336.321,5.28879,1.83727,3.13397
+"Drowning","Males","20-24 years",367.886,6.31227,1.93935,3.37744
+"Drowning","Males","25-29 years",263.697,4.2792,1.45217,2.41405
+"Drowning","Males","30-34 years",196.711,3.34915,1.13101,1.92488
+"Drowning","Males","35-39 years",191.372,3.13115,1.12545,1.89854
+"Drowning","Males","40-44 years",218.882,3.42779,1.29031,2.09475
+"Drowning","Males","45-49 years",261.458,3.66476,1.35251,2.34198
+"Drowning","Males","50-54 years",242.747,3.65041,1.26398,2.24309
+"Drowning","Males","55-59 years",204.505,3.48842,1.20743,2.1653
+"Drowning","Males","60-64 years",177.966,3.72576,1.09464,2.22727
+"Drowning","Males","65-69 years",125.207,3.78137,1.12577,2.19029
+"Drowning","Males","70-74 years",110.969,4.44323,1.28693,2.65809
+"Drowning","Males","75-79 years",95.1605,5.69354,1.45687,3.01419
+"Drowning","Males","80+ years",176.464,7.39104,2.24707,4.2327
+"Drowning","Females","0-6 days",0.608856,2.58758,0.792852,1.51491
+"Drowning","Females","7-27 days",0.145655,0.248198,0.0567333,0.121044
+"Drowning","Females","28-364 days",21.0263,2.20382,0.469092,1.09306
+"Drowning","Females","1-4 years",176.581,3.78473,1.09954,2.1541
+"Drowning","Females","5-9 years",43.0915,0.79409,0.212939,0.429811
+"Drowning","Females","10-14 years",34.4435,0.629893,0.18211,0.357068
+"Drowning","Females","15-19 years",37.8793,0.63883,0.193159,0.370365
+"Drowning","Females","20-24 years",40.6982,0.694189,0.218984,0.393914
+"Drowning","Females","25-29 years",34.1662,0.608531,0.174342,0.33141
+"Drowning","Females","30-34 years",32.276,0.567194,0.168046,0.326999
+"Drowning","Females","35-39 years",37.5378,0.64098,0.205594,0.379004
+"Drowning","Females","40-44 years",52.0726,0.875568,0.266814,0.500791
+"Drowning","Females","45-49 years",60.6079,0.960757,0.246572,0.533114
+"Drowning","Females","50-54 years",57.667,0.914348,0.237203,0.514129
+"Drowning","Females","55-59 years",48.2607,0.893559,0.225828,0.482417
+"Drowning","Females","60-64 years",46.6771,0.974174,0.22707,0.539195
+"Drowning","Females","65-69 years",38.8254,1.08069,0.266376,0.600258
+"Drowning","Females","70-74 years",34.8741,1.28041,0.348067,0.696676
+"Drowning","Females","75-79 years",39.0268,1.70864,0.445891,0.938654
+"Drowning","Females","80+ years",109.2,2.51195,0.803788,1.48917
+"Pneumoconiosis","Males","1-4 years",0.605652,0.0198921,0.00184526,0.00705449
+"Pneumoconiosis","Males","5-9 years",0.145954,0.00327656,0.000407031,0.00139209
+"Pneumoconiosis","Males","10-14 years",0.283162,0.00701775,0.00076271,0.00280364
+"Pneumoconiosis","Males","15-19 years",0.269585,0.00499622,0.0010307,0.00251209
+"Pneumoconiosis","Males","20-24 years",0.407217,0.00705187,0.00158751,0.00373853
+"Pneumoconiosis","Males","25-29 years",0.558397,0.00995483,0.00228193,0.00511194
+"Pneumoconiosis","Males","30-34 years",0.833727,0.0157681,0.0034575,0.00815828
+"Pneumoconiosis","Males","35-39 years",1.8278,0.0332312,0.00831183,0.018133
+"Pneumoconiosis","Males","40-44 years",5.20695,0.0911941,0.0231589,0.0498316
+"Pneumoconiosis","Males","45-49 years",13.5286,0.222028,0.0554892,0.121181
+"Pneumoconiosis","Males","50-54 years",33.82,0.596094,0.139908,0.312512
+"Pneumoconiosis","Males","55-59 years",64.8598,1.46798,0.278141,0.686736
+"Pneumoconiosis","Males","60-64 years",129.596,3.22909,0.700188,1.62191
+"Pneumoconiosis","Males","65-69 years",189.722,6.65523,1.53579,3.31889
+"Pneumoconiosis","Males","70-74 years",286.513,12.9282,3.31629,6.86296
+"Pneumoconiosis","Males","75-79 years",407.897,24.425,6.22967,12.9201
+"Pneumoconiosis","Males","80+ years",1545.02,67.0311,18.3076,37.0591
+"Pneumoconiosis","Females","1-4 years",0.255171,0.0088044,0.000557239,0.00311283
+"Pneumoconiosis","Females","5-9 years",0.0708351,0.00326857,5.36421e-05,0.000706536
+"Pneumoconiosis","Females","10-14 years",0.128078,0.00529211,0.000180635,0.00132776
+"Pneumoconiosis","Females","15-19 years",0.0661403,0.00221101,9.23886e-05,0.000646688
+"Pneumoconiosis","Females","20-24 years",0.0847758,0.00301087,0.000120042,0.000820536
+"Pneumoconiosis","Females","25-29 years",0.118284,0.00328398,0.000275819,0.00114735
+"Pneumoconiosis","Females","30-34 years",0.317205,0.0068287,0.00122857,0.00321372
+"Pneumoconiosis","Females","35-39 years",0.799747,0.0150176,0.00381994,0.00807473
+"Pneumoconiosis","Females","40-44 years",2.0234,0.0357826,0.00933559,0.0194593
+"Pneumoconiosis","Females","45-49 years",4.93919,0.0875137,0.019214,0.0434457
+"Pneumoconiosis","Females","50-54 years",11.9581,0.192732,0.0507391,0.106612
+"Pneumoconiosis","Females","55-59 years",23.8183,0.446379,0.112305,0.238089
+"Pneumoconiosis","Females","60-64 years",44.258,0.977555,0.23499,0.51125
+"Pneumoconiosis","Females","65-69 years",61.318,1.63881,0.477445,0.948003
+"Pneumoconiosis","Females","70-74 years",92.8614,3.44639,0.893222,1.85508
+"Pneumoconiosis","Females","75-79 years",144.361,6.6063,1.69267,3.4721
+"Pneumoconiosis","Females","80+ years",1148.04,29.6269,7.165,15.656
+"Larynx cancer","Males","15-19 years",0.199245,0.00565112,0.000259463,0.00185664
+"Larynx cancer","Males","20-24 years",0.772408,0.0195622,0.00216373,0.00709122
+"Larynx cancer","Males","25-29 years",0.82402,0.0194879,0.00213244,0.00754362
+"Larynx cancer","Males","30-34 years",2.24302,0.0579505,0.00697072,0.0219486
+"Larynx cancer","Males","35-39 years",7.96523,0.183489,0.0260008,0.0790206
+"Larynx cancer","Males","40-44 years",38.1425,0.828332,0.139087,0.365032
+"Larynx cancer","Males","45-49 years",120.846,2.15973,0.450693,1.08246
+"Larynx cancer","Males","50-54 years",269.741,5.4395,1.05431,2.49252
+"Larynx cancer","Males","55-59 years",376.543,7.92648,1.87566,3.98684
+"Larynx cancer","Males","60-64 years",479.629,11.3184,2.68636,6.00262
+"Larynx cancer","Males","65-69 years",454.492,15.6835,3.26917,7.95062
+"Larynx cancer","Males","70-74 years",397.421,17.8604,4.23329,9.51959
+"Larynx cancer","Males","75-79 years",348.024,21.7063,4.45474,11.0236
+"Larynx cancer","Males","80+ years",630.608,29.8891,6.64664,15.1259
+"Larynx cancer","Females","15-19 years",0.0575578,0.00306702,2.94396e-05,0.000562772
+"Larynx cancer","Females","20-24 years",0.294863,0.0150691,0.000133117,0.00285395
+"Larynx cancer","Females","25-29 years",0.946082,0.0483593,0.000453191,0.00917693
+"Larynx cancer","Females","30-34 years",1.49267,0.0592539,0.001488,0.0151228
+"Larynx cancer","Females","35-39 years",3.9334,0.136457,0.00536068,0.039714
+"Larynx cancer","Females","40-44 years",15.1097,0.365056,0.0428169,0.145312
+"Larynx cancer","Females","45-49 years",41.1622,0.944686,0.105717,0.362068
+"Larynx cancer","Females","50-54 years",76.4044,1.5579,0.231464,0.681182
+"Larynx cancer","Females","55-59 years",106.274,2.52433,0.379094,1.06232
+"Larynx cancer","Females","60-64 years",135.764,3.28326,0.660832,1.56829
+"Larynx cancer","Females","65-69 years",142.281,4.827,0.804801,2.19973
+"Larynx cancer","Females","70-74 years",136.187,5.55505,1.07651,2.72059
+"Larynx cancer","Females","75-79 years",106.422,4.74524,1.22905,2.55962
+"Larynx cancer","Females","80+ years",204.29,5.52562,1.03746,2.78592
+"Asthma","Males","1-4 years",21.6835,0.527037,0.0880742,0.252564
+"Asthma","Males","5-9 years",28.0321,0.508157,0.0845694,0.267367
+"Asthma","Males","10-14 years",33.3973,0.611985,0.138353,0.330672
+"Asthma","Males","15-19 years",40.7902,0.686403,0.175297,0.380099
+"Asthma","Males","20-24 years",48.9169,0.797506,0.199318,0.449089
+"Asthma","Males","25-29 years",50.0554,0.814255,0.192653,0.45824
+"Asthma","Males","30-34 years",43.4786,0.782139,0.201549,0.425452
+"Asthma","Males","35-39 years",51.8254,0.890021,0.251721,0.514144
+"Asthma","Males","40-44 years",67.3708,1.07243,0.367561,0.644753
+"Asthma","Males","45-49 years",97.0666,1.38836,0.512297,0.869462
+"Asthma","Males","50-54 years",118.825,1.9917,0.600364,1.09799
+"Asthma","Males","55-59 years",108.671,2.34153,0.663682,1.15061
+"Asthma","Males","60-64 years",113.033,3.35565,0.765274,1.41462
+"Asthma","Males","65-69 years",110.505,4.97572,1.01014,1.9331
+"Asthma","Males","70-74 years",101.914,6.60619,1.28627,2.44119
+"Asthma","Males","75-79 years",110.518,8.859,1.91697,3.50065
+"Asthma","Males","80+ years",357.268,19.1467,4.9477,8.56948
+"Asthma","Females","1-4 years",15.0853,0.38974,0.0688248,0.184025
+"Asthma","Females","5-9 years",14.4779,0.268789,0.0624942,0.144408
+"Asthma","Females","10-14 years",20.298,0.375479,0.0978156,0.210424
+"Asthma","Females","15-19 years",27.9758,0.515906,0.117229,0.273534
+"Asthma","Females","20-24 years",31.1086,0.565479,0.134392,0.301097
+"Asthma","Females","25-29 years",33.2662,0.567189,0.162693,0.322679
+"Asthma","Females","30-34 years",43.1831,0.738482,0.232847,0.437504
+"Asthma","Females","35-39 years",59.9704,1.00679,0.336034,0.605497
+"Asthma","Females","40-44 years",96.6322,1.50004,0.527793,0.929328
+"Asthma","Females","45-49 years",151.983,2.09186,0.809628,1.33686
+"Asthma","Females","50-54 years",180.01,2.57974,0.951955,1.60488
+"Asthma","Females","55-59 years",174.741,2.94243,1.11549,1.74672
+"Asthma","Females","60-64 years",184.359,3.32036,1.32471,2.12964
+"Asthma","Females","65-69 years",161.335,4.01803,1.6244,2.4943
+"Asthma","Females","70-74 years",171.161,5.38753,2.24002,3.41926
+"Asthma","Females","75-79 years",185.752,6.98758,2.98192,4.46762
+"Asthma","Females","80+ years",940.935,18.193,8.29791,12.8316
+"Pancreatitis","Males","1-4 years",1.31164,0.0257543,0.00778695,0.0152777
+"Pancreatitis","Males","5-9 years",0.904585,0.0175613,0.00378529,0.00862784
+"Pancreatitis","Males","10-14 years",1.37468,0.0321933,0.00555864,0.0136109
+"Pancreatitis","Males","15-19 years",3.90083,0.0704654,0.0176058,0.0363495
+"Pancreatitis","Males","20-24 years",9.95597,0.176842,0.0389402,0.0914024
+"Pancreatitis","Males","25-29 years",28.6817,0.538678,0.110414,0.262572
+"Pancreatitis","Males","30-34 years",41.4776,0.814003,0.171354,0.405871
+"Pancreatitis","Males","35-39 years",61.373,1.16937,0.279648,0.608863
+"Pancreatitis","Males","40-44 years",105.143,1.75711,0.494587,1.00624
+"Pancreatitis","Males","45-49 years",153.678,2.19956,0.741391,1.37655
+"Pancreatitis","Males","50-54 years",180.323,2.70478,0.898337,1.66626
+"Pancreatitis","Males","55-59 years",176.008,2.98205,0.984177,1.86358
+"Pancreatitis","Males","60-64 years",196.597,3.97102,1.37005,2.46043
+"Pancreatitis","Males","65-69 years",185.893,5.12964,1.77851,3.2519
+"Pancreatitis","Males","70-74 years",185.9,7.13662,2.32266,4.45293
+"Pancreatitis","Males","75-79 years",180.521,8.82294,3.24539,5.71796
+"Pancreatitis","Males","80+ years",461.56,18.3974,6.31259,11.071
+"Pancreatitis","Females","1-4 years",1.31786,0.0317007,0.00720267,0.0160766
+"Pancreatitis","Females","5-9 years",1.24722,0.0270739,0.00504851,0.0124403
+"Pancreatitis","Females","10-14 years",2.1766,0.0471534,0.00939088,0.0225643
+"Pancreatitis","Females","15-19 years",2.97065,0.0602404,0.0114732,0.0290456
+"Pancreatitis","Females","20-24 years",7.69545,0.147391,0.0298977,0.0744835
+"Pancreatitis","Females","25-29 years",12.2515,0.236201,0.0493683,0.118839
+"Pancreatitis","Females","30-34 years",16.2546,0.329054,0.0664676,0.164681
+"Pancreatitis","Females","35-39 years",29.2167,0.550952,0.145428,0.29499
+"Pancreatitis","Females","40-44 years",50.7321,0.876432,0.245059,0.487899
+"Pancreatitis","Females","45-49 years",71.5698,1.12117,0.302805,0.629536
+"Pancreatitis","Females","50-54 years",89.9244,1.4673,0.391852,0.80172
+"Pancreatitis","Females","55-59 years",98.2801,1.68613,0.50842,0.982414
+"Pancreatitis","Females","60-64 years",116.324,2.16234,0.761359,1.34372
+"Pancreatitis","Females","65-69 years",117.387,2.816,1.07519,1.81486
+"Pancreatitis","Females","70-74 years",148.523,4.7819,1.78237,2.96704
+"Pancreatitis","Females","75-79 years",187.621,6.94871,2.71743,4.51257
+"Pancreatitis","Females","80+ years",853.405,18.3497,6.69465,11.638
+"Multiple sclerosis","Males","5-9 years",0,0,0,0
+"Multiple sclerosis","Males","10-14 years",0,0,0,0
+"Multiple sclerosis","Males","15-19 years",0,0,0,0
+"Multiple sclerosis","Males","20-24 years",3.26174,0.0569066,0.0134654,0.0299449
+"Multiple sclerosis","Males","25-29 years",6.40225,0.117946,0.0249422,0.0586104
+"Multiple sclerosis","Males","30-34 years",13.8614,0.294554,0.0487696,0.135638
+"Multiple sclerosis","Males","35-39 years",28.0571,0.550134,0.109215,0.278346
+"Multiple sclerosis","Males","40-44 years",57.0958,1.14049,0.206704,0.546419
+"Multiple sclerosis","Males","45-49 years",108.552,2.03504,0.388219,0.972343
+"Multiple sclerosis","Males","50-54 years",163.644,3.07525,0.625736,1.51214
+"Multiple sclerosis","Males","55-59 years",176.075,3.75716,0.832892,1.86428
+"Multiple sclerosis","Males","60-64 years",195.466,5.42704,0.970963,2.44628
+"Multiple sclerosis","Males","65-69 years",136.94,5.19063,0.881692,2.39555
+"Multiple sclerosis","Males","70-74 years",109.642,5.55328,1.01807,2.6263
+"Multiple sclerosis","Males","75-79 years",87.0528,6.82552,1.01514,2.75738
+"Multiple sclerosis","Males","80+ years",97.5601,6.02931,0.754001,2.34009
+"Multiple sclerosis","Females","5-9 years",0,0,0,0
+"Multiple sclerosis","Females","10-14 years",0,0,0,0
+"Multiple sclerosis","Females","15-19 years",0,0,0,0
+"Multiple sclerosis","Females","20-24 years",4.63356,0.0985197,0.0156197,0.0448478
+"Multiple sclerosis","Females","25-29 years",11.7711,0.262702,0.0386205,0.114179
+"Multiple sclerosis","Females","30-34 years",24.6451,0.5081,0.0837226,0.249688
+"Multiple sclerosis","Females","35-39 years",53.3005,1.1527,0.194895,0.538154
+"Multiple sclerosis","Females","40-44 years",108.368,2.02535,0.431364,1.04219
+"Multiple sclerosis","Females","45-49 years",198.822,3.28173,0.799853,1.74886
+"Multiple sclerosis","Females","50-54 years",280.957,4.83664,1.22733,2.50487
+"Multiple sclerosis","Females","55-59 years",320.945,6.35739,1.47069,3.20819
+"Multiple sclerosis","Females","60-64 years",328.612,7.90116,1.61132,3.79598
+"Multiple sclerosis","Females","65-69 years",252.939,8.27842,1.62648,3.91055
+"Multiple sclerosis","Females","70-74 years",191.74,8.78927,1.64375,3.83037
+"Multiple sclerosis","Females","75-79 years",152.716,8.21158,1.5115,3.67305
+"Multiple sclerosis","Females","80+ years",228.292,7.26661,1.15115,3.11325
+"Endocarditis","Males","0-6 days",0.221391,0.83826,0.298117,0.525234
+"Endocarditis","Males","7-27 days",0.539523,0.771206,0.202078,0.427667
+"Endocarditis","Males","28-364 days",7.64153,0.742074,0.166579,0.379028
+"Endocarditis","Males","1-4 years",3.28275,0.0645321,0.018943,0.0382367
+"Endocarditis","Males","5-9 years",1.39438,0.0237021,0.00678388,0.0132995
+"Endocarditis","Males","10-14 years",1.41341,0.0233461,0.00746678,0.0139944
+"Endocarditis","Males","15-19 years",3.01006,0.0456258,0.0148788,0.0280489
+"Endocarditis","Males","20-24 years",7.96014,0.130547,0.0378654,0.0730794
+"Endocarditis","Males","25-29 years",12.9864,0.223585,0.0560935,0.118886
+"Endocarditis","Males","30-34 years",18.3483,0.32809,0.0781255,0.179544
+"Endocarditis","Males","35-39 years",27.2058,0.518105,0.12551,0.269901
+"Endocarditis","Males","40-44 years",46.4415,0.871625,0.190987,0.444455
+"Endocarditis","Males","45-49 years",76.8059,1.24694,0.323295,0.687979
+"Endocarditis","Males","50-54 years",110.39,1.92723,0.477903,1.02005
+"Endocarditis","Males","55-59 years",119.585,2.26979,0.616486,1.26617
+"Endocarditis","Males","60-64 years",132.362,2.96679,0.857026,1.65653
+"Endocarditis","Males","65-69 years",137.569,4.10653,1.25158,2.40656
+"Endocarditis","Males","70-74 years",155.109,6.05437,1.91693,3.71539
+"Endocarditis","Males","75-79 years",183.663,9.32781,3.11879,5.8175
+"Endocarditis","Males","80+ years",583.699,21.6682,7.78443,14.0007
+"Endocarditis","Females","0-6 days",0.189575,0.789146,0.235625,0.471686
+"Endocarditis","Females","7-27 days",0.449142,0.617206,0.184406,0.373252
+"Endocarditis","Females","28-364 days",4.25846,0.420938,0.0837268,0.221377
+"Endocarditis","Females","1-4 years",2.28404,0.0514759,0.00994632,0.027863
+"Endocarditis","Females","5-9 years",1.09025,0.0216229,0.00380851,0.0108746
+"Endocarditis","Females","10-14 years",1.14583,0.0236531,0.0052225,0.0118785
+"Endocarditis","Females","15-19 years",2.9237,0.0514576,0.0149827,0.0285866
+"Endocarditis","Females","20-24 years",6.38732,0.118102,0.0297186,0.0618222
+"Endocarditis","Females","25-29 years",7.80302,0.143605,0.0371683,0.0756888
+"Endocarditis","Females","30-34 years",10.5048,0.197115,0.0532643,0.106428
+"Endocarditis","Females","35-39 years",19.0194,0.347883,0.0989796,0.192031
+"Endocarditis","Females","40-44 years",29.6029,0.499893,0.144193,0.284696
+"Endocarditis","Females","45-49 years",50.9765,0.855735,0.170534,0.448396
+"Endocarditis","Females","50-54 years",65.4168,1.12165,0.245848,0.583223
+"Endocarditis","Females","55-59 years",72.9791,1.43522,0.296099,0.729504
+"Endocarditis","Females","60-64 years",96.5065,2.07778,0.482146,1.1148
+"Endocarditis","Females","65-69 years",112.315,3.31321,0.71796,1.73643
+"Endocarditis","Females","70-74 years",132.261,4.36151,1.17039,2.64216
+"Endocarditis","Females","75-79 years",174.004,7.10364,1.9364,4.18507
+"Endocarditis","Females","80+ years",837.65,17.4481,5.64138,11.4231
+"Assault by sharp object","Males","0-6 days",0.734098,3.80501,0.893044,1.74159
+"Assault by sharp object","Males","7-27 days",0.16421,0.254315,0.0656673,0.130166
+"Assault by sharp object","Males","28-364 days",2.23525,0.215437,0.044686,0.110871
+"Assault by sharp object","Males","1-4 years",9.64429,0.218907,0.0455824,0.112334
+"Assault by sharp object","Males","5-9 years",7.90137,0.15398,0.0286431,0.0753625
+"Assault by sharp object","Males","10-14 years",12.8195,0.255392,0.0552187,0.126928
+"Assault by sharp object","Males","15-19 years",170.756,2.95052,0.772676,1.59117
+"Assault by sharp object","Males","20-24 years",322.738,6.47231,1.49226,2.96295
+"Assault by sharp object","Males","25-29 years",282.532,6.16168,1.32951,2.58648
+"Assault by sharp object","Males","30-34 years",232.413,5.34009,1.12127,2.27423
+"Assault by sharp object","Males","35-39 years",212.836,5.17952,1.00388,2.11148
+"Assault by sharp object","Males","40-44 years",226.096,4.94718,1.04078,2.16379
+"Assault by sharp object","Males","45-49 years",225.09,4.35903,0.968191,2.01621
+"Assault by sharp object","Males","50-54 years",190.497,3.7786,0.830141,1.76027
+"Assault by sharp object","Males","55-59 years",126.672,3.18345,0.612696,1.34121
+"Assault by sharp object","Males","60-64 years",91.3313,2.70983,0.521872,1.14302
+"Assault by sharp object","Males","65-69 years",60.6059,2.41561,0.445282,1.0602
+"Assault by sharp object","Males","70-74 years",41.3822,2.28913,0.421567,0.991244
+"Assault by sharp object","Males","75-79 years",33.6032,2.77505,0.420593,1.06438
+"Assault by sharp object","Males","80+ years",59.2134,3.82895,0.516048,1.4203
+"Assault by sharp object","Females","0-6 days",0.59491,3.4847,0.576999,1.48021
+"Assault by sharp object","Females","7-27 days",0.161987,0.253763,0.0648438,0.134617
+"Assault by sharp object","Females","28-364 days",1.76581,0.180363,0.0427792,0.091796
+"Assault by sharp object","Females","1-4 years",9.54103,0.216272,0.0510019,0.116391
+"Assault by sharp object","Females","5-9 years",7.15957,0.150197,0.0291841,0.0714123
+"Assault by sharp object","Females","10-14 years",10.772,0.254839,0.0411973,0.111671
+"Assault by sharp object","Females","15-19 years",49.0344,0.978698,0.21595,0.479434
+"Assault by sharp object","Females","20-24 years",82.3552,1.7022,0.34321,0.797108
+"Assault by sharp object","Females","25-29 years",87.8,1.68098,0.387683,0.851654
+"Assault by sharp object","Females","30-34 years",81.6057,1.63174,0.392924,0.826777
+"Assault by sharp object","Females","35-39 years",80.6882,1.64902,0.387253,0.814676
+"Assault by sharp object","Females","40-44 years",79.1988,1.6186,0.368541,0.761668
+"Assault by sharp object","Females","45-49 years",76.6931,1.23292,0.318931,0.674602
+"Assault by sharp object","Females","50-54 years",56.3742,0.981902,0.242032,0.502603
+"Assault by sharp object","Females","55-59 years",47.1371,0.897547,0.221909,0.471186
+"Assault by sharp object","Females","60-64 years",34.0175,0.761519,0.180916,0.392956
+"Assault by sharp object","Females","65-69 years",27.8652,0.818511,0.195214,0.430809
+"Assault by sharp object","Females","70-74 years",23.2738,1.15591,0.172056,0.464938
+"Assault by sharp object","Females","75-79 years",19.7875,1.03425,0.173667,0.47592
+"Assault by sharp object","Females","80+ years",52.0938,1.51074,0.289329,0.710408
+"Non-melanoma skin cancer","Males","15-19 years",0.59761,0.0109102,0.00228254,0.00556876
+"Non-melanoma skin cancer","Males","20-24 years",1.69055,0.0356554,0.00581329,0.0155204
+"Non-melanoma skin cancer","Males","25-29 years",4.67322,0.107092,0.0148657,0.0427817
+"Non-melanoma skin cancer","Males","30-34 years",6.99617,0.185535,0.0196716,0.0684597
+"Non-melanoma skin cancer","Males","35-39 years",13.4556,0.3446,0.0393969,0.133489
+"Non-melanoma skin cancer","Males","40-44 years",32.3793,0.77496,0.116877,0.309876
+"Non-melanoma skin cancer","Males","45-49 years",70.1941,1.38875,0.250639,0.628755
+"Non-melanoma skin cancer","Males","50-54 years",128.028,2.64442,0.460861,1.18303
+"Non-melanoma skin cancer","Males","55-59 years",178.83,3.58133,0.778837,1.89346
+"Non-melanoma skin cancer","Males","60-64 years",216.724,5.07252,1.14031,2.71233
+"Non-melanoma skin cancer","Males","65-69 years",215.638,7.33789,1.46597,3.77225
+"Non-melanoma skin cancer","Males","70-74 years",205.689,8.62572,1.97315,4.92697
+"Non-melanoma skin cancer","Males","75-79 years",244.228,13.92,2.81086,7.73587
+"Non-melanoma skin cancer","Males","80+ years",796.978,32.6703,7.43356,19.1164
+"Non-melanoma skin cancer","Females","15-19 years",0.167307,0.00393356,0.000517819,0.00163585
+"Non-melanoma skin cancer","Females","20-24 years",0.422709,0.00888496,0.00133805,0.00409136
+"Non-melanoma skin cancer","Females","25-29 years",1.06025,0.0251886,0.00315012,0.0102843
+"Non-melanoma skin cancer","Females","30-34 years",1.62838,0.0392095,0.00528034,0.0164977
+"Non-melanoma skin cancer","Females","35-39 years",3.29603,0.0773911,0.0109036,0.0332787
+"Non-melanoma skin cancer","Females","40-44 years",7.57938,0.16434,0.026977,0.0728921
+"Non-melanoma skin cancer","Females","45-49 years",20.427,0.397981,0.065926,0.179678
+"Non-melanoma skin cancer","Females","50-54 years",37.964,0.782848,0.114391,0.338468
+"Non-melanoma skin cancer","Females","55-59 years",48.2543,1.01195,0.194127,0.482353
+"Non-melanoma skin cancer","Females","60-64 years",67.1947,1.58126,0.315252,0.776205
+"Non-melanoma skin cancer","Females","65-69 years",66.6155,2.24637,0.389382,1.0299
+"Non-melanoma skin cancer","Females","70-74 years",74.782,3.01992,0.581007,1.49391
+"Non-melanoma skin cancer","Females","75-79 years",95.1273,4.31153,0.899665,2.28796
+"Non-melanoma skin cancer","Females","80+ years",550.716,14.3529,2.96913,7.51017
+"Assault by other means","Males","0-6 days",16.1419,76.8454,16.2104,38.2954
+"Assault by other means","Males","7-27 days",6.71275,9.92025,2.27897,5.32103
+"Assault by other means","Males","28-364 days",126.529,12.1961,2.33376,6.27597
+"Assault by other means","Males","1-4 years",166.379,3.94977,0.746293,1.93795
+"Assault by other means","Males","5-9 years",26.5706,0.519036,0.105894,0.253427
+"Assault by other means","Males","10-14 years",18.0223,0.33162,0.0897956,0.178442
+"Assault by other means","Males","15-19 years",46.9244,0.963403,0.178681,0.43726
+"Assault by other means","Males","20-24 years",93.5209,2.00963,0.374303,0.858585
+"Assault by other means","Males","25-29 years",93.2505,2.21227,0.347526,0.853676
+"Assault by other means","Males","30-34 years",91.0336,2.20498,0.391618,0.890792
+"Assault by other means","Males","35-39 years",97.9793,2.33175,0.445077,0.972023
+"Assault by other means","Males","40-44 years",122.144,3.0389,0.528897,1.16894
+"Assault by other means","Males","45-49 years",161.291,3.17309,0.701817,1.44474
+"Assault by other means","Males","50-54 years",141.46,2.97968,0.626985,1.30716
+"Assault by other means","Males","55-59 years",111.591,2.95848,0.522715,1.18152
+"Assault by other means","Males","60-64 years",85.6471,2.3769,0.503721,1.07188
+"Assault by other means","Males","65-69 years",62.2671,2.62342,0.460493,1.08926
+"Assault by other means","Males","70-74 years",45.8694,2.75363,0.427923,1.09873
+"Assault by other means","Males","75-79 years",45.8434,3.51049,0.532185,1.45208
+"Assault by other means","Males","80+ years",97.9588,6.76835,0.772703,2.34965
+"Assault by other means","Females","0-6 days",14.5306,73.95,14.8422,36.1539
+"Assault by other means","Females","7-27 days",5.49202,7.86001,2.4413,4.56406
+"Assault by other means","Females","28-364 days",99.1268,9.65442,2.4351,5.15313
+"Assault by other means","Females","1-4 years",161.728,3.80302,0.812528,1.97292
+"Assault by other means","Females","5-9 years",32.9339,0.667447,0.125422,0.328496
+"Assault by other means","Females","10-14 years",21.5735,0.423804,0.0943599,0.223647
+"Assault by other means","Females","15-19 years",62.5716,1.16872,0.25927,0.611795
+"Assault by other means","Females","20-24 years",89.6316,1.77642,0.345413,0.867535
+"Assault by other means","Females","25-29 years",85.6585,1.72839,0.337397,0.830882
+"Assault by other means","Females","30-34 years",76.2729,1.54186,0.328043,0.772748
+"Assault by other means","Females","35-39 years",75.4403,1.53562,0.341106,0.761691
+"Assault by other means","Females","40-44 years",85.7315,1.50657,0.395152,0.824494
+"Assault by other means","Females","45-49 years",91.3453,1.34422,0.424178,0.803484
+"Assault by other means","Females","50-54 years",63.1963,1.01854,0.271321,0.563426
+"Assault by other means","Females","55-59 years",47.3008,0.889818,0.217287,0.472822
+"Assault by other means","Females","60-64 years",39.1503,0.84573,0.20629,0.452247
+"Assault by other means","Females","65-69 years",34.2783,1.17075,0.236393,0.529957
+"Assault by other means","Females","70-74 years",35.1626,1.39508,0.295148,0.70244
+"Assault by other means","Females","75-79 years",34.5033,1.91009,0.308972,0.829858
+"Assault by other means","Females","80+ years",127.377,4.1054,0.681342,1.73706
+"Epilepsy","Males","0-6 days",0,0,0,0
+"Epilepsy","Males","7-27 days",0,0,0,0
+"Epilepsy","Males","28-364 days",5.6456,0.696136,0.0982817,0.280027
+"Epilepsy","Males","1-4 years",16.9343,0.434154,0.0722975,0.197247
+"Epilepsy","Males","5-9 years",11.3236,0.227115,0.0429975,0.108003
+"Epilepsy","Males","10-14 years",12.9763,0.263293,0.0519707,0.128481
+"Epilepsy","Males","15-19 years",32.465,0.560472,0.134369,0.302522
+"Epilepsy","Males","20-24 years",58.3098,0.990763,0.250468,0.535323
+"Epilepsy","Males","25-29 years",64.9938,1.12435,0.274042,0.594996
+"Epilepsy","Males","30-34 years",66.2457,1.16395,0.323191,0.648234
+"Epilepsy","Males","35-39 years",71.285,1.29998,0.340645,0.707196
+"Epilepsy","Males","40-44 years",90.1299,1.49465,0.440657,0.862563
+"Epilepsy","Males","45-49 years",105.599,1.78541,0.456445,0.945891
+"Epilepsy","Males","50-54 years",113.392,1.93555,0.512773,1.04779
+"Epilepsy","Males","55-59 years",89.6734,1.83281,0.473655,0.949464
+"Epilepsy","Males","60-64 years",82.1437,1.93785,0.451099,1.02804
+"Epilepsy","Males","65-69 years",79.361,2.70882,0.600699,1.3883
+"Epilepsy","Males","70-74 years",82.5219,3.9408,0.878758,1.97668
+"Epilepsy","Males","75-79 years",108.389,7.14598,1.32272,3.43322
+"Epilepsy","Males","80+ years",458.295,24.2159,4.22185,10.9927
+"Epilepsy","Females","0-6 days",0,0,0,0
+"Epilepsy","Females","7-27 days",0,0,0,0
+"Epilepsy","Females","28-364 days",4.42669,0.491691,0.089166,0.230123
+"Epilepsy","Females","1-4 years",13.8854,0.389765,0.0651169,0.169387
+"Epilepsy","Females","5-9 years",10.229,0.247479,0.037814,0.102028
+"Epilepsy","Females","10-14 years",11.0914,0.244326,0.0425648,0.114982
+"Epilepsy","Females","15-19 years",24.3904,0.50843,0.1031,0.238477
+"Epilepsy","Females","20-24 years",38.9284,0.740714,0.165238,0.376785
+"Epilepsy","Females","25-29 years",40.1342,0.755186,0.165447,0.389299
+"Epilepsy","Females","30-34 years",39.7742,0.74629,0.183544,0.402967
+"Epilepsy","Females","35-39 years",45.761,0.839045,0.207896,0.46203
+"Epilepsy","Females","40-44 years",57.0752,0.965879,0.251713,0.548902
+"Epilepsy","Females","45-49 years",68.8386,1.17038,0.268164,0.605513
+"Epilepsy","Females","50-54 years",73.2844,1.2948,0.301054,0.653366
+"Epilepsy","Females","55-59 years",68.7855,1.37113,0.316633,0.687584
+"Epilepsy","Females","60-64 years",76.2008,1.71662,0.40372,0.880239
+"Epilepsy","Females","65-69 years",62.9698,1.9469,0.421633,0.973542
+"Epilepsy","Females","70-74 years",71.884,2.91095,0.623369,1.43602
+"Epilepsy","Females","75-79 years",100.593,4.80653,1.0531,2.41941
+"Epilepsy","Females","80+ years",548.649,14.7384,3.07562,7.48199
+"Rheumatoid arthritis","Males","5-9 years",0.701915,0.0162818,0.00206579,0.0066948
+"Rheumatoid arthritis","Males","10-14 years",0.920159,0.0200248,0.00330467,0.00911066
+"Rheumatoid arthritis","Males","15-19 years",1.29641,0.0230693,0.00525152,0.0120804
+"Rheumatoid arthritis","Males","20-24 years",1.00628,0.0173904,0.00385949,0.00923832
+"Rheumatoid arthritis","Males","25-29 years",0.973611,0.0168073,0.00417966,0.00891307
+"Rheumatoid arthritis","Males","30-34 years",1.06702,0.0227619,0.00439999,0.0104411
+"Rheumatoid arthritis","Males","35-39 years",1.77041,0.0384597,0.00666971,0.0175637
+"Rheumatoid arthritis","Males","40-44 years",3.1207,0.0636754,0.0113495,0.0298658
+"Rheumatoid arthritis","Males","45-49 years",8.77995,0.154375,0.0377304,0.0786452
+"Rheumatoid arthritis","Males","50-54 years",20.2132,0.377462,0.0776297,0.186778
+"Rheumatoid arthritis","Males","55-59 years",35.679,0.720923,0.174132,0.37777
+"Rheumatoid arthritis","Males","60-64 years",65.3109,1.58479,0.348724,0.817374
+"Rheumatoid arthritis","Males","65-69 years",80.6303,2.68152,0.618294,1.4105
+"Rheumatoid arthritis","Males","70-74 years",94.4375,4.1472,1.11102,2.2621
+"Rheumatoid arthritis","Males","75-79 years",113.473,6.55751,1.65993,3.59423
+"Rheumatoid arthritis","Males","80+ years",229.064,10.1046,2.22195,5.49436
+"Rheumatoid arthritis","Females","5-9 years",0.906402,0.0190177,0.00368507,0.0090408
+"Rheumatoid arthritis","Females","10-14 years",1.13243,0.0244738,0.00500087,0.0117397
+"Rheumatoid arthritis","Females","15-19 years",1.4275,0.0332281,0.0050728,0.0139574
+"Rheumatoid arthritis","Females","20-24 years",1.8571,0.0441812,0.00623046,0.0179746
+"Rheumatoid arthritis","Females","25-29 years",1.73654,0.0380572,0.00608144,0.0168443
+"Rheumatoid arthritis","Females","30-34 years",1.92819,0.0440559,0.00674002,0.0195352
+"Rheumatoid arthritis","Females","35-39 years",4.20998,0.0930914,0.0171731,0.0425064
+"Rheumatoid arthritis","Females","40-44 years",9.68361,0.189559,0.0368409,0.0931289
+"Rheumatoid arthritis","Females","45-49 years",25.0489,0.44825,0.0922164,0.220333
+"Rheumatoid arthritis","Females","50-54 years",43.17,0.794003,0.162954,0.384881
+"Rheumatoid arthritis","Females","55-59 years",79.8336,1.46001,0.38674,0.798022
+"Rheumatoid arthritis","Females","60-64 years",146.254,3.30838,0.725444,1.68946
+"Rheumatoid arthritis","Females","65-69 years",200.396,5.62762,1.58761,3.0982
+"Rheumatoid arthritis","Females","70-74 years",263.597,9.99378,2.43775,5.26585
+"Rheumatoid arthritis","Females","75-79 years",353.038,15.6376,3.69584,8.49111
+"Rheumatoid arthritis","Females","80+ years",927.631,21.3106,5.59991,12.6502
+"Decubitus ulcer","Males","1-4 years",0.025906,0.000554523,0.000108044,0.000301747
+"Decubitus ulcer","Males","5-9 years",0.0440701,0.00075977,0.000180559,0.000420337
+"Decubitus ulcer","Males","10-14 years",0.0628249,0.0011774,0.000255992,0.000622041
+"Decubitus ulcer","Males","15-19 years",0.352389,0.00617545,0.0014626,0.0032837
+"Decubitus ulcer","Males","20-24 years",0.747044,0.0129877,0.00302316,0.00685837
+"Decubitus ulcer","Males","25-29 years",1.53952,0.025846,0.00651113,0.0140937
+"Decubitus ulcer","Males","30-34 years",2.14708,0.0409449,0.00903144,0.0210098
+"Decubitus ulcer","Males","35-39 years",3.82553,0.0703757,0.0158554,0.0379519
+"Decubitus ulcer","Males","40-44 years",6.75116,0.131326,0.0275262,0.06461
+"Decubitus ulcer","Males","45-49 years",10.2503,0.180937,0.040845,0.0918158
+"Decubitus ulcer","Males","50-54 years",17.6532,0.322226,0.0729337,0.163123
+"Decubitus ulcer","Males","55-59 years",23.0851,0.488284,0.0948261,0.244425
+"Decubitus ulcer","Males","60-64 years",35.501,0.879047,0.200159,0.444299
+"Decubitus ulcer","Males","65-69 years",47.2199,1.54887,0.373233,0.826038
+"Decubitus ulcer","Males","70-74 years",75.2168,3.4077,0.865501,1.8017
+"Decubitus ulcer","Males","75-79 years",108.234,6.90954,1.66926,3.42828
+"Decubitus ulcer","Males","80+ years",506.299,22.723,5.56702,12.1442
+"Decubitus ulcer","Females","1-4 years",0.0380854,0.000875842,0.000197617,0.000464603
+"Decubitus ulcer","Females","5-9 years",0.0429753,0.000794431,0.000187783,0.000428652
+"Decubitus ulcer","Females","10-14 years",0.13603,0.00288172,0.000463897,0.00141019
+"Decubitus ulcer","Females","15-19 years",0.630854,0.0123559,0.00222875,0.00616819
+"Decubitus ulcer","Females","20-24 years",0.948925,0.0188641,0.00333156,0.00918455
+"Decubitus ulcer","Females","25-29 years",2.03779,0.0426936,0.0074986,0.0197665
+"Decubitus ulcer","Females","30-34 years",2.31948,0.047266,0.00972723,0.0234995
+"Decubitus ulcer","Females","35-39 years",3.55392,0.0726293,0.0129996,0.0358825
+"Decubitus ulcer","Females","40-44 years",5.95761,0.112183,0.025069,0.0572953
+"Decubitus ulcer","Females","45-49 years",11.0081,0.184303,0.0447853,0.0968285
+"Decubitus ulcer","Females","50-54 years",16.4978,0.295226,0.0569056,0.147086
+"Decubitus ulcer","Females","55-59 years",24.7754,0.530797,0.088746,0.247657
+"Decubitus ulcer","Females","60-64 years",36.9265,0.826804,0.177017,0.426559
+"Decubitus ulcer","Females","65-69 years",55.7643,1.73705,0.358672,0.86214
+"Decubitus ulcer","Females","70-74 years",88.6127,3.52345,0.801421,1.77021
+"Decubitus ulcer","Females","75-79 years",158.787,7.37005,1.81324,3.81907
+"Decubitus ulcer","Females","80+ years",1312.42,36.0358,8.15414,17.8977
+"Other neonatal disorders","Males","0-6 days",815.198,3196.03,1048.05,1934
+"Other neonatal disorders","Males","7-27 days",161.674,242.378,50.2341,128.155
+"Other neonatal disorders","Males","28-364 days",179.764,22.5283,2.44985,8.91648
+"Other neonatal disorders","Males","1-4 years",3.73432,0.114922,0.0122399,0.0434965
+"Other neonatal disorders","Females","0-6 days",671.056,2881.64,845.683,1669.67
+"Other neonatal disorders","Females","7-27 days",130.659,216.33,45.0069,108.582
+"Other neonatal disorders","Females","28-364 days",125.924,17.8584,2.00865,6.54619
+"Other neonatal disorders","Females","1-4 years",3.3657,0.113987,0.0104222,0.0410581
+"Iron-deficiency anemia","Males","28-364 days",0.574036,0.0597682,0.0119989,0.0284728
+"Iron-deficiency anemia","Males","1-4 years",0.697286,0.0171708,0.00311314,0.00812182
+"Iron-deficiency anemia","Males","5-9 years",0.526384,0.00994584,0.00183115,0.0050206
+"Iron-deficiency anemia","Males","10-14 years",0.856124,0.0183327,0.00287872,0.00847664
+"Iron-deficiency anemia","Males","15-19 years",1.97303,0.0375549,0.00712126,0.0183855
+"Iron-deficiency anemia","Males","20-24 years",2.38637,0.043421,0.00938206,0.0219084
+"Iron-deficiency anemia","Males","25-29 years",3.84302,0.0691979,0.0142084,0.0351815
+"Iron-deficiency anemia","Males","30-34 years",3.19341,0.0603775,0.0134206,0.0312485
+"Iron-deficiency anemia","Males","35-39 years",4.6854,0.0925464,0.0216303,0.0464824
+"Iron-deficiency anemia","Males","40-44 years",8.11427,0.145853,0.0359735,0.0776553
+"Iron-deficiency anemia","Males","45-49 years",13.8876,0.238616,0.0521842,0.124397
+"Iron-deficiency anemia","Males","50-54 years",21.6654,0.36472,0.095202,0.200198
+"Iron-deficiency anemia","Males","55-59 years",27.6523,0.527444,0.143464,0.292783
+"Iron-deficiency anemia","Males","60-64 years",39.1399,0.884331,0.240942,0.489841
+"Iron-deficiency anemia","Males","65-69 years",46.8989,1.4246,0.396961,0.820422
+"Iron-deficiency anemia","Males","70-74 years",59.9827,2.43386,0.714135,1.43679
+"Iron-deficiency anemia","Males","75-79 years",85.1628,4.41083,1.39021,2.69752
+"Iron-deficiency anemia","Males","80+ years",442.775,17.9382,5.65583,10.6205
+"Iron-deficiency anemia","Females","28-364 days",0.457899,0.0505664,0.00986044,0.023804
+"Iron-deficiency anemia","Females","1-4 years",0.631497,0.016943,0.00283098,0.00770363
+"Iron-deficiency anemia","Females","5-9 years",0.586762,0.0127561,0.00189979,0.00585259
+"Iron-deficiency anemia","Females","10-14 years",0.922821,0.0206058,0.00275,0.00956667
+"Iron-deficiency anemia","Females","15-19 years",1.66864,0.0352221,0.00536815,0.0163152
+"Iron-deficiency anemia","Females","20-24 years",2.12274,0.0425467,0.00788776,0.0205458
+"Iron-deficiency anemia","Females","25-29 years",2.77364,0.0522007,0.0115083,0.0269041
+"Iron-deficiency anemia","Females","30-34 years",3.54529,0.0676403,0.0161017,0.0359186
+"Iron-deficiency anemia","Females","35-39 years",6.4312,0.126992,0.0271744,0.0649332
+"Iron-deficiency anemia","Females","40-44 years",9.60811,0.188005,0.0407847,0.0924028
+"Iron-deficiency anemia","Females","45-49 years",16.7313,0.275715,0.0609548,0.14717
+"Iron-deficiency anemia","Females","50-54 years",20.118,0.350867,0.0707965,0.179362
+"Iron-deficiency anemia","Females","55-59 years",27.7378,0.53737,0.104506,0.277269
+"Iron-deficiency anemia","Females","60-64 years",38.3466,0.851119,0.165868,0.442964
+"Iron-deficiency anemia","Females","65-69 years",46.2953,1.21348,0.303957,0.715746
+"Iron-deficiency anemia","Females","70-74 years",67.7858,2.4201,0.589368,1.35415
+"Iron-deficiency anemia","Females","75-79 years",107.789,4.37827,1.23445,2.59248
+"Iron-deficiency anemia","Females","80+ years",953.635,20.7396,6.571,13.0048
+"Meningitis","Males","0-6 days",2.97757,14.6871,3.03741,7.06406
+"Meningitis","Males","7-27 days",9.78522,15.1005,3.12087,7.7565
+"Meningitis","Males","28-364 days",61.5632,5.75383,1.35863,3.0536
+"Meningitis","Males","1-4 years",47.3579,1.18585,0.214814,0.551614
+"Meningitis","Males","5-9 years",17.5736,0.309682,0.074234,0.167615
+"Meningitis","Males","10-14 years",17.1309,0.326654,0.0714018,0.169616
+"Meningitis","Males","15-19 years",28.0203,0.581089,0.112526,0.261104
+"Meningitis","Males","20-24 years",31.4518,0.567034,0.139482,0.288748
+"Meningitis","Males","25-29 years",29.2163,0.536937,0.133833,0.267465
+"Meningitis","Males","30-34 years",28.9012,0.533983,0.135006,0.282807
+"Meningitis","Males","35-39 years",41.3331,0.824766,0.188802,0.410053
+"Meningitis","Males","40-44 years",54.3904,0.990173,0.261658,0.520527
+"Meningitis","Males","45-49 years",87.0919,1.51318,0.394796,0.780114
+"Meningitis","Males","50-54 years",117.008,1.98489,0.549732,1.08121
+"Meningitis","Males","55-59 years",57.958,1.16219,0.307333,0.613661
+"Meningitis","Males","60-64 years",63.172,1.44008,0.387242,0.790605
+"Meningitis","Males","65-69 years",59.0414,1.79388,0.548654,1.03284
+"Meningitis","Males","70-74 years",62.504,2.85776,0.748884,1.49719
+"Meningitis","Males","75-79 years",72.5918,4.45807,1.15425,2.29933
+"Meningitis","Males","80+ years",195.094,9.51418,2.08914,4.67956
+"Meningitis","Females","0-6 days",2.63433,12.0933,3.09545,6.55453
+"Meningitis","Females","7-27 days",9.02541,14.002,3.21867,7.50042
+"Meningitis","Females","28-364 days",54.9735,5.27547,1.33031,2.85781
+"Meningitis","Females","1-4 years",41.8979,0.960363,0.217209,0.511112
+"Meningitis","Females","5-9 years",15.5026,0.295484,0.0734829,0.154629
+"Meningitis","Females","10-14 years",12.0937,0.263239,0.0531832,0.125372
+"Meningitis","Females","15-19 years",21.7055,0.45612,0.0825831,0.212226
+"Meningitis","Females","20-24 years",23.4021,0.465606,0.0899591,0.226507
+"Meningitis","Females","25-29 years",18.7344,0.371729,0.0741714,0.181723
+"Meningitis","Females","30-34 years",19.3834,0.377856,0.0884086,0.19638
+"Meningitis","Females","35-39 years",23.5494,0.4528,0.113603,0.237769
+"Meningitis","Females","40-44 years",33.568,0.598575,0.161429,0.322829
+"Meningitis","Females","45-49 years",46.7836,0.72379,0.197207,0.411514
+"Meningitis","Females","50-54 years",59.046,0.933631,0.263475,0.526424
+"Meningitis","Females","55-59 years",51.1108,0.95729,0.242725,0.510906
+"Meningitis","Females","60-64 years",57.1742,1.15703,0.31807,0.660453
+"Meningitis","Females","65-69 years",55.8832,1.54265,0.418819,0.863978
+"Meningitis","Females","70-74 years",62.4554,2.33646,0.577259,1.24767
+"Meningitis","Females","75-79 years",76.3103,3.36904,0.899025,1.83538
+"Meningitis","Females","80+ years",288.326,7.33635,1.74259,3.93194
+"Thyroid cancer","Males","10-14 years",0.763386,0.035525,0.000595045,0.00755842
+"Thyroid cancer","Males","15-19 years",1.71428,0.0537865,0.00260235,0.0159743
+"Thyroid cancer","Males","20-24 years",3.25521,0.0765332,0.00886533,0.029885
+"Thyroid cancer","Males","25-29 years",3.57057,0.0743217,0.0104284,0.0326874
+"Thyroid cancer","Males","30-34 years",5.62346,0.123124,0.0203766,0.0550273
+"Thyroid cancer","Males","35-39 years",8.9219,0.189465,0.0348234,0.0885114
+"Thyroid cancer","Males","40-44 years",16.9893,0.398144,0.0541076,0.162591
+"Thyroid cancer","Males","45-49 years",31.9839,0.616607,0.104116,0.286492
+"Thyroid cancer","Males","50-54 years",56.8885,1.14618,0.191768,0.525675
+"Thyroid cancer","Males","55-59 years",74.2031,1.63199,0.303166,0.785664
+"Thyroid cancer","Males","60-64 years",93.4816,2.25408,0.489943,1.16993
+"Thyroid cancer","Males","65-69 years",94.3244,3.18121,0.728383,1.65006
+"Thyroid cancer","Males","70-74 years",100.062,4.58701,0.980803,2.39682
+"Thyroid cancer","Males","75-79 years",93.0886,6.50464,1.11243,2.94857
+"Thyroid cancer","Males","80+ years",195.987,10.2355,1.68996,4.70097
+"Thyroid cancer","Females","10-14 years",1.44917,0.0634788,0.0014668,0.0150233
+"Thyroid cancer","Females","15-19 years",1.42119,0.0325826,0.00445634,0.0138957
+"Thyroid cancer","Females","20-24 years",2.06061,0.0443165,0.0069672,0.0199445
+"Thyroid cancer","Females","25-29 years",3.43958,0.0802668,0.0110849,0.0333637
+"Thyroid cancer","Females","30-34 years",4.93716,0.103344,0.0181618,0.0500201
+"Thyroid cancer","Females","35-39 years",8.11996,0.190032,0.0340713,0.081984
+"Thyroid cancer","Females","40-44 years",12.4918,0.241037,0.0527521,0.120135
+"Thyroid cancer","Females","45-49 years",26.4399,0.455502,0.09984,0.232569
+"Thyroid cancer","Females","50-54 years",41.7729,0.756159,0.150357,0.372425
+"Thyroid cancer","Females","55-59 years",71.2178,1.36802,0.300193,0.711898
+"Thyroid cancer","Females","60-64 years",96.6325,2.08293,0.531778,1.11626
+"Thyroid cancer","Females","65-69 years",103.14,3.02068,0.702571,1.59459
+"Thyroid cancer","Females","70-74 years",116.695,4.19045,1.11606,2.3312
+"Thyroid cancer","Females","75-79 years",145.163,6.4855,1.73524,3.49138
+"Thyroid cancer","Females","80+ years",397.427,9.52226,2.74015,5.41976
+"Nasopharynx cancer","Males","5-9 years",1.52578,0.0421702,0.00266317,0.0145527
+"Nasopharynx cancer","Males","10-14 years",3.26962,0.0972193,0.00597572,0.0323731
+"Nasopharynx cancer","Males","15-19 years",3.94273,0.0946319,0.00954574,0.0367399
+"Nasopharynx cancer","Males","20-24 years",5.89336,0.120658,0.0174941,0.054105
+"Nasopharynx cancer","Males","25-29 years",6.96317,0.152638,0.0225954,0.0637454
+"Nasopharynx cancer","Males","30-34 years",9.81632,0.210613,0.0338762,0.0960557
+"Nasopharynx cancer","Males","35-39 years",18.6299,0.374086,0.068391,0.184822
+"Nasopharynx cancer","Males","40-44 years",40.8312,0.90613,0.128964,0.390763
+"Nasopharynx cancer","Males","45-49 years",82.7709,1.64825,0.261232,0.741409
+"Nasopharynx cancer","Males","50-54 years",103.394,1.85407,0.416185,0.955409
+"Nasopharynx cancer","Males","55-59 years",124.885,2.51747,0.599751,1.32229
+"Nasopharynx cancer","Males","60-64 years",132.534,3.08843,0.770634,1.65868
+"Nasopharynx cancer","Males","65-69 years",118.466,3.67148,1.0382,2.07238
+"Nasopharynx cancer","Males","70-74 years",106.909,4.52647,1.32805,2.56084
+"Nasopharynx cancer","Males","75-79 years",83.3414,5.41723,1.10058,2.63982
+"Nasopharynx cancer","Males","80+ years",126.404,6.21724,1.27146,3.03195
+"Nasopharynx cancer","Females","5-9 years",0.878971,0.0260689,0.00145549,0.00876719
+"Nasopharynx cancer","Females","10-14 years",1.6438,0.053063,0.00269849,0.0170409
+"Nasopharynx cancer","Females","15-19 years",2.2414,0.0957219,0.00165342,0.0219153
+"Nasopharynx cancer","Females","20-24 years",3.50172,0.101336,0.00829443,0.0338928
+"Nasopharynx cancer","Females","25-29 years",3.02244,0.0912455,0.00493384,0.0293175
+"Nasopharynx cancer","Females","30-34 years",4.84661,0.127259,0.0118222,0.0491028
+"Nasopharynx cancer","Females","35-39 years",12.4024,0.318708,0.0409039,0.125222
+"Nasopharynx cancer","Females","40-44 years",16.102,0.358677,0.048096,0.154855
+"Nasopharynx cancer","Females","45-49 years",33.1954,0.680775,0.0933512,0.291991
+"Nasopharynx cancer","Females","50-54 years",39.1187,0.707268,0.148132,0.348762
+"Nasopharynx cancer","Females","55-59 years",56.1618,1.18206,0.229618,0.561396
+"Nasopharynx cancer","Females","60-64 years",61.901,1.33639,0.309025,0.715054
+"Nasopharynx cancer","Females","65-69 years",61.5923,1.9339,0.409512,0.952244
+"Nasopharynx cancer","Females","70-74 years",53.6061,1.95231,0.499186,1.07088
+"Nasopharynx cancer","Females","75-79 years",53.0667,2.63634,0.511971,1.27634
+"Nasopharynx cancer","Females","80+ years",112.368,3.11779,0.694028,1.53238
+"Other meningitis","Males","0-6 days",2.02634,9.98789,2.05792,4.80733
+"Other meningitis","Males","7-27 days",6.65611,10.4716,2.07395,5.27614
+"Other meningitis","Males","28-364 days",41.939,4.02512,0.908398,2.08022
+"Other meningitis","Males","1-4 years",18.3955,0.452508,0.0831014,0.214267
+"Other meningitis","Males","5-9 years",6.1575,0.112485,0.0252691,0.0587296
+"Other meningitis","Males","10-14 years",7.58584,0.146764,0.0315451,0.0751087
+"Other meningitis","Males","15-19 years",14.472,0.2948,0.0577621,0.134856
+"Other meningitis","Males","20-24 years",18.1008,0.328899,0.0799336,0.166178
+"Other meningitis","Males","25-29 years",17.8154,0.324705,0.0817955,0.163094
+"Other meningitis","Males","30-34 years",17.8603,0.331224,0.0832651,0.174769
+"Other meningitis","Males","35-39 years",26.0054,0.51441,0.117928,0.257992
+"Other meningitis","Males","40-44 years",34.9201,0.633246,0.168945,0.334193
+"Other meningitis","Males","45-49 years",57.2741,0.997518,0.253873,0.513025
+"Other meningitis","Males","50-54 years",78.5325,1.31711,0.366922,0.725675
+"Other meningitis","Males","55-59 years",39.5615,0.805404,0.20649,0.418877
+"Other meningitis","Males","60-64 years",43.698,0.984026,0.264072,0.546886
+"Other meningitis","Males","65-69 years",41.4216,1.26765,0.385967,0.724606
+"Other meningitis","Males","70-74 years",44.6747,2.03799,0.533333,1.07011
+"Other meningitis","Males","75-79 years",53.1053,3.23296,0.836591,1.6821
+"Other meningitis","Males","80+ years",149.24,7.32671,1.58467,3.5797
+"Other meningitis","Females","0-6 days",1.7878,8.2593,2.07408,4.44826
+"Other meningitis","Females","7-27 days",6.12405,9.43345,2.19539,5.0893
+"Other meningitis","Females","28-364 days",37.2971,3.57836,0.904175,1.9389
+"Other meningitis","Females","1-4 years",16.2416,0.381529,0.0786413,0.198132
+"Other meningitis","Females","5-9 years",5.41716,0.103743,0.0254691,0.0540328
+"Other meningitis","Females","10-14 years",5.33047,0.115789,0.0234752,0.0552598
+"Other meningitis","Females","15-19 years",11.1592,0.233921,0.0411391,0.109109
+"Other meningitis","Females","20-24 years",13.4067,0.266598,0.0508149,0.129762
+"Other meningitis","Females","25-29 years",11.372,0.22815,0.0440393,0.110307
+"Other meningitis","Females","30-34 years",11.9337,0.230954,0.0545855,0.120904
+"Other meningitis","Females","35-39 years",14.7652,0.284248,0.0710742,0.149078
+"Other meningitis","Females","40-44 years",21.5125,0.384459,0.10343,0.206889
+"Other meningitis","Females","45-49 years",30.6763,0.47664,0.130332,0.269832
+"Other meningitis","Females","50-54 years",39.5269,0.635857,0.178159,0.352402
+"Other meningitis","Females","55-59 years",34.7785,0.656997,0.163905,0.347648
+"Other meningitis","Females","60-64 years",39.4441,0.806603,0.224385,0.455642
+"Other meningitis","Females","65-69 years",39.0888,1.06792,0.288259,0.60433
+"Other meningitis","Females","70-74 years",44.5109,1.70536,0.413029,0.889189
+"Other meningitis","Females","75-79 years",55.6199,2.45103,0.653225,1.33774
+"Other meningitis","Females","80+ years",220.238,5.70623,1.33588,3.00341
+"Tuberculosis","Males","0-6 days",0,0,0,0
+"Tuberculosis","Males","7-27 days",0,0,0,0
+"Tuberculosis","Males","28-364 days",0.638848,0.0691505,0.0141776,0.0316875
+"Tuberculosis","Males","1-4 years",1.03375,0.0238018,0.00540578,0.0120409
+"Tuberculosis","Males","5-9 years",0.421816,0.00825035,0.00170454,0.00402324
+"Tuberculosis","Males","10-14 years",0.520372,0.0106963,0.00225646,0.0051523
+"Tuberculosis","Males","15-19 years",1.07745,0.0195305,0.0043524,0.0100401
+"Tuberculosis","Males","20-24 years",4.16293,0.0796435,0.0146501,0.0382184
+"Tuberculosis","Males","25-29 years",6.51576,0.123974,0.0232292,0.0596495
+"Tuberculosis","Males","30-34 years",8.79674,0.188518,0.0326569,0.0860788
+"Tuberculosis","Males","35-39 years",13.2891,0.284894,0.0531279,0.131837
+"Tuberculosis","Males","40-44 years",21.5193,0.416759,0.0865952,0.205944
+"Tuberculosis","Males","45-49 years",37.5746,0.646679,0.155404,0.33657
+"Tuberculosis","Males","50-54 years",50.9366,0.871028,0.237091,0.470677
+"Tuberculosis","Males","55-59 years",57.2995,1.11428,0.303314,0.606688
+"Tuberculosis","Males","60-64 years",67.4768,1.50665,0.452286,0.84448
+"Tuberculosis","Males","65-69 years",61.68,1.8331,0.600314,1.07899
+"Tuberculosis","Males","70-74 years",69.6469,2.927,0.950988,1.66828
+"Tuberculosis","Males","75-79 years",81.68,4.603,1.344,2.5872
+"Tuberculosis","Males","80+ years",252.589,10.9577,3.11316,6.05864
+"Tuberculosis","Females","0-6 days",0,0,0,0
+"Tuberculosis","Females","7-27 days",0,0,0,0
+"Tuberculosis","Females","28-364 days",0.601909,0.0671326,0.012281,0.0312904
+"Tuberculosis","Females","1-4 years",0.812528,0.0216916,0.00364594,0.00991201
+"Tuberculosis","Females","5-9 years",0.559509,0.0149967,0.00176303,0.00558075
+"Tuberculosis","Females","10-14 years",0.431407,0.0110614,0.00150711,0.0044723
+"Tuberculosis","Females","15-19 years",0.784504,0.0179362,0.00194923,0.0076705
+"Tuberculosis","Females","20-24 years",3.41909,0.0820841,0.00768482,0.033093
+"Tuberculosis","Females","25-29 years",4.48769,0.105196,0.0122222,0.0435303
+"Tuberculosis","Females","30-34 years",4.95297,0.113276,0.0172747,0.0501804
+"Tuberculosis","Females","35-39 years",6.88526,0.147074,0.0251635,0.0695177
+"Tuberculosis","Females","40-44 years",8.31135,0.18833,0.0296709,0.0799316
+"Tuberculosis","Females","45-49 years",15.8576,0.280063,0.0562681,0.139485
+"Tuberculosis","Females","50-54 years",18.3435,0.318126,0.0767531,0.163541
+"Tuberculosis","Females","55-59 years",23.9543,0.468471,0.106646,0.239448
+"Tuberculosis","Females","60-64 years",29.887,0.665502,0.160698,0.345242
+"Tuberculosis","Females","65-69 years",40.5186,1.14821,0.2975,0.626435
+"Tuberculosis","Females","70-74 years",50.8579,1.80103,0.504465,1.01598
+"Tuberculosis","Females","75-79 years",64.4499,2.67223,0.768611,1.55012
+"Tuberculosis","Females","80+ years",262.288,6.15468,1.84348,3.57686
+"Hepatitis","Males","28-364 days",0.660533,0.0667142,0.0132781,0.0327631
+"Hepatitis","Males","1-4 years",0.810741,0.0198163,0.00367861,0.00944332
+"Hepatitis","Males","5-9 years",0.487011,0.00975344,0.0018531,0.00464506
+"Hepatitis","Males","10-14 years",0.589777,0.0126192,0.00243879,0.00583949
+"Hepatitis","Males","15-19 years",1.65491,0.0302926,0.00655048,0.0154211
+"Hepatitis","Males","20-24 years",3.44119,0.0634319,0.0136457,0.0315924
+"Hepatitis","Males","25-29 years",6.32746,0.111347,0.0258473,0.0579258
+"Hepatitis","Males","30-34 years",10.3336,0.197384,0.0411963,0.101117
+"Hepatitis","Males","35-39 years",19.682,0.388241,0.0885644,0.195259
+"Hepatitis","Males","40-44 years",40.4576,0.743143,0.180516,0.387188
+"Hepatitis","Males","45-49 years",88.145,1.45309,0.39347,0.789548
+"Hepatitis","Males","50-54 years",121.226,2.07034,0.569992,1.12019
+"Hepatitis","Males","55-59 years",113.441,2.14694,0.599174,1.20112
+"Hepatitis","Males","60-64 years",88.2932,2.08347,0.570219,1.105
+"Hepatitis","Males","65-69 years",61.7892,2.02081,0.545125,1.0809
+"Hepatitis","Males","70-74 years",50.0247,2.19177,0.585182,1.19826
+"Hepatitis","Males","75-79 years",45.2882,2.62031,0.706245,1.4345
+"Hepatitis","Males","80+ years",73.1516,3.22233,0.852258,1.75462
+"Hepatitis","Females","28-364 days",0.56817,0.0571942,0.0128185,0.0295364
+"Hepatitis","Females","1-4 years",0.92802,0.0218085,0.00517056,0.0113209
+"Hepatitis","Females","5-9 years",0.620426,0.0116766,0.00273211,0.00618837
+"Hepatitis","Females","10-14 years",0.643671,0.013839,0.00276287,0.00667279
+"Hepatitis","Females","15-19 years",1.29625,0.0276784,0.00492487,0.0126741
+"Hepatitis","Females","20-24 years",2.8318,0.0592035,0.0103927,0.0274087
+"Hepatitis","Females","25-29 years",3.1985,0.0700419,0.011605,0.0310252
+"Hepatitis","Females","30-34 years",7.03356,0.138252,0.0314305,0.0712595
+"Hepatitis","Females","35-39 years",11.7575,0.214583,0.0574339,0.11871
+"Hepatitis","Females","40-44 years",19.5985,0.337825,0.0946257,0.188482
+"Hepatitis","Females","45-49 years",34.5975,0.528726,0.163345,0.304324
+"Hepatitis","Females","50-54 years",48.8544,0.766208,0.22047,0.435561
+"Hepatitis","Females","55-59 years",49.7184,0.937429,0.239532,0.496989
+"Hepatitis","Females","60-64 years",48.6598,1.04113,0.279715,0.562097
+"Hepatitis","Females","65-69 years",45.0927,1.32799,0.323163,0.697152
+"Hepatitis","Females","70-74 years",37.6278,1.36378,0.387992,0.751686
+"Hepatitis","Females","75-79 years",37.292,1.6624,0.444604,0.896931
+"Hepatitis","Females","80+ years",79.1171,1.88618,0.560114,1.07893
